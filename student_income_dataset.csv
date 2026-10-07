@@ -1,0 +1,1001 @@
+Student ID,Student Name,Enrollment Date,Enrollment Month,Batch,Department,Course,Sales Executive Name,Mode of Payment,EMI Plan,Total Installments,Installments Paid,Course Fee (INR),Amount Paid (INR),Balance Due (INR),Payment Status,Last Payment Date,Next Due Date
+STU10001,Mohammed Kumar,2024-01-26,Jan-2024,Batch-2024-09,Web Development,Full Stack Web Development,Sundar Raj,Cash,No EMI (Full Payment),1,0,57000,0,57000,Overdue,,2024-02-25
+STU10002,Swathi Gupta,2024-02-02,Feb-2024,Batch-2024-02,Data Science,Machine Learning Bootcamp,Meera Pillai,Cheque,6-Month EMI,6,6,64000,64000,0,Fully Paid,2024-12-30,
+STU10003,Zaid Roy,2025-03-05,Mar-2025,Batch-2025-04,Design,Motion Graphics & Animation,Vishal Reddy,Net Banking,9-Month EMI,9,7,44500,34611,9889,Partially Paid,2025-05-31,2025-10-31
+STU10004,Riya Krishnan,2024-08-08,Aug-2024,Batch-2025-08,Digital Marketing,Digital Marketing Fundamentals,Priyanka Nair,UPI,No EMI (Full Payment),1,1,25000,25000,0,Fully Paid,2024-12-21,
+STU10005,Bibin Menon,2025-04-15,Apr-2025,Batch-2025-08,Data Science,AI & Deep Learning,Priyanka Nair,Cheque,No EMI (Full Payment),1,1,72000,72000,0,Partially Paid,2025-04-26,
+STU10006,Imran Warrier,2024-10-23,Oct-2024,Batch-2024-11,Business Management,MBA Prep & Aptitude,Priyanka Nair,UPI,No EMI (Full Payment),1,1,34000,34000,0,Fully Paid,2025-04-22,
+STU10007,Aadhya George,2024-09-30,Sep-2024,Batch-2025-08,Finance,Tally & GST Practitioner,Priyanka Nair,Cheque,6-Month EMI,6,2,16500,5500,11000,Partially Paid,2025-05-24,2024-12-29
+STU10008,Sandeep Panicker,2025-07-24,Jul-2025,Batch-2025-07,Finance,Investment Banking Prep,Anand Menon,Credit Card,9-Month EMI,9,9,63000,63000,0,Fully Paid,2025-08-27,
+STU10009,Arjun Varma,2025-08-03,Aug-2025,Batch-2025-09,Web Development,Backend Development (Node.js),Divya Krishnan,UPI,9-Month EMI,9,9,35500,35500,0,Fully Paid,2025-08-11,
+STU10010,Myra Jacob,2025-07-28,Jul-2025,Batch-2025-09,Digital Marketing,Social Media Marketing Pro,Sneha Varma,UPI,9-Month EMI,9,9,18500,18500,0,Fully Paid,2025-08-14,
+STU10011,Meera Singh,2024-04-03,Apr-2024,Batch-2024-05,Business Management,MBA Prep & Aptitude,Sundar Raj,Cash,No EMI (Full Payment),1,1,35000,35000,0,Partially Paid,2024-10-15,
+STU10012,Anjali Verma,2025-06-25,Jun-2025,Batch-2025-08,Cloud & DevOps,AWS Cloud Practitioner,Priyanka Nair,Cash,9-Month EMI,9,9,31000,31000,0,Fully Paid,2025-09-15,
+STU10013,Karthik Kumar,2024-10-27,Oct-2024,Batch-2025-04,Web Development,Frontend Development (React),Anand Menon,Cash,9-Month EMI,9,0,29500,0,29500,Pending (Not Started),,2024-11-11
+STU10014,Nazia Iyer,2025-06-03,Jun-2025,Batch-2025-06,Business Management,Project Management Professional,Vishal Reddy,Net Banking,6-Month EMI,6,6,45000,45000,0,Fully Paid,2025-07-20,
+STU10015,Nazia Iyer,2025-07-06,Jul-2025,Batch-2025-09,Data Science,Advanced Data Analytics,Divya Krishnan,Online Transfer,No EMI (Full Payment),1,1,46000,46000,0,Overdue,2025-08-05,
+STU10016,Vihaan Warrier,2025-08-03,Aug-2025,Batch-2025-08,Data Science,AI & Deep Learning,Priyanka Nair,Net Banking,3-Month EMI,3,3,64000,64000,0,Fully Paid,2025-09-02,
+STU10017,Nithya Iyer,2024-09-28,Sep-2024,Batch-2025-05,Business Management,Project Management Professional,Joseph Thomas,Credit Card,12-Month EMI,12,7,38500,22458,16042,Partially Paid,2025-09-06,2025-05-26
+STU10018,Farhan Reddy,2025-03-24,Mar-2025,Batch-2025-07,Design,UI/UX Design Masterclass,Meera Pillai,Credit Card,No EMI (Full Payment),1,1,30500,30500,0,Partially Paid,2025-08-21,
+STU10019,Kiara Nair,2024-03-13,Mar-2024,Batch-2024-04,Web Development,Full Stack Web Development,Anand Menon,Net Banking,3-Month EMI,3,3,53500,53500,0,Fully Paid,2025-02-18,
+STU10020,Divya Varma,2025-07-06,Jul-2025,Batch-2025-07,Finance,Tally & GST Practitioner,Sneha Varma,UPI,No EMI (Full Payment),1,1,16000,16000,0,Partially Paid,2025-07-18,
+STU10021,Sai George,2025-03-17,Mar-2025,Batch-2025-05,Design,Graphic Design Professional,Divya Krishnan,Net Banking,6-Month EMI,6,1,27500,4583,22917,Partially Paid,2025-04-01,2025-05-16
+STU10022,Gokul Jacob,2024-12-13,Dec-2024,Batch-2025-01,Web Development,Full Stack Web Development,Meera Pillai,Cheque,3-Month EMI,3,3,52000,52000,0,Fully Paid,2025-08-06,
+STU10023,Myra Varghese,2024-03-18,Mar-2024,Batch-2025-05,Business Management,Project Management Professional,Priyanka Nair,Online Transfer,6-Month EMI,6,1,44000,7333,36667,Partially Paid,2025-04-07,2024-05-17
+STU10024,Nithin Warrier,2024-06-19,Jun-2024,Batch-2025-07,Design,Graphic Design Professional,Meera Pillai,Net Banking,3-Month EMI,3,3,22500,22500,0,Fully Paid,2024-06-20,
+STU10025,Sandeep Panicker,2025-04-10,Apr-2025,Batch-2025-06,Design,Motion Graphics & Animation,Arun Prasad,Cash,6-Month EMI,6,6,34500,34500,0,Fully Paid,2025-06-04,
+STU10026,Vihaan Bose,2025-07-09,Jul-2025,Batch-2025-07,Finance,Investment Banking Prep,Anand Menon,Online Transfer,6-Month EMI,6,4,58000,38666,19334,Overdue,2025-07-29,2025-12-06
+STU10027,Vihaan Das,2024-03-23,Mar-2024,Batch-2024-08,Data Science,Data Science Foundation,Meera Pillai,UPI,No EMI (Full Payment),1,1,44500,44500,0,Fully Paid,2025-01-21,
+STU10028,Aditya Mukherjee,2024-03-24,Mar-2024,Batch-2025-04,Finance,Tally & GST Practitioner,Sneha Varma,Cheque,3-Month EMI,3,3,14000,14000,0,Fully Paid,2025-03-25,
+STU10029,Rahul Warrier,2024-09-28,Sep-2024,Batch-2025-03,Web Development,Backend Development (Node.js),Vishal Reddy,UPI,3-Month EMI,3,3,29000,29000,0,Fully Paid,2025-08-12,
+STU10030,Deepa Kumar,2024-03-16,Mar-2024,Batch-2025-08,Web Development,Backend Development (Node.js),Vishal Reddy,Credit Card,12-Month EMI,12,5,29000,12083,16917,Overdue,2024-08-08,2024-09-12
+STU10031,Ananya Verma,2025-07-10,Jul-2025,Batch-2025-09,Digital Marketing,Social Media Marketing Pro,Arun Prasad,Online Transfer,6-Month EMI,6,6,19500,19500,0,Fully Paid,2025-07-23,
+STU10032,Vipin Krishnan,2024-09-27,Sep-2024,Batch-2024-10,Data Science,Machine Learning Bootcamp,Vishal Reddy,Debit Card,6-Month EMI,6,6,67000,67000,0,Fully Paid,2025-09-13,
+STU10033,Mohammed Varghese,2024-09-27,Sep-2024,Batch-2025-05,Design,Graphic Design Professional,Anand Menon,Online Transfer,6-Month EMI,6,6,29000,29000,0,Fully Paid,2024-09-28,
+STU10034,Karthik Joseph,2024-05-13,May-2024,Batch-2025-01,Web Development,Backend Development (Node.js),Divya Krishnan,Cheque,6-Month EMI,6,6,37000,37000,0,Fully Paid,2024-06-20,
+STU10035,Vipin Mathew,2024-06-01,Jun-2024,Batch-2024-07,Business Management,Business Analytics,Sneha Varma,Cheque,No EMI (Full Payment),1,1,34000,34000,0,Fully Paid,2024-12-04,
+STU10036,Anoop Philip,2024-02-10,Feb-2024,Batch-2025-01,Web Development,Backend Development (Node.js),Meera Pillai,Cash,No EMI (Full Payment),1,1,37000,37000,0,Overdue,2024-12-23,
+STU10037,Sana Krishnan,2024-08-30,Aug-2024,Batch-2025-09,Web Development,Full Stack Web Development,Joseph Thomas,Online Transfer,No EMI (Full Payment),1,1,50500,50500,0,Partially Paid,2025-08-07,
+STU10038,Sarath Jacob,2024-09-11,Sep-2024,Batch-2025-01,Web Development,Backend Development (Node.js),Priyanka Nair,UPI,9-Month EMI,9,9,35500,35500,0,Fully Paid,2025-05-04,
+STU10039,Vishnu Namboothiri,2024-08-21,Aug-2024,Batch-2024-11,Data Science,Machine Learning Bootcamp,Joseph Thomas,Debit Card,No EMI (Full Payment),1,0,56000,0,56000,Pending (Not Started),,2024-09-05
+STU10040,Riya Reddy,2025-06-05,Jun-2025,Batch-2025-09,Finance,Tally & GST Practitioner,Fathima Rasheed,Online Transfer,No EMI (Full Payment),1,1,14000,14000,0,Fully Paid,2025-07-08,
+STU10041,Aditya Kumar,2025-09-02,Sep-2025,Batch-2025-09,Digital Marketing,Social Media Marketing Pro,Fathima Rasheed,UPI,6-Month EMI,6,6,19000,19000,0,Fully Paid,2025-09-30,
+STU10042,Deepa Varma,2024-09-17,Sep-2024,Batch-2024-09,Finance,Investment Banking Prep,Anand Menon,Cheque,12-Month EMI,12,11,59000,54083,4917,Partially Paid,2024-12-26,2025-09-12
+STU10043,Naveen Gupta,2024-03-12,Mar-2024,Batch-2025-01,Cloud & DevOps,DevOps Engineering,Priyanka Nair,Cash,12-Month EMI,12,12,48500,48500,0,Fully Paid,2024-10-07,
+STU10044,Rahul Rao,2024-10-29,Oct-2024,Batch-2025-06,Web Development,Full Stack Web Development,Joseph Thomas,Cash,12-Month EMI,12,3,56000,14000,42000,Partially Paid,2025-09-09,2025-02-26
+STU10045,Deepa Namboothiri,2025-02-19,Feb-2025,Batch-2025-02,Digital Marketing,Advanced SEO & SEM,Meera Pillai,UPI,6-Month EMI,6,4,25000,16666,8334,Partially Paid,2025-06-12,2025-07-19
+STU10046,Vignesh George,2024-08-06,Aug-2024,Batch-2025-04,Design,Motion Graphics & Animation,Sundar Raj,Cash,No EMI (Full Payment),1,1,40500,40500,0,Partially Paid,2024-09-22,
+STU10047,Christy Joseph,2024-08-28,Aug-2024,Batch-2025-06,Digital Marketing,Digital Marketing Fundamentals,Meera Pillai,Credit Card,No EMI (Full Payment),1,0,20000,0,20000,Pending (Not Started),,2024-09-12
+STU10048,Kavya Varghese,2024-03-15,Mar-2024,Batch-2025-05,Design,Motion Graphics & Animation,Sneha Varma,Credit Card,6-Month EMI,6,6,38500,38500,0,Fully Paid,2024-07-17,
+STU10049,Rohan Thomas,2024-01-06,Jan-2024,Batch-2024-04,Business Management,Business Analytics,Meera Pillai,Credit Card,9-Month EMI,9,9,40500,40500,0,Fully Paid,2024-10-17,
+STU10050,Myra Philip,2024-05-04,May-2024,Batch-2025-07,Web Development,Frontend Development (React),Arun Prasad,Cheque,6-Month EMI,6,5,32500,27083,5417,Partially Paid,2024-12-08,2024-10-31
+STU10051,Jerin Philip,2025-07-15,Jul-2025,Batch-2025-08,Web Development,Backend Development (Node.js),Divya Krishnan,UPI,No EMI (Full Payment),1,1,32000,32000,0,Partially Paid,2025-09-19,
+STU10052,Divya Thomas,2024-09-01,Sep-2024,Batch-2025-01,Design,UI/UX Design Masterclass,Vishal Reddy,Credit Card,No EMI (Full Payment),1,0,35000,0,35000,Overdue,,2024-10-01
+STU10053,Ishaan Krishnan,2024-08-24,Aug-2024,Batch-2025-02,Finance,Financial Modeling & Valuation,Meera Pillai,Online Transfer,3-Month EMI,3,3,40500,40500,0,Fully Paid,2025-03-24,
+STU10054,Vihaan Varma,2025-03-06,Mar-2025,Batch-2025-06,Business Management,Project Management Professional,Anand Menon,Net Banking,9-Month EMI,9,9,44500,44500,0,Fully Paid,2025-03-07,
+STU10055,Vishnu Namboothiri,2025-02-03,Feb-2025,Batch-2025-08,Cloud & DevOps,Azure Solutions Architect,Arun Prasad,Net Banking,6-Month EMI,6,6,41500,41500,0,Fully Paid,2025-04-13,
+STU10056,Suresh Singh,2024-01-30,Jan-2024,Batch-2025-01,Digital Marketing,Social Media Marketing Pro,Joseph Thomas,Cash,No EMI (Full Payment),1,0,19000,0,19000,Overdue,,2024-02-29
+STU10057,Renjith Rao,2025-08-29,Aug-2025,Batch-2025-08,Data Science,AI & Deep Learning,Sundar Raj,Net Banking,3-Month EMI,3,3,61500,61500,0,Fully Paid,2025-09-18,
+STU10058,Aadhya Verma,2024-11-30,Nov-2024,Batch-2025-04,Business Management,Business Analytics,Vishal Reddy,Net Banking,12-Month EMI,12,12,39000,39000,0,Fully Paid,2025-01-10,
+STU10059,Priya Nair,2025-07-06,Jul-2025,Batch-2025-07,Digital Marketing,Digital Marketing Fundamentals,Priyanka Nair,Net Banking,12-Month EMI,12,4,18500,6166,12334,Partially Paid,2025-07-31,2025-12-03
+STU10060,Jerin Nair,2025-09-28,Sep-2025,Batch-2025-09,Web Development,Full Stack Web Development,Divya Krishnan,Cash,No EMI (Full Payment),1,1,48500,48500,0,Fully Paid,2025-09-29,
+STU10061,Rukhsar Reddy,2024-06-20,Jun-2024,Batch-2024-09,Business Management,MBA Prep & Aptitude,Vishal Reddy,Online Transfer,6-Month EMI,6,4,33000,22000,11000,Partially Paid,2025-01-09,2024-11-17
+STU10062,Fatima Varma,2024-03-18,Mar-2024,Batch-2025-09,Finance,Tally & GST Practitioner,Meera Pillai,Online Transfer,6-Month EMI,6,4,14500,9666,4834,Overdue,2024-05-18,2024-08-15
+STU10063,Akhil Bose,2024-02-12,Feb-2024,Batch-2025-01,Cloud & DevOps,DevOps Engineering,Fathima Rasheed,Online Transfer,3-Month EMI,3,3,45500,45500,0,Fully Paid,2024-09-14,
+STU10064,Christy Singh,2024-04-18,Apr-2024,Batch-2025-05,Digital Marketing,Social Media Marketing Pro,Divya Krishnan,Cash,No EMI (Full Payment),1,1,16500,16500,0,Partially Paid,2025-02-27,
+STU10065,Bibin Philip,2025-07-05,Jul-2025,Batch-2025-08,Design,Graphic Design Professional,Sneha Varma,Debit Card,3-Month EMI,3,1,24000,8000,16000,Partially Paid,2025-08-09,2025-09-03
+STU10066,Vipin Verma,2024-09-06,Sep-2024,Batch-2025-09,Design,Motion Graphics & Animation,Sneha Varma,Cash,3-Month EMI,3,3,32500,32500,0,Fully Paid,2025-02-19,
+STU10067,Diya Singh,2024-08-05,Aug-2024,Batch-2025-01,Business Management,Business Analytics,Fathima Rasheed,Debit Card,9-Month EMI,9,4,36500,16222,20278,Partially Paid,2024-09-17,2025-01-02
+STU10068,Myra Jacob,2025-02-20,Feb-2025,Batch-2025-09,Cloud & DevOps,AWS Cloud Practitioner,Divya Krishnan,Cash,6-Month EMI,6,1,28500,4750,23750,Partially Paid,2025-05-06,2025-04-21
+STU10069,Kiara Rao,2024-09-06,Sep-2024,Batch-2025-01,Finance,Tally & GST Practitioner,Fathima Rasheed,UPI,6-Month EMI,6,6,15000,15000,0,Fully Paid,2025-09-22,
+STU10070,Nithya Sharma,2024-12-26,Dec-2024,Batch-2025-07,Digital Marketing,Advanced SEO & SEM,Vishal Reddy,Credit Card,No EMI (Full Payment),1,1,21500,21500,0,Fully Paid,2025-09-26,
+STU10071,Nazia Mathew,2024-07-08,Jul-2024,Batch-2024-10,Web Development,Backend Development (Node.js),Divya Krishnan,Debit Card,6-Month EMI,6,1,36500,6083,30417,Partially Paid,2024-10-15,2024-09-06
+STU10072,Ishita Warrier,2025-01-04,Jan-2025,Batch-2025-03,Digital Marketing,Digital Marketing Fundamentals,Arun Prasad,Credit Card,No EMI (Full Payment),1,1,18500,18500,0,Partially Paid,2025-09-12,
+STU10073,Sai Varghese,2024-01-13,Jan-2024,Batch-2025-07,Digital Marketing,Advanced SEO & SEM,Divya Krishnan,UPI,3-Month EMI,3,3,28000,28000,0,Fully Paid,2024-09-13,
+STU10074,Krishna Kurian,2024-03-07,Mar-2024,Batch-2025-03,Design,UI/UX Design Masterclass,Sneha Varma,Cash,6-Month EMI,6,6,32500,32500,0,Fully Paid,2024-12-20,
+STU10075,Navya Pillai,2024-09-11,Sep-2024,Batch-2024-10,Cloud & DevOps,DevOps Engineering,Sneha Varma,Cheque,6-Month EMI,6,4,43500,29000,14500,Partially Paid,2025-04-29,2025-02-08
+STU10076,Renjith Verma,2024-10-31,Oct-2024,Batch-2025-07,Design,Graphic Design Professional,Sneha Varma,Cheque,No EMI (Full Payment),1,1,30000,30000,0,Partially Paid,2025-09-16,
+STU10077,Aadhya Panicker,2024-03-24,Mar-2024,Batch-2024-08,Web Development,Full Stack Web Development,Arun Prasad,Online Transfer,No EMI (Full Payment),1,1,51500,51500,0,Fully Paid,2025-01-22,
+STU10078,Priya Namboothiri,2024-02-03,Feb-2024,Batch-2024-09,Digital Marketing,Social Media Marketing Pro,Vishal Reddy,Cash,9-Month EMI,9,5,15500,8611,6889,Partially Paid,2024-12-19,2024-08-01
+STU10079,Swathi George,2024-07-21,Jul-2024,Batch-2025-01,Data Science,Machine Learning Bootcamp,Sundar Raj,Debit Card,9-Month EMI,9,9,56000,56000,0,Fully Paid,2024-12-25,
+STU10080,Anjali Jacob,2025-08-05,Aug-2025,Batch-2025-09,Design,UI/UX Design Masterclass,Divya Krishnan,Cash,3-Month EMI,3,2,36500,24333,12167,Overdue,2025-09-08,2025-11-03
+STU10081,Divya Verma,2024-03-23,Mar-2024,Batch-2024-04,Design,Motion Graphics & Animation,Fathima Rasheed,Cheque,No EMI (Full Payment),1,1,33500,33500,0,Fully Paid,2025-03-03,
+STU10082,Jerin Varghese,2025-08-12,Aug-2025,Batch-2025-08,Business Management,Project Management Professional,Vishal Reddy,Cheque,No EMI (Full Payment),1,1,38000,38000,0,Fully Paid,2025-09-22,
+STU10083,Vignesh Philip,2024-10-11,Oct-2024,Batch-2024-12,Cloud & DevOps,DevOps Engineering,Divya Krishnan,Online Transfer,3-Month EMI,3,3,46500,46500,0,Fully Paid,2025-09-19,
+STU10084,Sai Varghese,2024-06-13,Jun-2024,Batch-2025-04,Design,Motion Graphics & Animation,Divya Krishnan,Debit Card,6-Month EMI,6,5,38500,32083,6417,Partially Paid,2024-07-01,2024-12-10
+STU10085,Mahesh Pillai,2024-11-18,Nov-2024,Batch-2025-03,Digital Marketing,Digital Marketing Fundamentals,Joseph Thomas,Net Banking,3-Month EMI,3,2,18000,12000,6000,Partially Paid,2025-06-17,2025-02-16
+STU10086,Vihaan Varma,2025-06-14,Jun-2025,Batch-2025-08,Cloud & DevOps,DevOps Engineering,Divya Krishnan,Net Banking,No EMI (Full Payment),1,1,44500,44500,0,Fully Paid,2025-07-20,
+STU10087,Vignesh Chacko,2025-05-11,May-2025,Batch-2025-05,Data Science,Machine Learning Bootcamp,Sundar Raj,Debit Card,6-Month EMI,6,6,64000,64000,0,Fully Paid,2025-07-07,
+STU10088,Jerin Philip,2024-04-26,Apr-2024,Batch-2025-06,Data Science,Machine Learning Bootcamp,Divya Krishnan,Cash,No EMI (Full Payment),1,1,66500,66500,0,Fully Paid,2024-12-29,
+STU10089,Priya Warrier,2025-04-12,Apr-2025,Batch-2025-08,Web Development,Frontend Development (React),Meera Pillai,Cheque,3-Month EMI,3,1,27000,9000,18000,Overdue,2025-07-27,2025-06-11
+STU10090,Karthik Philip,2025-06-03,Jun-2025,Batch-2025-08,Business Management,MBA Prep & Aptitude,Vishal Reddy,Cash,No EMI (Full Payment),1,1,37500,37500,0,Partially Paid,2025-09-21,
+STU10091,Rohan Verma,2025-07-05,Jul-2025,Batch-2025-08,Digital Marketing,Advanced SEO & SEM,Arun Prasad,Net Banking,3-Month EMI,3,0,23500,0,23500,Overdue,,2025-08-04
+STU10092,Zaid Warrier,2025-08-08,Aug-2025,Batch-2025-09,Web Development,Frontend Development (React),Anand Menon,Debit Card,6-Month EMI,6,6,31000,31000,0,Fully Paid,2025-09-19,
+STU10093,Akhil Kurian,2024-06-04,Jun-2024,Batch-2025-09,Data Science,Machine Learning Bootcamp,Arun Prasad,Cheque,3-Month EMI,3,1,56500,18833,37667,Overdue,2024-07-25,2024-08-03
+STU10094,Sneha Philip,2025-04-12,Apr-2025,Batch-2025-04,Finance,Financial Modeling & Valuation,Joseph Thomas,Net Banking,6-Month EMI,6,6,37500,37500,0,Fully Paid,2025-06-18,
+STU10095,Karthik Mukherjee,2025-02-11,Feb-2025,Batch-2025-03,Business Management,Business Analytics,Arun Prasad,UPI,12-Month EMI,12,0,40000,0,40000,Overdue,,2025-03-13
+STU10096,Kavya Pillai,2024-08-28,Aug-2024,Batch-2025-06,Finance,Investment Banking Prep,Meera Pillai,Cash,No EMI (Full Payment),1,1,51500,51500,0,Partially Paid,2025-04-12,
+STU10097,Ananya Mathew,2024-11-02,Nov-2024,Batch-2024-11,Data Science,Advanced Data Analytics,Anand Menon,Debit Card,3-Month EMI,3,3,47000,47000,0,Fully Paid,2025-07-31,
+STU10098,Arun Bose,2024-07-03,Jul-2024,Batch-2024-09,Web Development,Full Stack Web Development,Sneha Varma,Net Banking,3-Month EMI,3,3,56000,56000,0,Fully Paid,2025-04-27,
+STU10099,Rohan Warrier,2025-04-17,Apr-2025,Batch-2025-09,Digital Marketing,Advanced SEO & SEM,Vishal Reddy,Cash,No EMI (Full Payment),1,1,26500,26500,0,Fully Paid,2025-06-29,
+STU10100,Yusuf Roy,2024-06-10,Jun-2024,Batch-2024-08,Design,Graphic Design Professional,Sneha Varma,Debit Card,6-Month EMI,6,4,25500,17000,8500,Partially Paid,2024-11-11,2024-11-07
+STU10101,Saanvi Rao,2025-05-09,May-2025,Batch-2025-05,Web Development,Frontend Development (React),Sneha Varma,Debit Card,6-Month EMI,6,6,30000,30000,0,Fully Paid,2025-08-18,
+STU10102,Riya Nair,2025-08-02,Aug-2025,Batch-2025-08,Cloud & DevOps,Azure Solutions Architect,Divya Krishnan,Net Banking,12-Month EMI,12,4,42500,14166,28334,Partially Paid,2025-09-09,2025-12-30
+STU10103,Bibin Reddy,2024-08-12,Aug-2024,Batch-2025-06,Web Development,Backend Development (Node.js),Vishal Reddy,Cash,6-Month EMI,6,1,30000,5000,25000,Partially Paid,2025-01-17,2024-10-11
+STU10104,Akhil Verma,2024-02-04,Feb-2024,Batch-2025-08,Digital Marketing,Social Media Marketing Pro,Sundar Raj,Online Transfer,12-Month EMI,12,3,17500,4375,13125,Partially Paid,2024-05-16,2024-06-03
+STU10105,Ishaan Abraham,2025-07-06,Jul-2025,Batch-2025-08,Cloud & DevOps,Azure Solutions Architect,Vishal Reddy,Net Banking,No EMI (Full Payment),1,0,46000,0,46000,Pending (Not Started),,2025-07-21
+STU10106,Ishita Jacob,2024-12-12,Dec-2024,Batch-2025-01,Design,UI/UX Design Masterclass,Sundar Raj,Net Banking,12-Month EMI,12,7,41000,23916,17084,Partially Paid,2025-09-23,2025-08-09
+STU10107,Naveen Pillai,2025-02-08,Feb-2025,Batch-2025-02,Digital Marketing,Social Media Marketing Pro,Priyanka Nair,UPI,3-Month EMI,3,2,21000,14000,7000,Partially Paid,2025-09-06,2025-05-09
+STU10108,Mohammed Reddy,2024-04-20,Apr-2024,Batch-2024-11,Design,UI/UX Design Masterclass,Sneha Varma,Cheque,3-Month EMI,3,3,40000,40000,0,Fully Paid,2024-05-22,
+STU10109,Mohammed Kurian,2025-04-20,Apr-2025,Batch-2025-09,Digital Marketing,Social Media Marketing Pro,Joseph Thomas,Online Transfer,No EMI (Full Payment),1,1,15500,15500,0,Fully Paid,2025-08-24,
+STU10110,Krishna Kumar,2024-08-28,Aug-2024,Batch-2025-04,Web Development,Frontend Development (React),Divya Krishnan,Debit Card,6-Month EMI,6,6,34000,34000,0,Fully Paid,2025-09-12,
+STU10111,Ayesha Krishnan,2025-02-28,Feb-2025,Batch-2025-03,Business Management,Business Analytics,Sneha Varma,UPI,12-Month EMI,12,12,36500,36500,0,Fully Paid,2025-06-02,
+STU10112,Aadhya Verma,2025-03-31,Mar-2025,Batch-2025-04,Business Management,Business Analytics,Priyanka Nair,Cash,3-Month EMI,3,3,38000,38000,0,Fully Paid,2025-06-09,
+STU10113,Saanvi Kumar,2025-04-10,Apr-2025,Batch-2025-04,Finance,Financial Modeling & Valuation,Sneha Varma,Online Transfer,No EMI (Full Payment),1,1,40500,40500,0,Fully Paid,2025-05-12,
+STU10114,Akhil Bose,2024-07-29,Jul-2024,Batch-2024-08,Business Management,Project Management Professional,Meera Pillai,Cheque,No EMI (Full Payment),1,1,39000,39000,0,Fully Paid,2024-10-12,
+STU10115,Akhil Chacko,2025-09-02,Sep-2025,Batch-2025-09,Digital Marketing,Digital Marketing Fundamentals,Sundar Raj,Cheque,No EMI (Full Payment),1,1,19500,19500,0,Fully Paid,2025-09-29,
+STU10116,Vivaan Krishnan,2024-01-16,Jan-2024,Batch-2024-12,Business Management,MBA Prep & Aptitude,Sneha Varma,Debit Card,No EMI (Full Payment),1,1,32500,32500,0,Fully Paid,2025-01-29,
+STU10117,Arun Das,2024-04-26,Apr-2024,Batch-2024-06,Design,Graphic Design Professional,Fathima Rasheed,Cheque,6-Month EMI,6,6,25500,25500,0,Fully Paid,2025-03-06,
+STU10118,Aditya Jacob,2025-06-17,Jun-2025,Batch-2025-08,Design,Motion Graphics & Animation,Anand Menon,Online Transfer,12-Month EMI,12,12,38500,38500,0,Fully Paid,2025-06-30,
+STU10119,Divya Mathew,2025-03-30,Mar-2025,Batch-2025-03,Data Science,Advanced Data Analytics,Sneha Varma,Credit Card,No EMI (Full Payment),1,1,44500,44500,0,Partially Paid,2025-07-05,
+STU10120,Anjali Das,2024-10-28,Oct-2024,Batch-2025-05,Cloud & DevOps,Azure Solutions Architect,Joseph Thomas,Online Transfer,6-Month EMI,6,5,40000,33333,6667,Overdue,2025-08-06,2025-04-26
+STU10121,Ayesha Varghese,2024-08-08,Aug-2024,Batch-2025-02,Design,UI/UX Design Masterclass,Joseph Thomas,Debit Card,9-Month EMI,9,9,36500,36500,0,Fully Paid,2024-09-25,
+STU10122,Rahul Gupta,2024-11-16,Nov-2024,Batch-2025-09,Digital Marketing,Advanced SEO & SEM,Sundar Raj,Cash,12-Month EMI,12,12,20500,20500,0,Fully Paid,2024-12-29,
+STU10123,Reyansh Gupta,2024-04-08,Apr-2024,Batch-2025-03,Business Management,MBA Prep & Aptitude,Arun Prasad,Online Transfer,6-Month EMI,6,1,37000,6166,30834,Partially Paid,2024-11-04,2024-06-07
+STU10124,Vishnu Varghese,2025-03-09,Mar-2025,Batch-2025-09,Finance,Financial Modeling & Valuation,Vishal Reddy,Cheque,3-Month EMI,3,1,36500,12166,24334,Partially Paid,2025-04-17,2025-05-08
+STU10125,Imran Singh,2024-08-17,Aug-2024,Batch-2025-09,Data Science,Advanced Data Analytics,Arun Prasad,Debit Card,No EMI (Full Payment),1,1,44500,44500,0,Partially Paid,2025-05-31,
+STU10126,Rukhsar Kurian,2025-09-28,Sep-2025,Batch-2025-09,Cloud & DevOps,Azure Solutions Architect,Vishal Reddy,Online Transfer,No EMI (Full Payment),1,1,49500,49500,0,Partially Paid,2025-09-29,
+STU10127,Aarav Iyer,2024-05-26,May-2024,Batch-2025-05,Data Science,Machine Learning Bootcamp,Anand Menon,Online Transfer,6-Month EMI,6,6,58500,58500,0,Fully Paid,2025-01-13,
+STU10128,Karthik Iyer,2025-01-13,Jan-2025,Batch-2025-05,Finance,Investment Banking Prep,Sneha Varma,Cheque,No EMI (Full Payment),1,1,51000,51000,0,Fully Paid,2025-02-07,
+STU10129,Yusuf Pillai,2024-10-05,Oct-2024,Batch-2025-05,Finance,Investment Banking Prep,Divya Krishnan,Cheque,3-Month EMI,3,3,54500,54500,0,Fully Paid,2025-06-24,
+STU10130,Krishna Reddy,2025-03-16,Mar-2025,Batch-2025-03,Digital Marketing,Social Media Marketing Pro,Sneha Varma,UPI,3-Month EMI,3,3,17500,17500,0,Fully Paid,2025-06-25,
+STU10131,Anjali Menon,2024-01-08,Jan-2024,Batch-2024-07,Digital Marketing,Digital Marketing Fundamentals,Sundar Raj,Net Banking,No EMI (Full Payment),1,1,20500,20500,0,Fully Paid,2024-09-18,
+STU10132,Sana Gupta,2024-06-28,Jun-2024,Batch-2024-10,Design,Motion Graphics & Animation,Meera Pillai,Cheque,6-Month EMI,6,1,43000,7166,35834,Partially Paid,2025-01-17,2024-08-27
+STU10133,Sarath Jacob,2024-02-13,Feb-2024,Batch-2025-03,Data Science,AI & Deep Learning,Priyanka Nair,Net Banking,3-Month EMI,3,2,74000,49333,24667,Partially Paid,2024-07-10,2024-05-13
+STU10134,Krishna Rao,2024-01-22,Jan-2024,Batch-2024-11,Web Development,Backend Development (Node.js),Divya Krishnan,Net Banking,6-Month EMI,6,6,34000,34000,0,Fully Paid,2024-03-16,
+STU10135,Myra Gupta,2025-08-26,Aug-2025,Batch-2025-09,Cloud & DevOps,AWS Cloud Practitioner,Joseph Thomas,Net Banking,3-Month EMI,3,3,28000,28000,0,Fully Paid,2025-09-05,
+STU10136,Arjun Das,2024-04-26,Apr-2024,Batch-2025-08,Cloud & DevOps,AWS Cloud Practitioner,Fathima Rasheed,Debit Card,6-Month EMI,6,2,31500,10500,21000,Partially Paid,2024-08-24,2024-07-25
+STU10137,Sai Krishnan,2024-09-19,Sep-2024,Batch-2024-12,Web Development,Backend Development (Node.js),Sundar Raj,Net Banking,6-Month EMI,6,6,29000,29000,0,Fully Paid,2025-08-06,
+STU10138,Divya Verma,2025-07-31,Jul-2025,Batch-2025-09,Design,Motion Graphics & Animation,Sneha Varma,Cash,6-Month EMI,6,6,42000,42000,0,Fully Paid,2025-09-09,
+STU10139,Rahul Krishnan,2025-03-26,Mar-2025,Batch-2025-03,Design,Graphic Design Professional,Vishal Reddy,Net Banking,No EMI (Full Payment),1,1,22500,22500,0,Fully Paid,2025-04-13,
+STU10140,Navya Verma,2025-04-07,Apr-2025,Batch-2025-04,Data Science,Advanced Data Analytics,Vishal Reddy,Online Transfer,6-Month EMI,6,6,54000,54000,0,Fully Paid,2025-09-06,
+STU10141,Meera Rao,2025-04-18,Apr-2025,Batch-2025-08,Cloud & DevOps,Azure Solutions Architect,Anand Menon,UPI,12-Month EMI,12,6,47500,23750,23750,Partially Paid,2025-09-19,2025-11-14
+STU10142,Priya Das,2024-06-03,Jun-2024,Batch-2024-07,Design,UI/UX Design Masterclass,Fathima Rasheed,Cash,No EMI (Full Payment),1,1,40500,40500,0,Fully Paid,2024-10-07,
+STU10143,Fatima Verma,2025-03-25,Mar-2025,Batch-2025-07,Cloud & DevOps,Azure Solutions Architect,Sundar Raj,Debit Card,3-Month EMI,3,3,42500,42500,0,Fully Paid,2025-06-19,
+STU10144,Yusuf Mukherjee,2024-02-23,Feb-2024,Batch-2024-12,Data Science,Advanced Data Analytics,Priyanka Nair,Cheque,6-Month EMI,6,6,44500,44500,0,Fully Paid,2025-01-24,
+STU10145,Renjith Mukherjee,2024-06-02,Jun-2024,Batch-2025-04,Data Science,Machine Learning Bootcamp,Fathima Rasheed,Debit Card,12-Month EMI,12,3,66500,16625,49875,Partially Paid,2025-04-02,2024-09-30
+STU10146,Fatima Pillai,2024-11-13,Nov-2024,Batch-2025-07,Design,Motion Graphics & Animation,Fathima Rasheed,Net Banking,No EMI (Full Payment),1,1,43500,43500,0,Partially Paid,2025-06-17,
+STU10147,Meera Reddy,2024-01-19,Jan-2024,Batch-2024-12,Digital Marketing,Digital Marketing Fundamentals,Meera Pillai,Debit Card,12-Month EMI,12,12,22000,22000,0,Fully Paid,2024-03-29,
+STU10148,Rohan Pillai,2024-10-29,Oct-2024,Batch-2024-11,Cloud & DevOps,Azure Solutions Architect,Arun Prasad,Online Transfer,6-Month EMI,6,6,48000,48000,0,Fully Paid,2025-05-09,
+STU10149,Rohan Iyer,2024-07-04,Jul-2024,Batch-2025-08,Finance,Tally & GST Practitioner,Sundar Raj,Cash,3-Month EMI,3,3,15500,15500,0,Fully Paid,2025-07-07,
+STU10150,Myra Verma,2025-09-17,Sep-2025,Batch-2025-09,Business Management,Project Management Professional,Divya Krishnan,Credit Card,3-Month EMI,3,0,40000,0,40000,Pending (Not Started),,2025-10-02
+STU10151,Akhil Singh,2024-07-17,Jul-2024,Batch-2024-12,Finance,Tally & GST Practitioner,Divya Krishnan,UPI,6-Month EMI,6,6,15000,15000,0,Fully Paid,2025-02-16,
+STU10152,Ananya Kurian,2024-07-23,Jul-2024,Batch-2025-07,Cloud & DevOps,AWS Cloud Practitioner,Vishal Reddy,Online Transfer,6-Month EMI,6,1,28000,4666,23334,Partially Paid,2025-07-22,2024-09-21
+STU10153,Nithin Das,2024-05-07,May-2024,Batch-2025-02,Data Science,Machine Learning Bootcamp,Vishal Reddy,UPI,12-Month EMI,12,2,57500,9583,47917,Partially Paid,2024-08-28,2024-08-05
+STU10154,Christy Verma,2024-12-23,Dec-2024,Batch-2024-12,Design,UI/UX Design Masterclass,Joseph Thomas,Cheque,3-Month EMI,3,0,36500,0,36500,Pending (Not Started),,2025-01-07
+STU10155,Naveen Warrier,2024-01-29,Jan-2024,Batch-2024-11,Data Science,Advanced Data Analytics,Sundar Raj,Credit Card,No EMI (Full Payment),1,1,53500,53500,0,Fully Paid,2024-04-09,
+STU10156,Nazia Mathew,2025-04-25,Apr-2025,Batch-2025-07,Cloud & DevOps,AWS Cloud Practitioner,Priyanka Nair,Online Transfer,No EMI (Full Payment),1,1,32000,32000,0,Fully Paid,2025-09-27,
+STU10157,Sneha Gupta,2024-04-23,Apr-2024,Batch-2025-01,Web Development,Frontend Development (React),Priyanka Nair,Online Transfer,No EMI (Full Payment),1,1,32500,32500,0,Fully Paid,2025-01-03,
+STU10158,Anjali Roy,2024-01-17,Jan-2024,Batch-2025-09,Cloud & DevOps,Azure Solutions Architect,Meera Pillai,Cash,No EMI (Full Payment),1,1,45000,45000,0,Fully Paid,2024-07-15,
+STU10159,Myra Bose,2025-03-02,Mar-2025,Batch-2025-04,Finance,Tally & GST Practitioner,Priyanka Nair,Cheque,12-Month EMI,12,0,12500,0,12500,Pending (Not Started),,2025-03-17
+STU10160,Pooja Das,2025-06-03,Jun-2025,Batch-2025-06,Design,Graphic Design Professional,Anand Menon,Cash,3-Month EMI,3,3,25000,25000,0,Fully Paid,2025-06-05,
+STU10161,Vishnu Abraham,2024-03-10,Mar-2024,Batch-2025-02,Web Development,Backend Development (Node.js),Priyanka Nair,Net Banking,6-Month EMI,6,6,33500,33500,0,Fully Paid,2024-09-06,
+STU10162,Pooja Sharma,2024-06-28,Jun-2024,Batch-2025-08,Finance,Investment Banking Prep,Sundar Raj,Net Banking,No EMI (Full Payment),1,1,61500,61500,0,Partially Paid,2024-07-16,
+STU10163,Ishita Varma,2024-02-14,Feb-2024,Batch-2024-08,Data Science,Advanced Data Analytics,Vishal Reddy,Cheque,3-Month EMI,3,3,53500,53500,0,Fully Paid,2024-06-22,
+STU10164,Aditya Joseph,2024-07-14,Jul-2024,Batch-2024-11,Digital Marketing,Digital Marketing Fundamentals,Fathima Rasheed,Debit Card,No EMI (Full Payment),1,1,21000,21000,0,Fully Paid,2025-02-03,
+STU10165,Sana Verma,2025-01-30,Jan-2025,Batch-2025-06,Web Development,Frontend Development (React),Divya Krishnan,Debit Card,12-Month EMI,12,12,33500,33500,0,Fully Paid,2025-02-20,
+STU10166,Ayesha Gupta,2024-03-21,Mar-2024,Batch-2025-04,Cloud & DevOps,AWS Cloud Practitioner,Arun Prasad,Debit Card,3-Month EMI,3,3,25500,25500,0,Fully Paid,2024-08-19,
+STU10167,Navya Verma,2025-09-09,Sep-2025,Batch-2025-09,Web Development,Backend Development (Node.js),Divya Krishnan,Debit Card,3-Month EMI,3,2,34000,22666,11334,Partially Paid,2025-09-17,2025-12-08
+STU10168,Mohammed Abraham,2024-02-28,Feb-2024,Batch-2024-04,Finance,Tally & GST Practitioner,Joseph Thomas,Debit Card,3-Month EMI,3,3,17500,17500,0,Fully Paid,2024-03-14,
+STU10169,Rohan Varghese,2025-09-14,Sep-2025,Batch-2025-09,Data Science,Machine Learning Bootcamp,Priyanka Nair,Credit Card,6-Month EMI,6,6,61000,61000,0,Fully Paid,2025-09-15,
+STU10170,Anjali Krishnan,2025-04-05,Apr-2025,Batch-2025-06,Digital Marketing,Advanced SEO & SEM,Priyanka Nair,Cheque,No EMI (Full Payment),1,1,23000,23000,0,Fully Paid,2025-09-18,
+STU10171,Riya Warrier,2024-04-26,Apr-2024,Batch-2024-04,Finance,Financial Modeling & Valuation,Divya Krishnan,Cheque,3-Month EMI,3,3,44000,44000,0,Fully Paid,2025-05-27,
+STU10172,Anika Mathew,2025-04-01,Apr-2025,Batch-2025-05,Cloud & DevOps,DevOps Engineering,Divya Krishnan,Credit Card,No EMI (Full Payment),1,1,54000,54000,0,Fully Paid,2025-05-15,
+STU10173,Anoop Mathew,2025-03-31,Mar-2025,Batch-2025-03,Business Management,Project Management Professional,Fathima Rasheed,Cash,3-Month EMI,3,3,36000,36000,0,Fully Paid,2025-06-13,
+STU10174,Anoop Namboothiri,2024-06-10,Jun-2024,Batch-2024-11,Business Management,Business Analytics,Arun Prasad,Credit Card,No EMI (Full Payment),1,1,35500,35500,0,Partially Paid,2025-02-17,
+STU10175,Vivaan Reddy,2025-07-21,Jul-2025,Batch-2025-09,Digital Marketing,Advanced SEO & SEM,Arun Prasad,Credit Card,6-Month EMI,6,6,20500,20500,0,Fully Paid,2025-09-09,
+STU10176,Fatima Jacob,2025-05-05,May-2025,Batch-2025-09,Design,Graphic Design Professional,Sneha Varma,Online Transfer,No EMI (Full Payment),1,1,24500,24500,0,Partially Paid,2025-09-01,
+STU10177,Yusuf Das,2024-12-18,Dec-2024,Batch-2025-02,Business Management,Project Management Professional,Sneha Varma,Credit Card,6-Month EMI,6,6,37000,37000,0,Fully Paid,2025-01-15,
+STU10178,Jerin Kumar,2025-06-14,Jun-2025,Batch-2025-07,Digital Marketing,Digital Marketing Fundamentals,Sundar Raj,Debit Card,12-Month EMI,12,12,20000,20000,0,Fully Paid,2025-08-19,
+STU10179,Anoop Namboothiri,2024-03-21,Mar-2024,Batch-2024-11,Web Development,Backend Development (Node.js),Arun Prasad,Debit Card,No EMI (Full Payment),1,1,33000,33000,0,Partially Paid,2024-12-03,
+STU10180,Farhan Iyer,2025-08-29,Aug-2025,Batch-2025-08,Web Development,Backend Development (Node.js),Sneha Varma,Cash,12-Month EMI,12,10,33500,27916,5584,Partially Paid,2025-08-31,2026-07-25
+STU10181,Christy Varghese,2024-01-30,Jan-2024,Batch-2024-03,Data Science,Advanced Data Analytics,Meera Pillai,Net Banking,6-Month EMI,6,4,50000,33333,16667,Partially Paid,2024-12-16,2024-06-28
+STU10182,Pooja Namboothiri,2024-11-05,Nov-2024,Batch-2025-06,Web Development,Backend Development (Node.js),Joseph Thomas,Debit Card,3-Month EMI,3,3,29000,29000,0,Fully Paid,2025-06-05,
+STU10183,Priya Verma,2024-07-27,Jul-2024,Batch-2024-12,Cloud & DevOps,AWS Cloud Practitioner,Fathima Rasheed,Net Banking,6-Month EMI,6,0,31000,0,31000,Pending (Not Started),,2024-08-11
+STU10184,Vishnu Rao,2024-05-13,May-2024,Batch-2025-04,Cloud & DevOps,Azure Solutions Architect,Priyanka Nair,Debit Card,No EMI (Full Payment),1,1,40000,40000,0,Fully Paid,2024-09-16,
+STU10185,Rohan Kumar,2024-02-21,Feb-2024,Batch-2024-11,Design,Motion Graphics & Animation,Joseph Thomas,Credit Card,12-Month EMI,12,10,34500,28750,5750,Partially Paid,2025-02-24,2025-01-16
+STU10186,Rahul Varma,2024-06-12,Jun-2024,Batch-2025-09,Cloud & DevOps,DevOps Engineering,Divya Krishnan,Debit Card,3-Month EMI,3,2,41500,27666,13834,Overdue,2025-02-01,2024-09-10
+STU10187,Myra Varma,2025-08-20,Aug-2025,Batch-2025-09,Data Science,Data Science Foundation,Vishal Reddy,UPI,6-Month EMI,6,6,42500,42500,0,Fully Paid,2025-08-20,
+STU10188,Nithin Kumar,2025-03-17,Mar-2025,Batch-2025-04,Digital Marketing,Social Media Marketing Pro,Fathima Rasheed,Net Banking,3-Month EMI,3,3,15500,15500,0,Fully Paid,2025-08-09,
+STU10189,Nithya Varma,2025-01-06,Jan-2025,Batch-2025-09,Digital Marketing,Digital Marketing Fundamentals,Joseph Thomas,Cheque,3-Month EMI,3,3,22500,22500,0,Fully Paid,2025-03-07,
+STU10190,Ishaan Kumar,2025-02-07,Feb-2025,Batch-2025-07,Business Management,Business Analytics,Arun Prasad,Debit Card,6-Month EMI,6,4,35500,23666,11834,Partially Paid,2025-06-15,2025-07-07
+STU10191,Aditya Menon,2024-02-09,Feb-2024,Batch-2024-06,Finance,Investment Banking Prep,Divya Krishnan,Cheque,3-Month EMI,3,0,60000,0,60000,Overdue,,2024-03-10
+STU10192,Rahul Philip,2025-09-19,Sep-2025,Batch-2025-09,Web Development,Frontend Development (React),Sneha Varma,Cash,9-Month EMI,9,9,34500,34500,0,Fully Paid,2025-09-27,
+STU10193,Pooja Singh,2025-07-30,Jul-2025,Batch-2025-08,Design,UI/UX Design Masterclass,Fathima Rasheed,Debit Card,6-Month EMI,6,1,37000,6166,30834,Partially Paid,2025-09-06,2025-09-28
+STU10194,Priya Panicker,2025-08-15,Aug-2025,Batch-2025-08,Finance,Financial Modeling & Valuation,Sneha Varma,UPI,No EMI (Full Payment),1,1,45500,45500,0,Partially Paid,2025-08-24,
+STU10195,Christy George,2024-09-05,Sep-2024,Batch-2024-09,Cloud & DevOps,Azure Solutions Architect,Priyanka Nair,Credit Card,No EMI (Full Payment),1,1,43000,43000,0,Fully Paid,2025-04-04,
+STU10196,Zaid Varma,2025-02-24,Feb-2025,Batch-2025-09,Business Management,Project Management Professional,Anand Menon,Cash,No EMI (Full Payment),1,1,38500,38500,0,Partially Paid,2025-07-08,
+STU10197,Sandeep Sharma,2024-06-26,Jun-2024,Batch-2025-08,Cloud & DevOps,DevOps Engineering,Arun Prasad,Debit Card,6-Month EMI,6,3,54000,27000,27000,Partially Paid,2025-05-04,2024-10-24
+STU10198,Priya Varma,2024-09-09,Sep-2024,Batch-2025-01,Cloud & DevOps,DevOps Engineering,Meera Pillai,Debit Card,6-Month EMI,6,6,51500,51500,0,Fully Paid,2025-09-04,
+STU10199,Divya Sharma,2025-05-06,May-2025,Batch-2025-07,Cloud & DevOps,Azure Solutions Architect,Vishal Reddy,Debit Card,No EMI (Full Payment),1,1,49000,49000,0,Fully Paid,2025-08-15,
+STU10200,Christy Reddy,2024-05-29,May-2024,Batch-2025-02,Data Science,Advanced Data Analytics,Priyanka Nair,Debit Card,12-Month EMI,12,12,50500,50500,0,Fully Paid,2025-01-29,
+STU10201,Aadhya Varma,2025-07-05,Jul-2025,Batch-2025-08,Cloud & DevOps,Azure Solutions Architect,Vishal Reddy,Credit Card,No EMI (Full Payment),1,1,47500,47500,0,Fully Paid,2025-07-11,
+STU10202,Imran Chacko,2025-06-27,Jun-2025,Batch-2025-07,Finance,Financial Modeling & Valuation,Anand Menon,Online Transfer,3-Month EMI,3,3,47000,47000,0,Fully Paid,2025-09-22,
+STU10203,Rukhsar Krishnan,2024-01-06,Jan-2024,Batch-2025-06,Web Development,Frontend Development (React),Divya Krishnan,UPI,6-Month EMI,6,6,29500,29500,0,Fully Paid,2024-12-01,
+STU10204,Vihaan Philip,2024-04-01,Apr-2024,Batch-2024-11,Cloud & DevOps,Azure Solutions Architect,Anand Menon,Credit Card,3-Month EMI,3,0,41000,0,41000,Overdue,,2024-05-01
+STU10205,Jerin Rao,2025-05-22,May-2025,Batch-2025-06,Finance,Investment Banking Prep,Anand Menon,Online Transfer,No EMI (Full Payment),1,1,60000,60000,0,Fully Paid,2025-08-15,
+STU10206,Ishita Verma,2025-07-10,Jul-2025,Batch-2025-09,Design,UI/UX Design Masterclass,Arun Prasad,UPI,No EMI (Full Payment),1,1,32000,32000,0,Fully Paid,2025-09-06,
+STU10207,Farhan Panicker,2024-07-09,Jul-2024,Batch-2024-07,Finance,Investment Banking Prep,Vishal Reddy,Cheque,6-Month EMI,6,6,53000,53000,0,Fully Paid,2025-06-01,
+STU10208,Anoop Rao,2025-03-13,Mar-2025,Batch-2025-07,Digital Marketing,Digital Marketing Fundamentals,Joseph Thomas,Cash,No EMI (Full Payment),1,1,19000,19000,0,Fully Paid,2025-05-15,
+STU10209,Aarav Panicker,2025-01-27,Jan-2025,Batch-2025-04,Design,Graphic Design Professional,Fathima Rasheed,Debit Card,6-Month EMI,6,6,26500,26500,0,Fully Paid,2025-07-13,
+STU10210,Naveen Mathew,2024-08-29,Aug-2024,Batch-2024-08,Finance,Financial Modeling & Valuation,Divya Krishnan,Debit Card,No EMI (Full Payment),1,1,46000,46000,0,Fully Paid,2025-08-24,
+STU10211,Rukhsar Namboothiri,2024-04-30,Apr-2024,Batch-2025-01,Digital Marketing,Social Media Marketing Pro,Meera Pillai,Credit Card,12-Month EMI,12,12,19000,19000,0,Fully Paid,2025-05-17,
+STU10212,Anjali Reddy,2025-03-01,Mar-2025,Batch-2025-08,Cloud & DevOps,DevOps Engineering,Arun Prasad,Net Banking,6-Month EMI,6,5,43500,36250,7250,Partially Paid,2025-09-18,2025-08-28
+STU10213,Reyansh Das,2025-04-02,Apr-2025,Batch-2025-08,Finance,Investment Banking Prep,Priyanka Nair,Cheque,No EMI (Full Payment),1,1,63500,63500,0,Fully Paid,2025-08-09,
+STU10214,Saanvi Bose,2025-07-03,Jul-2025,Batch-2025-07,Web Development,Frontend Development (React),Arun Prasad,UPI,No EMI (Full Payment),1,1,28500,28500,0,Partially Paid,2025-07-14,
+STU10215,Anoop Das,2025-04-01,Apr-2025,Batch-2025-04,Design,UI/UX Design Masterclass,Arun Prasad,UPI,3-Month EMI,3,2,31000,20666,10334,Partially Paid,2025-04-06,2025-06-30
+STU10216,Gokul Panicker,2024-01-04,Jan-2024,Batch-2024-07,Cloud & DevOps,AWS Cloud Practitioner,Anand Menon,UPI,3-Month EMI,3,3,25500,25500,0,Fully Paid,2024-02-03,
+STU10217,Sreekutty Chacko,2024-03-11,Mar-2024,Batch-2025-06,Data Science,Advanced Data Analytics,Joseph Thomas,Credit Card,6-Month EMI,6,4,52500,35000,17500,Partially Paid,2024-09-18,2024-08-08
+STU10218,Anoop Rao,2025-04-04,Apr-2025,Batch-2025-07,Design,UI/UX Design Masterclass,Arun Prasad,Credit Card,6-Month EMI,6,6,35500,35500,0,Fully Paid,2025-08-19,
+STU10219,Gokul Das,2024-05-10,May-2024,Batch-2024-12,Business Management,MBA Prep & Aptitude,Anand Menon,Debit Card,3-Month EMI,3,3,37000,37000,0,Fully Paid,2024-11-20,
+STU10220,Christy Warrier,2024-09-10,Sep-2024,Batch-2025-04,Digital Marketing,Digital Marketing Fundamentals,Vishal Reddy,Credit Card,12-Month EMI,12,1,24000,2000,22000,Partially Paid,2025-08-14,2024-11-09
+STU10221,Arun Mukherjee,2024-01-17,Jan-2024,Batch-2024-08,Web Development,Full Stack Web Development,Priyanka Nair,Cheque,No EMI (Full Payment),1,1,55000,55000,0,Partially Paid,2024-05-21,
+STU10222,Sana Menon,2025-02-15,Feb-2025,Batch-2025-09,Web Development,Backend Development (Node.js),Meera Pillai,Net Banking,9-Month EMI,9,9,29000,29000,0,Fully Paid,2025-04-30,
+STU10223,Kiara Kurian,2025-08-12,Aug-2025,Batch-2025-09,Cloud & DevOps,Azure Solutions Architect,Fathima Rasheed,Credit Card,3-Month EMI,3,0,40500,0,40500,Pending (Not Started),,2025-08-27
+STU10224,Sneha Warrier,2025-02-27,Feb-2025,Batch-2025-06,Digital Marketing,Digital Marketing Fundamentals,Arun Prasad,Cheque,9-Month EMI,9,7,19500,15166,4334,Partially Paid,2025-07-19,2025-10-25
+STU10225,Divya Menon,2024-12-18,Dec-2024,Batch-2025-06,Business Management,Project Management Professional,Fathima Rasheed,Cash,3-Month EMI,3,3,37500,37500,0,Fully Paid,2025-03-22,
+STU10226,Nazia Roy,2025-04-29,Apr-2025,Batch-2025-05,Business Management,MBA Prep & Aptitude,Vishal Reddy,Net Banking,6-Month EMI,6,4,35500,23666,11834,Overdue,2025-08-12,2025-09-26
+STU10227,Arun Roy,2025-06-26,Jun-2025,Batch-2025-07,Design,UI/UX Design Masterclass,Vishal Reddy,Credit Card,3-Month EMI,3,1,31500,10500,21000,Overdue,2025-07-07,2025-08-25
+STU10228,Pooja Jacob,2024-07-14,Jul-2024,Batch-2024-07,Digital Marketing,Advanced SEO & SEM,Sneha Varma,Cheque,No EMI (Full Payment),1,1,20500,20500,0,Fully Paid,2025-08-07,
+STU10229,Swathi Jacob,2025-07-26,Jul-2025,Batch-2025-07,Design,UI/UX Design Masterclass,Fathima Rasheed,Debit Card,12-Month EMI,12,12,30500,30500,0,Fully Paid,2025-08-19,
+STU10230,Sana Kumar,2025-05-05,May-2025,Batch-2025-06,Finance,Tally & GST Practitioner,Meera Pillai,UPI,12-Month EMI,12,12,16500,16500,0,Fully Paid,2025-07-16,
+STU10231,Sandeep Verma,2025-06-30,Jun-2025,Batch-2025-08,Digital Marketing,Advanced SEO & SEM,Fathima Rasheed,Cheque,9-Month EMI,9,9,24000,24000,0,Fully Paid,2025-09-30,
+STU10232,Priya Joseph,2024-11-23,Nov-2024,Batch-2025-02,Digital Marketing,Advanced SEO & SEM,Joseph Thomas,Online Transfer,6-Month EMI,6,1,22000,3666,18334,Partially Paid,2025-04-05,2025-01-22
+STU10233,Nithya Philip,2025-08-21,Aug-2025,Batch-2025-09,Digital Marketing,Digital Marketing Fundamentals,Meera Pillai,Debit Card,No EMI (Full Payment),1,1,22500,22500,0,Partially Paid,2025-09-25,
+STU10234,Farhan George,2024-12-11,Dec-2024,Batch-2025-04,Business Management,Business Analytics,Divya Krishnan,UPI,No EMI (Full Payment),1,1,38000,38000,0,Fully Paid,2025-09-16,
+STU10235,Divya Iyer,2025-07-09,Jul-2025,Batch-2025-09,Data Science,Data Science Foundation,Priyanka Nair,Net Banking,6-Month EMI,6,6,35000,35000,0,Fully Paid,2025-09-27,
+STU10236,Kiara Pillai,2024-06-03,Jun-2024,Batch-2024-06,Web Development,Backend Development (Node.js),Divya Krishnan,Debit Card,No EMI (Full Payment),1,1,36000,36000,0,Partially Paid,2024-06-06,
+STU10237,Pooja Roy,2025-02-25,Feb-2025,Batch-2025-02,Data Science,Advanced Data Analytics,Arun Prasad,Debit Card,No EMI (Full Payment),1,1,53500,53500,0,Partially Paid,2025-09-19,
+STU10238,Renjith Iyer,2024-04-19,Apr-2024,Batch-2024-07,Cloud & DevOps,AWS Cloud Practitioner,Meera Pillai,Credit Card,6-Month EMI,6,3,27000,13500,13500,Partially Paid,2024-11-08,2024-08-17
+STU10239,Reyansh Reddy,2025-02-19,Feb-2025,Batch-2025-09,Cloud & DevOps,AWS Cloud Practitioner,Meera Pillai,Debit Card,6-Month EMI,6,6,32000,32000,0,Fully Paid,2025-09-26,
+STU10240,Farhan Joseph,2024-02-02,Feb-2024,Batch-2024-04,Design,Graphic Design Professional,Joseph Thomas,Cheque,3-Month EMI,3,3,27000,27000,0,Fully Paid,2024-04-29,
+STU10241,Reyansh Singh,2025-03-20,Mar-2025,Batch-2025-08,Business Management,Business Analytics,Sneha Varma,Net Banking,12-Month EMI,12,3,40500,10125,30375,Overdue,2025-05-13,2025-07-18
+STU10242,Anoop Varghese,2025-08-03,Aug-2025,Batch-2025-09,Digital Marketing,Digital Marketing Fundamentals,Priyanka Nair,Cash,12-Month EMI,12,1,22500,1875,20625,Partially Paid,2025-08-14,2025-10-02
+STU10243,Sreekutty Varghese,2024-11-18,Nov-2024,Batch-2024-11,Web Development,Backend Development (Node.js),Sundar Raj,Net Banking,9-Month EMI,9,4,34500,15333,19167,Overdue,2025-02-09,2025-04-17
+STU10244,Deepa Warrier,2025-08-03,Aug-2025,Batch-2025-09,Finance,Tally & GST Practitioner,Fathima Rasheed,UPI,6-Month EMI,6,1,13000,2166,10834,Partially Paid,2025-09-04,2025-10-02
+STU10245,Sana Reddy,2024-02-24,Feb-2024,Batch-2024-05,Design,UI/UX Design Masterclass,Priyanka Nair,Debit Card,6-Month EMI,6,0,40000,0,40000,Pending (Not Started),,2024-03-10
+STU10246,Gokul Joseph,2024-11-30,Nov-2024,Batch-2024-11,Finance,Investment Banking Prep,Divya Krishnan,UPI,No EMI (Full Payment),1,1,59000,59000,0,Overdue,2025-03-05,
+STU10247,Yusuf Bose,2025-01-24,Jan-2025,Batch-2025-02,Business Management,Project Management Professional,Vishal Reddy,Net Banking,No EMI (Full Payment),1,1,36000,36000,0,Fully Paid,2025-03-04,
+STU10248,Sandeep Mathew,2024-06-06,Jun-2024,Batch-2025-06,Digital Marketing,Advanced SEO & SEM,Priyanka Nair,Online Transfer,No EMI (Full Payment),1,1,22500,22500,0,Fully Paid,2025-06-30,
+STU10249,Riya Kumar,2024-05-15,May-2024,Batch-2024-07,Web Development,Frontend Development (React),Divya Krishnan,Cheque,6-Month EMI,6,6,31500,31500,0,Fully Paid,2024-06-29,
+STU10250,Vishnu Roy,2024-04-05,Apr-2024,Batch-2025-02,Business Management,Business Analytics,Anand Menon,Debit Card,3-Month EMI,3,1,33500,11166,22334,Partially Paid,2025-01-22,2024-06-04
+STU10251,Sneha Iyer,2025-01-24,Jan-2025,Batch-2025-03,Web Development,Frontend Development (React),Vishal Reddy,Debit Card,3-Month EMI,3,3,26000,26000,0,Fully Paid,2025-04-04,
+STU10252,Arun Namboothiri,2025-05-10,May-2025,Batch-2025-05,Digital Marketing,Advanced SEO & SEM,Meera Pillai,Cash,6-Month EMI,6,4,25000,16666,8334,Partially Paid,2025-06-06,2025-10-07
+STU10253,Ishaan Namboothiri,2024-01-07,Jan-2024,Batch-2025-01,Digital Marketing,Social Media Marketing Pro,Joseph Thomas,Net Banking,9-Month EMI,9,9,18500,18500,0,Fully Paid,2024-12-05,
+STU10254,Anjali Krishnan,2024-11-03,Nov-2024,Batch-2025-04,Cloud & DevOps,Azure Solutions Architect,Meera Pillai,UPI,3-Month EMI,3,0,44500,0,44500,Pending (Not Started),,2024-11-18
+STU10255,Ishita Jacob,2025-05-17,May-2025,Batch-2025-09,Business Management,MBA Prep & Aptitude,Fathima Rasheed,UPI,No EMI (Full Payment),1,1,34500,34500,0,Fully Paid,2025-07-07,
+STU10256,Swathi Roy,2024-07-03,Jul-2024,Batch-2025-05,Business Management,Project Management Professional,Anand Menon,Cash,3-Month EMI,3,3,38500,38500,0,Fully Paid,2024-11-29,
+STU10257,Jerin Mathew,2024-03-11,Mar-2024,Batch-2025-04,Finance,Investment Banking Prep,Sundar Raj,Cash,3-Month EMI,3,2,54000,36000,18000,Partially Paid,2024-09-20,2024-06-09
+STU10258,Arjun Verma,2025-09-04,Sep-2025,Batch-2025-09,Cloud & DevOps,DevOps Engineering,Arun Prasad,Cheque,12-Month EMI,12,9,54000,40500,13500,Partially Paid,2025-09-05,2026-07-01
+STU10259,Akhil Reddy,2025-07-03,Jul-2025,Batch-2025-09,Finance,Financial Modeling & Valuation,Priyanka Nair,Net Banking,No EMI (Full Payment),1,1,46000,46000,0,Fully Paid,2025-09-23,
+STU10260,Kavya Menon,2025-07-30,Jul-2025,Batch-2025-09,Finance,Tally & GST Practitioner,Joseph Thomas,Net Banking,3-Month EMI,3,3,15500,15500,0,Fully Paid,2025-08-05,
+STU10261,Anika Warrier,2025-06-06,Jun-2025,Batch-2025-07,Design,Graphic Design Professional,Joseph Thomas,UPI,6-Month EMI,6,2,27000,9000,18000,Partially Paid,2025-07-20,2025-09-04
+STU10262,Vivaan Singh,2024-04-17,Apr-2024,Batch-2025-01,Design,UI/UX Design Masterclass,Priyanka Nair,Net Banking,12-Month EMI,12,12,32500,32500,0,Fully Paid,2024-10-09,
+STU10263,Mahesh Abraham,2024-07-30,Jul-2024,Batch-2025-03,Design,Graphic Design Professional,Divya Krishnan,Online Transfer,3-Month EMI,3,3,27500,27500,0,Fully Paid,2024-09-02,
+STU10264,Navya Menon,2024-04-27,Apr-2024,Batch-2024-04,Business Management,Business Analytics,Priyanka Nair,Cash,9-Month EMI,9,9,36000,36000,0,Fully Paid,2025-02-03,
+STU10265,Ananya Sharma,2025-07-27,Jul-2025,Batch-2025-08,Design,UI/UX Design Masterclass,Joseph Thomas,Cash,No EMI (Full Payment),1,1,40500,40500,0,Partially Paid,2025-07-30,
+STU10266,Sana Mukherjee,2024-07-21,Jul-2024,Batch-2025-02,Cloud & DevOps,DevOps Engineering,Joseph Thomas,Online Transfer,6-Month EMI,6,6,43500,43500,0,Fully Paid,2025-07-16,
+STU10267,Bibin Abraham,2024-03-05,Mar-2024,Batch-2025-09,Data Science,Machine Learning Bootcamp,Fathima Rasheed,Debit Card,No EMI (Full Payment),1,1,57000,57000,0,Fully Paid,2024-11-10,
+STU10268,Sneha Thomas,2024-11-16,Nov-2024,Batch-2025-08,Design,Motion Graphics & Animation,Joseph Thomas,Cheque,No EMI (Full Payment),1,1,38000,38000,0,Partially Paid,2025-04-17,
+STU10269,Renjith Mukherjee,2025-08-27,Aug-2025,Batch-2025-08,Finance,Financial Modeling & Valuation,Fathima Rasheed,Online Transfer,No EMI (Full Payment),1,1,37000,37000,0,Fully Paid,2025-09-05,
+STU10270,Meera Rao,2025-03-04,Mar-2025,Batch-2025-07,Web Development,Backend Development (Node.js),Joseph Thomas,UPI,No EMI (Full Payment),1,1,37000,37000,0,Partially Paid,2025-07-24,
+STU10271,Ananya Singh,2024-10-22,Oct-2024,Batch-2024-12,Web Development,Frontend Development (React),Divya Krishnan,Cheque,No EMI (Full Payment),1,0,31000,0,31000,Pending (Not Started),,2024-11-06
+STU10272,Divya Krishnan,2024-07-18,Jul-2024,Batch-2025-08,Design,Motion Graphics & Animation,Arun Prasad,Cash,3-Month EMI,3,3,43000,43000,0,Fully Paid,2025-07-16,
+STU10273,Jerin Verma,2025-05-15,May-2025,Batch-2025-06,Data Science,Data Science Foundation,Meera Pillai,Debit Card,No EMI (Full Payment),1,1,38500,38500,0,Fully Paid,2025-06-27,
+STU10274,Rukhsar Verma,2025-08-02,Aug-2025,Batch-2025-09,Cloud & DevOps,Azure Solutions Architect,Priyanka Nair,Cheque,No EMI (Full Payment),1,1,47000,47000,0,Partially Paid,2025-09-05,
+STU10275,Christy Joseph,2024-02-12,Feb-2024,Batch-2025-04,Cloud & DevOps,AWS Cloud Practitioner,Joseph Thomas,Online Transfer,6-Month EMI,6,3,30500,15250,15250,Partially Paid,2024-02-28,2024-06-11
+STU10276,Vignesh Panicker,2024-12-22,Dec-2024,Batch-2025-01,Design,UI/UX Design Masterclass,Meera Pillai,Credit Card,9-Month EMI,9,7,39500,30722,8778,Partially Paid,2025-03-16,2025-08-19
+STU10277,Kavya Krishnan,2024-07-30,Jul-2024,Batch-2025-08,Web Development,Full Stack Web Development,Sneha Varma,Debit Card,3-Month EMI,3,3,55000,55000,0,Fully Paid,2025-01-11,
+STU10278,Fatima Namboothiri,2024-10-23,Oct-2024,Batch-2025-07,Digital Marketing,Social Media Marketing Pro,Priyanka Nair,Credit Card,12-Month EMI,12,12,21500,21500,0,Fully Paid,2024-11-22,
+STU10279,Riya Varghese,2024-05-09,May-2024,Batch-2024-09,Web Development,Full Stack Web Development,Fathima Rasheed,Net Banking,No EMI (Full Payment),1,1,59000,59000,0,Partially Paid,2024-07-20,
+STU10280,Deepa Thomas,2024-10-02,Oct-2024,Batch-2025-08,Design,Graphic Design Professional,Divya Krishnan,Online Transfer,6-Month EMI,6,4,29000,19333,9667,Partially Paid,2025-06-22,2025-03-01
+STU10281,Sana Panicker,2025-01-12,Jan-2025,Batch-2025-08,Design,Graphic Design Professional,Sneha Varma,Online Transfer,9-Month EMI,9,8,29000,25777,3223,Partially Paid,2025-07-14,2025-10-09
+STU10282,Nithin Pillai,2025-07-01,Jul-2025,Batch-2025-08,Web Development,Frontend Development (React),Meera Pillai,UPI,No EMI (Full Payment),1,1,29500,29500,0,Fully Paid,2025-09-12,
+STU10283,Ishaan Bose,2025-05-11,May-2025,Batch-2025-07,Finance,Financial Modeling & Valuation,Anand Menon,Online Transfer,6-Month EMI,6,6,42500,42500,0,Fully Paid,2025-06-20,
+STU10284,Vignesh Verma,2024-01-01,Jan-2024,Batch-2025-02,Web Development,Backend Development (Node.js),Sundar Raj,Cash,3-Month EMI,3,3,32500,32500,0,Fully Paid,2024-07-03,
+STU10285,Anika Pillai,2025-01-15,Jan-2025,Batch-2025-03,Data Science,AI & Deep Learning,Vishal Reddy,Cash,6-Month EMI,6,6,67500,67500,0,Fully Paid,2025-03-02,
+STU10286,Fatima Kumar,2024-01-02,Jan-2024,Batch-2024-07,Design,UI/UX Design Masterclass,Sundar Raj,Cheque,No EMI (Full Payment),1,1,41000,41000,0,Fully Paid,2024-01-06,
+STU10287,Zaid Sharma,2024-05-03,May-2024,Batch-2025-06,Finance,Financial Modeling & Valuation,Divya Krishnan,Online Transfer,No EMI (Full Payment),1,1,36500,36500,0,Partially Paid,2024-06-24,
+STU10288,Rahul Reddy,2024-11-02,Nov-2024,Batch-2025-01,Design,UI/UX Design Masterclass,Sundar Raj,Online Transfer,3-Month EMI,3,1,30000,10000,20000,Partially Paid,2025-06-15,2025-01-01
+STU10289,Vishnu Jacob,2024-08-06,Aug-2024,Batch-2025-06,Finance,Financial Modeling & Valuation,Joseph Thomas,Cheque,6-Month EMI,6,6,38500,38500,0,Fully Paid,2024-09-26,
+STU10290,Ishaan Joseph,2024-05-06,May-2024,Batch-2025-05,Digital Marketing,Advanced SEO & SEM,Fathima Rasheed,Net Banking,No EMI (Full Payment),1,1,22500,22500,0,Partially Paid,2025-02-13,
+STU10291,Anjali Mukherjee,2025-09-14,Sep-2025,Batch-2025-09,Business Management,Project Management Professional,Anand Menon,Net Banking,9-Month EMI,9,9,40000,40000,0,Fully Paid,2025-09-30,
+STU10292,Saanvi Jacob,2025-02-05,Feb-2025,Batch-2025-06,Finance,Financial Modeling & Valuation,Meera Pillai,UPI,3-Month EMI,3,3,39000,39000,0,Fully Paid,2025-07-07,
+STU10293,Arjun Das,2024-01-13,Jan-2024,Batch-2024-12,Digital Marketing,Digital Marketing Fundamentals,Joseph Thomas,Net Banking,9-Month EMI,9,9,21500,21500,0,Fully Paid,2024-12-27,
+STU10294,Diya Joseph,2025-04-27,Apr-2025,Batch-2025-04,Data Science,Data Science Foundation,Anand Menon,Debit Card,No EMI (Full Payment),1,1,36000,36000,0,Overdue,2025-09-03,
+STU10295,Ishita Thomas,2025-05-28,May-2025,Batch-2025-08,Design,Motion Graphics & Animation,Joseph Thomas,Online Transfer,6-Month EMI,6,3,41000,20500,20500,Partially Paid,2025-06-07,2025-09-25
+STU10296,Navya Pillai,2025-06-07,Jun-2025,Batch-2025-07,Business Management,MBA Prep & Aptitude,Arun Prasad,Debit Card,3-Month EMI,3,3,29000,29000,0,Fully Paid,2025-08-01,
+STU10297,Ayesha Varghese,2024-09-01,Sep-2024,Batch-2024-09,Web Development,Full Stack Web Development,Joseph Thomas,Online Transfer,3-Month EMI,3,3,55000,55000,0,Fully Paid,2025-08-08,
+STU10298,Sana George,2024-06-28,Jun-2024,Batch-2024-09,Data Science,Machine Learning Bootcamp,Anand Menon,Credit Card,3-Month EMI,3,3,60500,60500,0,Fully Paid,2025-08-02,
+STU10299,Christy Jacob,2024-09-22,Sep-2024,Batch-2024-11,Digital Marketing,Digital Marketing Fundamentals,Vishal Reddy,Cash,9-Month EMI,9,5,24500,13611,10889,Overdue,2025-04-29,2025-03-21
+STU10300,Riya Das,2024-03-06,Mar-2024,Batch-2024-11,Finance,Tally & GST Practitioner,Priyanka Nair,UPI,3-Month EMI,3,3,15000,15000,0,Fully Paid,2024-12-21,
+STU10301,Ananya Reddy,2024-06-10,Jun-2024,Batch-2025-02,Business Management,MBA Prep & Aptitude,Sneha Varma,Cash,6-Month EMI,6,1,31500,5250,26250,Partially Paid,2024-07-02,2024-08-09
+STU10302,Nithin Varghese,2024-01-13,Jan-2024,Batch-2024-08,Data Science,AI & Deep Learning,Fathima Rasheed,UPI,12-Month EMI,12,0,66000,0,66000,Overdue,,2024-02-12
+STU10303,Nithya Abraham,2025-03-05,Mar-2025,Batch-2025-04,Digital Marketing,Digital Marketing Fundamentals,Joseph Thomas,Cash,3-Month EMI,3,3,25000,25000,0,Fully Paid,2025-06-08,
+STU10304,Krishna Das,2024-02-23,Feb-2024,Batch-2024-07,Web Development,Backend Development (Node.js),Anand Menon,UPI,No EMI (Full Payment),1,1,35500,35500,0,Overdue,2024-08-08,
+STU10305,Reyansh Roy,2025-04-12,Apr-2025,Batch-2025-04,Digital Marketing,Digital Marketing Fundamentals,Vishal Reddy,Cheque,6-Month EMI,6,4,24000,16000,8000,Partially Paid,2025-07-15,2025-09-09
+STU10306,Swathi Singh,2024-07-19,Jul-2024,Batch-2025-06,Cloud & DevOps,AWS Cloud Practitioner,Sundar Raj,Online Transfer,12-Month EMI,12,12,25000,25000,0,Fully Paid,2025-01-12,
+STU10307,Mohammed Kurian,2024-01-10,Jan-2024,Batch-2024-11,Data Science,AI & Deep Learning,Vishal Reddy,Online Transfer,No EMI (Full Payment),1,1,68000,68000,0,Fully Paid,2024-02-09,
+STU10308,Rohan Mathew,2024-10-13,Oct-2024,Batch-2024-11,Data Science,Machine Learning Bootcamp,Arun Prasad,UPI,6-Month EMI,6,6,61000,61000,0,Fully Paid,2024-11-25,
+STU10309,Swathi Kumar,2025-06-01,Jun-2025,Batch-2025-07,Finance,Investment Banking Prep,Priyanka Nair,Cheque,6-Month EMI,6,2,57000,19000,38000,Partially Paid,2025-07-01,2025-08-30
+STU10310,Ishita Panicker,2024-11-18,Nov-2024,Batch-2025-05,Finance,Tally & GST Practitioner,Fathima Rasheed,Debit Card,3-Month EMI,3,3,14000,14000,0,Fully Paid,2025-03-01,
+STU10311,Ishaan Joseph,2025-08-21,Aug-2025,Batch-2025-08,Web Development,Full Stack Web Development,Sundar Raj,UPI,3-Month EMI,3,3,51500,51500,0,Fully Paid,2025-09-12,
+STU10312,Rukhsar Varma,2025-04-07,Apr-2025,Batch-2025-06,Design,Graphic Design Professional,Priyanka Nair,Online Transfer,No EMI (Full Payment),1,1,27500,27500,0,Fully Paid,2025-09-08,
+STU10313,Aditya Varma,2024-12-01,Dec-2024,Batch-2025-02,Data Science,Machine Learning Bootcamp,Fathima Rasheed,UPI,3-Month EMI,3,3,66000,66000,0,Fully Paid,2025-02-28,
+STU10314,Vivaan Rao,2025-04-08,Apr-2025,Batch-2025-08,Finance,Tally & GST Practitioner,Meera Pillai,Online Transfer,3-Month EMI,3,3,13000,13000,0,Fully Paid,2025-04-23,
+STU10315,Jerin Joseph,2024-08-15,Aug-2024,Batch-2024-10,Web Development,Frontend Development (React),Fathima Rasheed,Cash,6-Month EMI,6,3,26500,13250,13250,Partially Paid,2024-09-22,2024-12-13
+STU10316,Vivaan Pillai,2024-07-21,Jul-2024,Batch-2025-09,Finance,Investment Banking Prep,Sundar Raj,Online Transfer,12-Month EMI,12,2,63500,10583,52917,Partially Paid,2024-08-11,2024-10-19
+STU10317,Mahesh Menon,2024-06-21,Jun-2024,Batch-2025-07,Business Management,Project Management Professional,Joseph Thomas,UPI,No EMI (Full Payment),1,1,42000,42000,0,Fully Paid,2024-10-08,
+STU10318,Renjith Iyer,2024-10-08,Oct-2024,Batch-2025-02,Design,UI/UX Design Masterclass,Anand Menon,Cheque,6-Month EMI,6,4,34000,22666,11334,Partially Paid,2025-05-06,2025-03-07
+STU10319,Vipin Roy,2025-05-05,May-2025,Batch-2025-05,Data Science,Advanced Data Analytics,Joseph Thomas,Credit Card,3-Month EMI,3,2,50500,33666,16834,Overdue,2025-07-07,2025-08-03
+STU10320,Mohammed Abraham,2025-07-10,Jul-2025,Batch-2025-07,Design,Motion Graphics & Animation,Fathima Rasheed,UPI,3-Month EMI,3,3,40000,40000,0,Fully Paid,2025-09-20,
+STU10321,Meera Sharma,2025-02-01,Feb-2025,Batch-2025-06,Web Development,Full Stack Web Development,Fathima Rasheed,Cheque,No EMI (Full Payment),1,1,59500,59500,0,Partially Paid,2025-02-15,
+STU10322,Bibin Singh,2025-06-26,Jun-2025,Batch-2025-08,Business Management,Project Management Professional,Meera Pillai,Credit Card,No EMI (Full Payment),1,1,39000,39000,0,Fully Paid,2025-09-28,
+STU10323,Vihaan Joseph,2024-08-12,Aug-2024,Batch-2025-05,Business Management,Business Analytics,Fathima Rasheed,Net Banking,12-Month EMI,12,12,35000,35000,0,Fully Paid,2025-06-11,
+STU10324,Rahul Abraham,2025-01-02,Jan-2025,Batch-2025-01,Finance,Tally & GST Practitioner,Fathima Rasheed,Cheque,6-Month EMI,6,3,16500,8250,8250,Overdue,2025-06-09,2025-05-02
+STU10325,Diya Singh,2024-02-08,Feb-2024,Batch-2024-04,Data Science,Machine Learning Bootcamp,Sneha Varma,Credit Card,No EMI (Full Payment),1,1,63000,63000,0,Fully Paid,2024-12-18,
+STU10326,Saanvi Abraham,2024-05-13,May-2024,Batch-2025-03,Finance,Financial Modeling & Valuation,Fathima Rasheed,Online Transfer,No EMI (Full Payment),1,1,44500,44500,0,Partially Paid,2025-06-13,
+STU10327,Krishna Varghese,2025-06-22,Jun-2025,Batch-2025-08,Data Science,Advanced Data Analytics,Joseph Thomas,Cheque,No EMI (Full Payment),1,1,45000,45000,0,Fully Paid,2025-07-12,
+STU10328,Ayesha Gupta,2025-05-13,May-2025,Batch-2025-07,Web Development,Backend Development (Node.js),Arun Prasad,Cash,9-Month EMI,9,9,34000,34000,0,Fully Paid,2025-06-26,
+STU10329,Sandeep Namboothiri,2024-10-28,Oct-2024,Batch-2024-12,Web Development,Backend Development (Node.js),Anand Menon,Cash,12-Month EMI,12,9,34500,25875,8625,Overdue,2024-11-13,2025-08-24
+STU10330,Diya Mukherjee,2024-11-21,Nov-2024,Batch-2025-08,Web Development,Backend Development (Node.js),Sneha Varma,Online Transfer,12-Month EMI,12,12,30500,30500,0,Fully Paid,2024-12-30,
+STU10331,Myra Reddy,2024-11-23,Nov-2024,Batch-2025-01,Finance,Financial Modeling & Valuation,Fathima Rasheed,UPI,No EMI (Full Payment),1,1,38500,38500,0,Fully Paid,2024-12-27,
+STU10332,Vishnu Panicker,2024-04-20,Apr-2024,Batch-2024-04,Data Science,AI & Deep Learning,Divya Krishnan,Cash,3-Month EMI,3,1,65500,21833,43667,Overdue,2024-10-30,2024-06-19
+STU10333,Vishnu Roy,2025-01-19,Jan-2025,Batch-2025-02,Business Management,Business Analytics,Sneha Varma,Cash,6-Month EMI,6,6,35500,35500,0,Fully Paid,2025-02-06,
+STU10334,Bibin Varghese,2024-02-04,Feb-2024,Batch-2024-11,Data Science,Advanced Data Analytics,Vishal Reddy,Online Transfer,No EMI (Full Payment),1,0,43000,0,43000,Overdue,,2024-03-05
+STU10335,Ayesha Pillai,2025-07-14,Jul-2025,Batch-2025-07,Digital Marketing,Social Media Marketing Pro,Sneha Varma,UPI,6-Month EMI,6,1,18500,3083,15417,Overdue,2025-09-29,2025-09-12
+STU10336,Vipin Gupta,2024-06-09,Jun-2024,Batch-2024-07,Data Science,Advanced Data Analytics,Meera Pillai,Credit Card,3-Month EMI,3,2,49000,32666,16334,Partially Paid,2025-05-13,2024-09-07
+STU10337,Ishita Namboothiri,2024-08-31,Aug-2024,Batch-2024-09,Data Science,AI & Deep Learning,Sneha Varma,Cheque,9-Month EMI,9,9,65000,65000,0,Fully Paid,2024-09-01,
+STU10338,Suresh Pillai,2024-10-28,Oct-2024,Batch-2025-08,Finance,Tally & GST Practitioner,Divya Krishnan,Credit Card,No EMI (Full Payment),1,1,13500,13500,0,Fully Paid,2025-03-26,
+STU10339,Reyansh Singh,2024-04-28,Apr-2024,Batch-2025-01,Business Management,Business Analytics,Divya Krishnan,UPI,9-Month EMI,9,9,36500,36500,0,Fully Paid,2025-01-31,
+STU10340,Sandeep Iyer,2025-01-14,Jan-2025,Batch-2025-07,Digital Marketing,Digital Marketing Fundamentals,Divya Krishnan,Online Transfer,No EMI (Full Payment),1,1,22000,22000,0,Fully Paid,2025-05-31,
+STU10341,Deepa Menon,2024-06-03,Jun-2024,Batch-2024-09,Data Science,Advanced Data Analytics,Arun Prasad,UPI,12-Month EMI,12,12,49500,49500,0,Fully Paid,2024-07-04,
+STU10342,Jerin Rao,2025-06-19,Jun-2025,Batch-2025-09,Cloud & DevOps,Azure Solutions Architect,Divya Krishnan,Cheque,9-Month EMI,9,9,46000,46000,0,Fully Paid,2025-08-08,
+STU10343,Anoop Varghese,2024-02-05,Feb-2024,Batch-2025-06,Cloud & DevOps,Azure Solutions Architect,Sneha Varma,Cash,12-Month EMI,12,12,40500,40500,0,Fully Paid,2025-02-26,
+STU10344,Vignesh Iyer,2024-06-20,Jun-2024,Batch-2024-12,Business Management,MBA Prep & Aptitude,Sundar Raj,Online Transfer,3-Month EMI,3,3,35000,35000,0,Fully Paid,2025-05-07,
+STU10345,Rohan Kurian,2025-09-01,Sep-2025,Batch-2025-09,Digital Marketing,Social Media Marketing Pro,Priyanka Nair,Online Transfer,3-Month EMI,3,2,18500,12333,6167,Partially Paid,2025-09-17,2025-11-30
+STU10346,Mahesh Philip,2024-01-13,Jan-2024,Batch-2025-08,Cloud & DevOps,Azure Solutions Architect,Joseph Thomas,Online Transfer,3-Month EMI,3,1,40500,13500,27000,Partially Paid,2024-03-07,2024-03-13
+STU10347,Deepa Joseph,2024-04-13,Apr-2024,Batch-2025-01,Business Management,Project Management Professional,Fathima Rasheed,UPI,No EMI (Full Payment),1,1,43000,43000,0,Partially Paid,2024-05-02,
+STU10348,Diya Panicker,2025-02-16,Feb-2025,Batch-2025-04,Cloud & DevOps,Azure Solutions Architect,Joseph Thomas,Online Transfer,3-Month EMI,3,1,43500,14500,29000,Partially Paid,2025-08-25,2025-04-17
+STU10349,Priya Philip,2024-10-02,Oct-2024,Batch-2025-03,Data Science,Advanced Data Analytics,Vishal Reddy,Debit Card,No EMI (Full Payment),1,0,48000,0,48000,Overdue,,2024-11-01
+STU10350,Sarath Warrier,2024-05-17,May-2024,Batch-2025-02,Finance,Investment Banking Prep,Fathima Rasheed,Debit Card,6-Month EMI,6,2,60000,20000,40000,Partially Paid,2024-12-29,2024-08-15
+STU10351,Aadhya Philip,2025-02-20,Feb-2025,Batch-2025-09,Business Management,Project Management Professional,Fathima Rasheed,Net Banking,No EMI (Full Payment),1,1,37500,37500,0,Fully Paid,2025-08-20,
+STU10352,Meera Rao,2024-05-18,May-2024,Batch-2025-09,Cloud & DevOps,AWS Cloud Practitioner,Sundar Raj,Credit Card,9-Month EMI,9,4,26500,11777,14723,Partially Paid,2024-06-03,2024-10-15
+STU10353,Mahesh Menon,2025-01-04,Jan-2025,Batch-2025-04,Digital Marketing,Advanced SEO & SEM,Divya Krishnan,Cheque,3-Month EMI,3,3,27500,27500,0,Fully Paid,2025-01-19,
+STU10354,Myra Reddy,2025-05-15,May-2025,Batch-2025-09,Design,UI/UX Design Masterclass,Divya Krishnan,Cheque,6-Month EMI,6,6,35500,35500,0,Fully Paid,2025-07-20,
+STU10355,Sana Kurian,2024-04-02,Apr-2024,Batch-2025-01,Data Science,AI & Deep Learning,Anand Menon,Credit Card,9-Month EMI,9,3,67000,22333,44667,Overdue,2025-03-14,2024-07-31
+STU10356,Aadhya Panicker,2025-02-23,Feb-2025,Batch-2025-02,Business Management,Project Management Professional,Anand Menon,UPI,12-Month EMI,12,1,38000,3166,34834,Partially Paid,2025-04-21,2025-04-24
+STU10357,Anika Mukherjee,2024-11-08,Nov-2024,Batch-2025-09,Digital Marketing,Advanced SEO & SEM,Joseph Thomas,Net Banking,3-Month EMI,3,3,22000,22000,0,Fully Paid,2025-04-11,
+STU10358,Yusuf Das,2025-09-30,Sep-2025,Batch-2025-09,Cloud & DevOps,AWS Cloud Practitioner,Anand Menon,Cheque,12-Month EMI,12,9,32000,24000,8000,Partially Paid,2025-10-01,2026-07-27
+STU10359,Navya George,2024-04-20,Apr-2024,Batch-2025-07,Data Science,Advanced Data Analytics,Vishal Reddy,Cash,3-Month EMI,3,3,44500,44500,0,Fully Paid,2025-04-19,
+STU10360,Anoop Thomas,2024-11-01,Nov-2024,Batch-2025-02,Web Development,Backend Development (Node.js),Meera Pillai,Online Transfer,9-Month EMI,9,9,38000,38000,0,Fully Paid,2025-04-13,
+STU10361,Yusuf Krishnan,2024-01-27,Jan-2024,Batch-2025-09,Design,Graphic Design Professional,Vishal Reddy,UPI,3-Month EMI,3,3,28000,28000,0,Fully Paid,2025-01-23,
+STU10362,Deepa Kurian,2024-07-13,Jul-2024,Batch-2024-12,Finance,Tally & GST Practitioner,Meera Pillai,Cash,3-Month EMI,3,2,16000,10666,5334,Overdue,2025-01-12,2024-10-11
+STU10363,Meera Namboothiri,2024-06-23,Jun-2024,Batch-2024-11,Digital Marketing,Digital Marketing Fundamentals,Divya Krishnan,Credit Card,6-Month EMI,6,2,24000,8000,16000,Partially Paid,2025-06-06,2024-09-21
+STU10364,Anoop Sharma,2024-04-01,Apr-2024,Batch-2024-11,Digital Marketing,Digital Marketing Fundamentals,Vishal Reddy,UPI,6-Month EMI,6,6,20500,20500,0,Fully Paid,2025-01-25,
+STU10365,Ishita Verma,2024-04-30,Apr-2024,Batch-2025-07,Data Science,Data Science Foundation,Divya Krishnan,Credit Card,3-Month EMI,3,3,41500,41500,0,Fully Paid,2024-11-27,
+STU10366,Vihaan Varghese,2024-06-03,Jun-2024,Batch-2024-10,Web Development,Frontend Development (React),Joseph Thomas,Cheque,9-Month EMI,9,9,32500,32500,0,Fully Paid,2025-06-04,
+STU10367,Diya Joseph,2024-03-23,Mar-2024,Batch-2025-06,Digital Marketing,Social Media Marketing Pro,Sundar Raj,Debit Card,6-Month EMI,6,6,15000,15000,0,Fully Paid,2024-07-08,
+STU10368,Nazia Joseph,2024-06-21,Jun-2024,Batch-2024-11,Design,UI/UX Design Masterclass,Sundar Raj,Cheque,3-Month EMI,3,3,37000,37000,0,Fully Paid,2025-02-20,
+STU10369,Sandeep Nair,2024-02-08,Feb-2024,Batch-2025-07,Web Development,Backend Development (Node.js),Fathima Rasheed,Online Transfer,9-Month EMI,9,9,36500,36500,0,Fully Paid,2025-01-19,
+STU10370,Aarav Thomas,2024-09-11,Sep-2024,Batch-2024-12,Finance,Investment Banking Prep,Vishal Reddy,Credit Card,No EMI (Full Payment),1,1,58000,58000,0,Partially Paid,2024-10-14,
+STU10371,Christy Menon,2024-11-01,Nov-2024,Batch-2025-03,Design,Motion Graphics & Animation,Arun Prasad,Cheque,3-Month EMI,3,0,39000,0,39000,Overdue,,2024-12-01
+STU10372,Karthik Chacko,2025-05-16,May-2025,Batch-2025-07,Business Management,MBA Prep & Aptitude,Sundar Raj,Net Banking,3-Month EMI,3,3,31500,31500,0,Fully Paid,2025-06-18,
+STU10373,Aadhya Jacob,2024-01-23,Jan-2024,Batch-2025-07,Cloud & DevOps,AWS Cloud Practitioner,Priyanka Nair,Debit Card,6-Month EMI,6,6,31500,31500,0,Fully Paid,2024-12-15,
+STU10374,Anika Joseph,2025-07-01,Jul-2025,Batch-2025-09,Data Science,Data Science Foundation,Priyanka Nair,Cash,9-Month EMI,9,7,36000,28000,8000,Partially Paid,2025-08-26,2026-02-26
+STU10375,Sandeep Kumar,2025-07-14,Jul-2025,Batch-2025-08,Design,Motion Graphics & Animation,Sundar Raj,Credit Card,6-Month EMI,6,6,42500,42500,0,Fully Paid,2025-09-05,
+STU10376,Imran Kumar,2025-06-16,Jun-2025,Batch-2025-08,Cloud & DevOps,Azure Solutions Architect,Sundar Raj,UPI,9-Month EMI,9,9,39500,39500,0,Fully Paid,2025-09-03,
+STU10377,Krishna Namboothiri,2024-04-26,Apr-2024,Batch-2024-07,Design,UI/UX Design Masterclass,Sneha Varma,Credit Card,6-Month EMI,6,0,38500,0,38500,Pending (Not Started),,2024-05-11
+STU10378,Vishnu Mathew,2025-02-23,Feb-2025,Batch-2025-06,Web Development,Full Stack Web Development,Arun Prasad,UPI,12-Month EMI,12,5,56500,23541,32959,Overdue,2025-04-24,2025-08-22
+STU10379,Aarav Nair,2024-04-01,Apr-2024,Batch-2024-07,Business Management,Project Management Professional,Divya Krishnan,Credit Card,12-Month EMI,12,12,43500,43500,0,Fully Paid,2025-04-06,
+STU10380,Sai Chacko,2024-09-19,Sep-2024,Batch-2025-07,Web Development,Frontend Development (React),Vishal Reddy,Debit Card,3-Month EMI,3,1,26500,8833,17667,Partially Paid,2025-02-14,2024-11-18
+STU10381,Naveen Abraham,2024-11-16,Nov-2024,Batch-2025-05,Finance,Financial Modeling & Valuation,Priyanka Nair,Net Banking,6-Month EMI,6,6,36000,36000,0,Fully Paid,2025-01-25,
+STU10382,Imran Thomas,2024-06-23,Jun-2024,Batch-2025-04,Digital Marketing,Advanced SEO & SEM,Sneha Varma,Debit Card,9-Month EMI,9,9,21000,21000,0,Fully Paid,2024-12-15,
+STU10383,Diya Kumar,2025-02-14,Feb-2025,Batch-2025-08,Design,Graphic Design Professional,Joseph Thomas,Cash,9-Month EMI,9,9,28500,28500,0,Fully Paid,2025-09-28,
+STU10384,Bibin Iyer,2024-04-25,Apr-2024,Batch-2024-08,Finance,Tally & GST Practitioner,Anand Menon,Net Banking,No EMI (Full Payment),1,1,15500,15500,0,Overdue,2025-02-10,
+STU10385,Yusuf Verma,2024-07-04,Jul-2024,Batch-2025-04,Design,Graphic Design Professional,Sneha Varma,Online Transfer,9-Month EMI,9,3,29000,9666,19334,Partially Paid,2025-03-08,2024-11-01
+STU10386,Renjith Singh,2024-04-25,Apr-2024,Batch-2025-05,Design,UI/UX Design Masterclass,Priyanka Nair,Debit Card,6-Month EMI,6,5,30000,25000,5000,Partially Paid,2025-05-22,2024-10-22
+STU10387,Sana Bose,2025-08-01,Aug-2025,Batch-2025-08,Finance,Investment Banking Prep,Arun Prasad,Cheque,6-Month EMI,6,6,60000,60000,0,Fully Paid,2025-09-12,
+STU10388,Ayesha Warrier,2025-05-08,May-2025,Batch-2025-07,Finance,Tally & GST Practitioner,Joseph Thomas,Credit Card,9-Month EMI,9,0,16500,0,16500,Overdue,,2025-06-07
+STU10389,Aarav Thomas,2024-06-09,Jun-2024,Batch-2025-09,Business Management,Business Analytics,Sundar Raj,Online Transfer,6-Month EMI,6,6,37500,37500,0,Fully Paid,2024-10-29,
+STU10390,Vihaan Das,2024-08-16,Aug-2024,Batch-2025-04,Finance,Investment Banking Prep,Joseph Thomas,Net Banking,No EMI (Full Payment),1,1,57500,57500,0,Fully Paid,2025-06-05,
+STU10391,Vignesh Pillai,2025-05-25,May-2025,Batch-2025-08,Digital Marketing,Digital Marketing Fundamentals,Divya Krishnan,Cash,6-Month EMI,6,6,19000,19000,0,Fully Paid,2025-06-03,
+STU10392,Nithya Roy,2024-01-01,Jan-2024,Batch-2024-03,Business Management,Project Management Professional,Sneha Varma,Cash,3-Month EMI,3,2,43500,29000,14500,Partially Paid,2024-06-23,2024-03-31
+STU10393,Naveen Kurian,2024-02-25,Feb-2024,Batch-2024-09,Business Management,Business Analytics,Fathima Rasheed,Cheque,6-Month EMI,6,6,42000,42000,0,Fully Paid,2025-01-26,
+STU10394,Naveen Mathew,2025-04-08,Apr-2025,Batch-2025-04,Data Science,Machine Learning Bootcamp,Anand Menon,Debit Card,3-Month EMI,3,0,65500,0,65500,Pending (Not Started),,2025-04-23
+STU10395,Ishita Roy,2025-06-18,Jun-2025,Batch-2025-08,Finance,Financial Modeling & Valuation,Anand Menon,Credit Card,3-Month EMI,3,2,46500,31000,15500,Partially Paid,2025-07-01,2025-09-16
+STU10396,Anika Mukherjee,2024-07-19,Jul-2024,Batch-2024-10,Data Science,AI & Deep Learning,Meera Pillai,UPI,9-Month EMI,9,2,66000,14666,51334,Partially Paid,2025-08-10,2024-10-17
+STU10397,Arun Menon,2025-08-25,Aug-2025,Batch-2025-08,Business Management,Business Analytics,Divya Krishnan,Cash,6-Month EMI,6,6,40500,40500,0,Fully Paid,2025-09-25,
+STU10398,Aarav Das,2024-02-19,Feb-2024,Batch-2025-07,Design,Motion Graphics & Animation,Divya Krishnan,Cheque,6-Month EMI,6,2,35000,11666,23334,Partially Paid,2025-02-27,2024-05-19
+STU10399,Christy Krishnan,2024-04-16,Apr-2024,Batch-2025-04,Finance,Tally & GST Practitioner,Sneha Varma,Debit Card,3-Month EMI,3,3,15000,15000,0,Fully Paid,2025-02-21,
+STU10400,Renjith Mathew,2024-09-11,Sep-2024,Batch-2025-01,Design,Graphic Design Professional,Vishal Reddy,UPI,9-Month EMI,9,9,23000,23000,0,Fully Paid,2025-09-04,
+STU10401,Vipin Jacob,2025-06-08,Jun-2025,Batch-2025-08,Business Management,Project Management Professional,Arun Prasad,Net Banking,3-Month EMI,3,1,44000,14666,29334,Partially Paid,2025-07-04,2025-08-07
+STU10402,Kavya Mathew,2024-10-24,Oct-2024,Batch-2025-08,Digital Marketing,Social Media Marketing Pro,Sundar Raj,Cash,6-Month EMI,6,6,16500,16500,0,Fully Paid,2025-09-15,
+STU10403,Rahul Mathew,2024-04-28,Apr-2024,Batch-2025-03,Cloud & DevOps,DevOps Engineering,Sneha Varma,Cheque,12-Month EMI,12,12,51500,51500,0,Fully Paid,2025-05-15,
+STU10404,Anoop Kurian,2025-06-30,Jun-2025,Batch-2025-08,Business Management,Business Analytics,Anand Menon,Cheque,No EMI (Full Payment),1,1,38000,38000,0,Fully Paid,2025-09-23,
+STU10405,Vihaan Varma,2024-09-30,Sep-2024,Batch-2025-09,Business Management,MBA Prep & Aptitude,Vishal Reddy,Cash,No EMI (Full Payment),1,1,29000,29000,0,Partially Paid,2025-01-12,
+STU10406,Nazia Roy,2024-02-03,Feb-2024,Batch-2025-01,Business Management,Business Analytics,Priyanka Nair,Cheque,9-Month EMI,9,8,41000,36444,4556,Overdue,2024-08-20,2024-10-30
+STU10407,Myra Das,2024-10-21,Oct-2024,Batch-2025-09,Finance,Financial Modeling & Valuation,Joseph Thomas,UPI,3-Month EMI,3,0,48000,0,48000,Pending (Not Started),,2024-11-05
+STU10408,Rahul Roy,2024-02-25,Feb-2024,Batch-2024-02,Finance,Investment Banking Prep,Meera Pillai,Cheque,9-Month EMI,9,3,64000,21333,42667,Overdue,2025-01-14,2024-06-24
+STU10409,Fatima Mathew,2025-01-11,Jan-2025,Batch-2025-09,Finance,Tally & GST Practitioner,Meera Pillai,Net Banking,6-Month EMI,6,6,13500,13500,0,Fully Paid,2025-04-11,
+STU10410,Yusuf Pillai,2024-07-10,Jul-2024,Batch-2024-09,Finance,Tally & GST Practitioner,Priyanka Nair,UPI,No EMI (Full Payment),1,1,14500,14500,0,Partially Paid,2024-09-30,
+STU10411,Swathi Varghese,2024-09-18,Sep-2024,Batch-2024-09,Digital Marketing,Advanced SEO & SEM,Sundar Raj,Online Transfer,No EMI (Full Payment),1,1,22500,22500,0,Partially Paid,2025-05-27,
+STU10412,Akhil Bose,2025-07-17,Jul-2025,Batch-2025-08,Data Science,Advanced Data Analytics,Arun Prasad,Credit Card,12-Month EMI,12,12,48500,48500,0,Fully Paid,2025-09-19,
+STU10413,Ananya Gupta,2025-07-10,Jul-2025,Batch-2025-09,Design,UI/UX Design Masterclass,Fathima Rasheed,Credit Card,9-Month EMI,9,9,41000,41000,0,Fully Paid,2025-08-25,
+STU10414,Ishita Varma,2025-09-25,Sep-2025,Batch-2025-09,Cloud & DevOps,Azure Solutions Architect,Anand Menon,Online Transfer,6-Month EMI,6,6,45500,45500,0,Fully Paid,2025-09-30,
+STU10415,Kavya Philip,2025-09-28,Sep-2025,Batch-2025-09,Data Science,Advanced Data Analytics,Joseph Thomas,Net Banking,12-Month EMI,12,12,46500,46500,0,Fully Paid,2025-09-30,
+STU10416,Ishita Nair,2025-06-13,Jun-2025,Batch-2025-08,Cloud & DevOps,Azure Solutions Architect,Divya Krishnan,UPI,No EMI (Full Payment),1,1,48500,48500,0,Fully Paid,2025-08-17,
+STU10417,Reyansh Kumar,2024-06-20,Jun-2024,Batch-2024-06,Finance,Financial Modeling & Valuation,Meera Pillai,Cash,6-Month EMI,6,3,38500,19250,19250,Overdue,2024-08-12,2024-10-18
+STU10418,Aadhya Roy,2025-03-21,Mar-2025,Batch-2025-08,Business Management,MBA Prep & Aptitude,Sundar Raj,Online Transfer,3-Month EMI,3,3,33500,33500,0,Fully Paid,2025-04-08,
+STU10419,Vihaan Iyer,2024-09-14,Sep-2024,Batch-2025-05,Data Science,Machine Learning Bootcamp,Vishal Reddy,UPI,3-Month EMI,3,3,65500,65500,0,Fully Paid,2025-02-22,
+STU10420,Vivaan Rao,2024-05-01,May-2024,Batch-2024-05,Finance,Tally & GST Practitioner,Sneha Varma,Online Transfer,6-Month EMI,6,6,17000,17000,0,Fully Paid,2024-06-07,
+STU10421,Vishnu Philip,2025-05-29,May-2025,Batch-2025-05,Digital Marketing,Social Media Marketing Pro,Vishal Reddy,Cheque,No EMI (Full Payment),1,1,21500,21500,0,Overdue,2025-07-18,
+STU10422,Christy George,2024-02-01,Feb-2024,Batch-2025-05,Web Development,Backend Development (Node.js),Meera Pillai,Credit Card,6-Month EMI,6,6,37000,37000,0,Fully Paid,2024-12-21,
+STU10423,Rohan Namboothiri,2025-01-17,Jan-2025,Batch-2025-01,Cloud & DevOps,Azure Solutions Architect,Sundar Raj,Online Transfer,No EMI (Full Payment),1,1,47500,47500,0,Partially Paid,2025-06-22,
+STU10424,Aadhya Jacob,2024-12-18,Dec-2024,Batch-2025-03,Design,Motion Graphics & Animation,Arun Prasad,Credit Card,No EMI (Full Payment),1,1,35500,35500,0,Partially Paid,2025-03-27,
+STU10425,Krishna Iyer,2025-08-03,Aug-2025,Batch-2025-08,Business Management,Project Management Professional,Divya Krishnan,Cash,3-Month EMI,3,2,40000,26666,13334,Partially Paid,2025-08-09,2025-11-01
+STU10426,Saanvi Jacob,2025-08-17,Aug-2025,Batch-2025-09,Digital Marketing,Advanced SEO & SEM,Sundar Raj,Cash,6-Month EMI,6,6,21000,21000,0,Fully Paid,2025-08-21,
+STU10427,Anoop Varma,2024-11-21,Nov-2024,Batch-2025-06,Design,Graphic Design Professional,Sneha Varma,Cash,3-Month EMI,3,3,27000,27000,0,Fully Paid,2025-09-07,
+STU10428,Naveen Abraham,2024-11-19,Nov-2024,Batch-2025-05,Web Development,Full Stack Web Development,Fathima Rasheed,Credit Card,6-Month EMI,6,4,56500,37666,18834,Partially Paid,2025-04-09,2025-04-18
+STU10429,Jerin Reddy,2024-05-17,May-2024,Batch-2025-03,Design,Graphic Design Professional,Divya Krishnan,Debit Card,6-Month EMI,6,2,26000,8666,17334,Partially Paid,2025-04-12,2024-08-15
+STU10430,Anjali Pillai,2024-10-14,Oct-2024,Batch-2024-12,Cloud & DevOps,AWS Cloud Practitioner,Vishal Reddy,Cash,9-Month EMI,9,1,25500,2833,22667,Partially Paid,2025-06-30,2024-12-13
+STU10431,Mohammed Nair,2025-08-18,Aug-2025,Batch-2025-09,Business Management,Project Management Professional,Meera Pillai,Online Transfer,6-Month EMI,6,4,44000,29333,14667,Overdue,2025-09-17,2026-01-15
+STU10432,Farhan Joseph,2024-06-01,Jun-2024,Batch-2025-05,Design,UI/UX Design Masterclass,Sneha Varma,Cash,9-Month EMI,9,9,32000,32000,0,Fully Paid,2025-02-17,
+STU10433,Reyansh Rao,2025-01-07,Jan-2025,Batch-2025-09,Data Science,Machine Learning Bootcamp,Sneha Varma,Cash,No EMI (Full Payment),1,1,63500,63500,0,Fully Paid,2025-03-29,
+STU10434,Diya Bose,2025-08-02,Aug-2025,Batch-2025-08,Finance,Tally & GST Practitioner,Divya Krishnan,Debit Card,No EMI (Full Payment),1,1,16000,16000,0,Fully Paid,2025-08-18,
+STU10435,Naveen Warrier,2024-02-13,Feb-2024,Batch-2024-08,Cloud & DevOps,DevOps Engineering,Joseph Thomas,UPI,12-Month EMI,12,12,54500,54500,0,Fully Paid,2025-01-10,
+STU10436,Rahul Kumar,2025-06-17,Jun-2025,Batch-2025-08,Business Management,Project Management Professional,Vishal Reddy,Cheque,3-Month EMI,3,3,38000,38000,0,Fully Paid,2025-08-04,
+STU10437,Naveen Bose,2024-03-20,Mar-2024,Batch-2025-07,Digital Marketing,Advanced SEO & SEM,Meera Pillai,Cheque,3-Month EMI,3,1,26500,8833,17667,Overdue,2024-11-21,2024-05-19
+STU10438,Vipin Mukherjee,2024-01-07,Jan-2024,Batch-2025-05,Web Development,Frontend Development (React),Sundar Raj,Credit Card,No EMI (Full Payment),1,1,29500,29500,0,Fully Paid,2024-04-11,
+STU10439,Ananya Reddy,2025-09-08,Sep-2025,Batch-2025-09,Finance,Financial Modeling & Valuation,Joseph Thomas,Net Banking,3-Month EMI,3,3,37000,37000,0,Fully Paid,2025-09-23,
+STU10440,Priya Varma,2025-08-27,Aug-2025,Batch-2025-08,Finance,Investment Banking Prep,Anand Menon,Credit Card,No EMI (Full Payment),1,1,59500,59500,0,Partially Paid,2025-09-28,
+STU10441,Aditya Chacko,2025-08-09,Aug-2025,Batch-2025-08,Data Science,Machine Learning Bootcamp,Vishal Reddy,Credit Card,3-Month EMI,3,1,61500,20500,41000,Partially Paid,2025-09-24,2025-10-08
+STU10442,Ayesha George,2024-10-17,Oct-2024,Batch-2024-11,Web Development,Frontend Development (React),Sneha Varma,UPI,9-Month EMI,9,9,28000,28000,0,Fully Paid,2025-05-15,
+STU10443,Anjali Krishnan,2025-08-19,Aug-2025,Batch-2025-08,Cloud & DevOps,Azure Solutions Architect,Arun Prasad,Debit Card,No EMI (Full Payment),1,1,49000,49000,0,Fully Paid,2025-09-17,
+STU10444,Anjali Bose,2024-03-11,Mar-2024,Batch-2024-10,Design,Graphic Design Professional,Sundar Raj,Online Transfer,No EMI (Full Payment),1,1,26500,26500,0,Overdue,2024-05-26,
+STU10445,Anjali Kumar,2024-06-30,Jun-2024,Batch-2025-09,Cloud & DevOps,Azure Solutions Architect,Anand Menon,Net Banking,3-Month EMI,3,3,40000,40000,0,Fully Paid,2025-06-02,
+STU10446,Ishaan Chacko,2025-09-09,Sep-2025,Batch-2025-09,Business Management,Project Management Professional,Joseph Thomas,Cheque,3-Month EMI,3,2,35500,23666,11834,Partially Paid,2025-09-16,2025-12-08
+STU10447,Bibin Singh,2025-01-25,Jan-2025,Batch-2025-06,Cloud & DevOps,Azure Solutions Architect,Sneha Varma,Online Transfer,3-Month EMI,3,3,42000,42000,0,Fully Paid,2025-03-25,
+STU10448,Renjith Varghese,2024-03-26,Mar-2024,Batch-2024-12,Cloud & DevOps,Azure Solutions Architect,Joseph Thomas,Debit Card,No EMI (Full Payment),1,1,49500,49500,0,Partially Paid,2025-01-15,
+STU10449,Sneha Kumar,2025-06-16,Jun-2025,Batch-2025-06,Design,Motion Graphics & Animation,Meera Pillai,Cash,9-Month EMI,9,9,38500,38500,0,Fully Paid,2025-07-05,
+STU10450,Suresh Thomas,2025-08-22,Aug-2025,Batch-2025-09,Digital Marketing,Social Media Marketing Pro,Joseph Thomas,Cheque,3-Month EMI,3,0,17500,0,17500,Pending (Not Started),,2025-09-06
+STU10451,Gokul Joseph,2024-07-27,Jul-2024,Batch-2025-01,Cloud & DevOps,Azure Solutions Architect,Divya Krishnan,Credit Card,3-Month EMI,3,3,47000,47000,0,Fully Paid,2024-12-31,
+STU10452,Deepa Reddy,2025-02-11,Feb-2025,Batch-2025-04,Business Management,Project Management Professional,Priyanka Nair,Cash,No EMI (Full Payment),1,1,37500,37500,0,Fully Paid,2025-06-21,
+STU10453,Gokul Abraham,2024-12-12,Dec-2024,Batch-2025-08,Cloud & DevOps,Azure Solutions Architect,Anand Menon,Credit Card,3-Month EMI,3,3,48500,48500,0,Fully Paid,2025-01-27,
+STU10454,Christy Krishnan,2025-04-27,Apr-2025,Batch-2025-08,Design,UI/UX Design Masterclass,Priyanka Nair,Debit Card,No EMI (Full Payment),1,1,31500,31500,0,Partially Paid,2025-08-07,
+STU10455,Kavya Thomas,2025-06-17,Jun-2025,Batch-2025-08,Finance,Tally & GST Practitioner,Anand Menon,Net Banking,9-Month EMI,9,9,17000,17000,0,Fully Paid,2025-06-18,
+STU10456,Saanvi Varghese,2025-06-14,Jun-2025,Batch-2025-08,Web Development,Full Stack Web Development,Sneha Varma,Cheque,3-Month EMI,3,1,49000,16333,32667,Partially Paid,2025-07-30,2025-08-13
+STU10457,Myra Thomas,2024-01-01,Jan-2024,Batch-2024-06,Data Science,Advanced Data Analytics,Joseph Thomas,Debit Card,6-Month EMI,6,5,46500,38750,7750,Partially Paid,2024-01-08,2024-06-29
+STU10458,Sana Mathew,2024-03-11,Mar-2024,Batch-2024-05,Cloud & DevOps,DevOps Engineering,Arun Prasad,Cheque,3-Month EMI,3,3,53500,53500,0,Fully Paid,2025-01-15,
+STU10459,Saanvi Verma,2025-02-17,Feb-2025,Batch-2025-02,Digital Marketing,Digital Marketing Fundamentals,Joseph Thomas,Cheque,No EMI (Full Payment),1,1,18500,18500,0,Fully Paid,2025-05-15,
+STU10460,Krishna Abraham,2025-06-09,Jun-2025,Batch-2025-08,Cloud & DevOps,Azure Solutions Architect,Vishal Reddy,Cash,3-Month EMI,3,1,44000,14666,29334,Partially Paid,2025-09-13,2025-08-08
+STU10461,Karthik Joseph,2025-04-14,Apr-2025,Batch-2025-09,Design,Motion Graphics & Animation,Anand Menon,UPI,No EMI (Full Payment),1,1,33000,33000,0,Fully Paid,2025-06-09,
+STU10462,Yusuf Mathew,2024-08-23,Aug-2024,Batch-2025-08,Digital Marketing,Advanced SEO & SEM,Fathima Rasheed,Cheque,3-Month EMI,3,1,25500,8500,17000,Partially Paid,2025-01-17,2024-10-22
+STU10463,Reyansh Rao,2024-12-16,Dec-2024,Batch-2025-01,Cloud & DevOps,AWS Cloud Practitioner,Divya Krishnan,Debit Card,3-Month EMI,3,3,29500,29500,0,Fully Paid,2025-03-23,
+STU10464,Divya Jacob,2024-07-23,Jul-2024,Batch-2024-10,Finance,Financial Modeling & Valuation,Vishal Reddy,Credit Card,No EMI (Full Payment),1,1,39000,39000,0,Partially Paid,2024-10-10,
+STU10465,Rukhsar Kumar,2024-05-02,May-2024,Batch-2024-07,Finance,Tally & GST Practitioner,Divya Krishnan,Cheque,No EMI (Full Payment),1,0,16500,0,16500,Pending (Not Started),,2024-05-17
+STU10466,Nithin Singh,2025-01-15,Jan-2025,Batch-2025-06,Design,Motion Graphics & Animation,Vishal Reddy,UPI,No EMI (Full Payment),1,1,44500,44500,0,Overdue,2025-08-06,
+STU10467,Kiara Joseph,2025-08-13,Aug-2025,Batch-2025-08,Data Science,AI & Deep Learning,Divya Krishnan,Cheque,No EMI (Full Payment),1,1,71500,71500,0,Fully Paid,2025-09-25,
+STU10468,Rukhsar Iyer,2025-04-13,Apr-2025,Batch-2025-04,Finance,Tally & GST Practitioner,Divya Krishnan,Debit Card,6-Month EMI,6,4,12000,8000,4000,Partially Paid,2025-09-08,2025-09-10
+STU10469,Sai Sharma,2025-01-05,Jan-2025,Batch-2025-05,Web Development,Backend Development (Node.js),Vishal Reddy,Credit Card,No EMI (Full Payment),1,1,33500,33500,0,Fully Paid,2025-09-17,
+STU10470,Suresh Varma,2025-03-05,Mar-2025,Batch-2025-08,Business Management,Business Analytics,Fathima Rasheed,Net Banking,3-Month EMI,3,3,39500,39500,0,Fully Paid,2025-04-07,
+STU10471,Deepa George,2024-08-22,Aug-2024,Batch-2025-09,Data Science,Advanced Data Analytics,Meera Pillai,Cheque,3-Month EMI,3,3,46000,46000,0,Fully Paid,2025-09-04,
+STU10472,Rohan Singh,2024-01-10,Jan-2024,Batch-2024-06,Design,Graphic Design Professional,Sundar Raj,Net Banking,6-Month EMI,6,4,26500,17666,8834,Partially Paid,2024-06-11,2024-06-08
+STU10473,Anika Roy,2025-08-04,Aug-2025,Batch-2025-08,Design,UI/UX Design Masterclass,Sundar Raj,Online Transfer,No EMI (Full Payment),1,1,34000,34000,0,Fully Paid,2025-09-13,
+STU10474,Sai Verma,2024-12-08,Dec-2024,Batch-2025-04,Digital Marketing,Advanced SEO & SEM,Arun Prasad,Cheque,12-Month EMI,12,12,22000,22000,0,Fully Paid,2025-07-06,
+STU10475,Krishna Reddy,2025-09-12,Sep-2025,Batch-2025-09,Cloud & DevOps,Azure Solutions Architect,Arun Prasad,Credit Card,12-Month EMI,12,12,42500,42500,0,Fully Paid,2025-09-28,
+STU10476,Divya Joseph,2025-04-02,Apr-2025,Batch-2025-04,Design,Motion Graphics & Animation,Vishal Reddy,UPI,6-Month EMI,6,5,34500,28750,5750,Overdue,2025-06-27,2025-09-29
+STU10477,Arun Thomas,2025-09-19,Sep-2025,Batch-2025-09,Business Management,MBA Prep & Aptitude,Priyanka Nair,Credit Card,3-Month EMI,3,3,33000,33000,0,Fully Paid,2025-09-23,
+STU10478,Fatima Panicker,2025-09-11,Sep-2025,Batch-2025-09,Digital Marketing,Advanced SEO & SEM,Fathima Rasheed,Cash,6-Month EMI,6,6,28000,28000,0,Fully Paid,2025-09-16,
+STU10479,Diya Varghese,2024-01-24,Jan-2024,Batch-2024-05,Finance,Financial Modeling & Valuation,Vishal Reddy,Cash,6-Month EMI,6,6,36500,36500,0,Fully Paid,2024-08-14,
+STU10480,Sai Kumar,2024-03-06,Mar-2024,Batch-2025-06,Cloud & DevOps,AWS Cloud Practitioner,Anand Menon,Net Banking,3-Month EMI,3,0,31500,0,31500,Pending (Not Started),,2024-03-21
+STU10481,Sai Panicker,2025-09-24,Sep-2025,Batch-2025-09,Data Science,AI & Deep Learning,Vishal Reddy,Credit Card,No EMI (Full Payment),1,1,69500,69500,0,Fully Paid,2025-09-25,
+STU10482,Ishaan Das,2024-06-23,Jun-2024,Batch-2024-06,Data Science,Advanced Data Analytics,Fathima Rasheed,Net Banking,3-Month EMI,3,3,54500,54500,0,Fully Paid,2024-11-09,
+STU10483,Nithya Verma,2024-05-18,May-2024,Batch-2024-10,Cloud & DevOps,Azure Solutions Architect,Divya Krishnan,Cash,6-Month EMI,6,6,47000,47000,0,Fully Paid,2025-04-10,
+STU10484,Mohammed Roy,2024-11-13,Nov-2024,Batch-2025-04,Design,Motion Graphics & Animation,Meera Pillai,Net Banking,No EMI (Full Payment),1,1,37000,37000,0,Fully Paid,2025-03-26,
+STU10485,Rohan Namboothiri,2024-01-11,Jan-2024,Batch-2024-01,Cloud & DevOps,AWS Cloud Practitioner,Fathima Rasheed,Debit Card,3-Month EMI,3,2,25000,16666,8334,Partially Paid,2025-01-31,2024-04-10
+STU10486,Priya Namboothiri,2024-01-10,Jan-2024,Batch-2025-02,Business Management,Business Analytics,Sneha Varma,Credit Card,6-Month EMI,6,6,41000,41000,0,Fully Paid,2024-08-07,
+STU10487,Vipin Roy,2025-03-23,Mar-2025,Batch-2025-06,Web Development,Full Stack Web Development,Joseph Thomas,Net Banking,3-Month EMI,3,3,49500,49500,0,Fully Paid,2025-08-30,
+STU10488,Myra Das,2025-09-19,Sep-2025,Batch-2025-09,Digital Marketing,Social Media Marketing Pro,Arun Prasad,Net Banking,No EMI (Full Payment),1,0,16500,0,16500,Overdue,,2025-10-19
+STU10489,Ishaan Namboothiri,2024-04-23,Apr-2024,Batch-2025-06,Cloud & DevOps,DevOps Engineering,Vishal Reddy,Cash,6-Month EMI,6,6,43000,43000,0,Fully Paid,2024-07-09,
+STU10490,Vihaan Roy,2024-01-23,Jan-2024,Batch-2024-06,Data Science,Advanced Data Analytics,Vishal Reddy,Credit Card,6-Month EMI,6,6,52000,52000,0,Fully Paid,2024-03-09,
+STU10491,Rohan Nair,2025-05-20,May-2025,Batch-2025-06,Digital Marketing,Advanced SEO & SEM,Vishal Reddy,Net Banking,6-Month EMI,6,6,23000,23000,0,Fully Paid,2025-05-28,
+STU10492,Karthik Pillai,2024-05-29,May-2024,Batch-2024-06,Digital Marketing,Advanced SEO & SEM,Priyanka Nair,Cheque,3-Month EMI,3,1,21500,7166,14334,Overdue,2024-12-10,2024-07-28
+STU10493,Jerin Nair,2024-05-04,May-2024,Batch-2024-12,Design,Graphic Design Professional,Meera Pillai,Cash,12-Month EMI,12,12,23500,23500,0,Fully Paid,2025-06-02,
+STU10494,Sai Das,2024-08-01,Aug-2024,Batch-2025-03,Design,Motion Graphics & Animation,Vishal Reddy,Debit Card,No EMI (Full Payment),1,1,44000,44000,0,Fully Paid,2025-05-09,
+STU10495,Sneha Kumar,2024-09-16,Sep-2024,Batch-2025-04,Finance,Investment Banking Prep,Meera Pillai,Debit Card,9-Month EMI,9,2,64000,14222,49778,Partially Paid,2025-01-14,2024-12-15
+STU10496,Mohammed Gupta,2024-11-28,Nov-2024,Batch-2024-11,Web Development,Frontend Development (React),Sneha Varma,Online Transfer,3-Month EMI,3,3,29000,29000,0,Fully Paid,2024-12-19,
+STU10497,Swathi Abraham,2025-05-01,May-2025,Batch-2025-09,Web Development,Frontend Development (React),Priyanka Nair,Credit Card,No EMI (Full Payment),1,1,26500,26500,0,Partially Paid,2025-05-16,
+STU10498,Vihaan Reddy,2024-06-06,Jun-2024,Batch-2024-09,Web Development,Frontend Development (React),Meera Pillai,Debit Card,12-Month EMI,12,8,30500,20333,10167,Partially Paid,2025-06-16,2025-03-03
+STU10499,Saanvi Nair,2025-01-21,Jan-2025,Batch-2025-06,Finance,Financial Modeling & Valuation,Vishal Reddy,Online Transfer,3-Month EMI,3,2,42000,28000,14000,Partially Paid,2025-03-10,2025-04-21
+STU10500,Deepa Iyer,2025-07-10,Jul-2025,Batch-2025-08,Digital Marketing,Social Media Marketing Pro,Divya Krishnan,Debit Card,9-Month EMI,9,8,20000,17777,2223,Overdue,2025-07-30,2026-04-06
+STU10501,Arjun Das,2024-06-07,Jun-2024,Batch-2025-08,Digital Marketing,Advanced SEO & SEM,Arun Prasad,Debit Card,3-Month EMI,3,2,26500,17666,8834,Partially Paid,2025-06-17,2024-09-05
+STU10502,Diya Chacko,2024-01-20,Jan-2024,Batch-2025-08,Business Management,Business Analytics,Sneha Varma,Credit Card,3-Month EMI,3,2,33000,22000,11000,Partially Paid,2024-04-26,2024-04-19
+STU10503,Sneha George,2025-05-24,May-2025,Batch-2025-09,Web Development,Backend Development (Node.js),Vishal Reddy,Debit Card,3-Month EMI,3,3,33500,33500,0,Fully Paid,2025-06-10,
+STU10504,Aditya Kurian,2024-05-12,May-2024,Batch-2024-10,Business Management,MBA Prep & Aptitude,Meera Pillai,Online Transfer,3-Month EMI,3,3,29500,29500,0,Fully Paid,2025-04-05,
+STU10505,Jerin Rao,2025-05-16,May-2025,Batch-2025-09,Cloud & DevOps,Azure Solutions Architect,Sneha Varma,Debit Card,No EMI (Full Payment),1,1,41500,41500,0,Partially Paid,2025-05-19,
+STU10506,Sreekutty Philip,2024-08-01,Aug-2024,Batch-2025-06,Design,UI/UX Design Masterclass,Divya Krishnan,Net Banking,6-Month EMI,6,4,36000,24000,12000,Partially Paid,2025-02-05,2024-12-29
+STU10507,Akhil Mathew,2024-02-29,Feb-2024,Batch-2025-09,Digital Marketing,Social Media Marketing Pro,Anand Menon,Cash,No EMI (Full Payment),1,1,17500,17500,0,Fully Paid,2024-06-18,
+STU10508,Sneha Kumar,2024-04-13,Apr-2024,Batch-2024-11,Cloud & DevOps,DevOps Engineering,Meera Pillai,Credit Card,3-Month EMI,3,1,44000,14666,29334,Partially Paid,2025-01-23,2024-06-12
+STU10509,Sana Roy,2025-03-01,Mar-2025,Batch-2025-08,Data Science,Advanced Data Analytics,Divya Krishnan,Cash,6-Month EMI,6,6,54500,54500,0,Fully Paid,2025-09-19,
+STU10510,Diya Roy,2025-02-15,Feb-2025,Batch-2025-07,Finance,Financial Modeling & Valuation,Arun Prasad,Cheque,3-Month EMI,3,2,41000,27333,13667,Overdue,2025-05-09,2025-05-16
+STU10511,Nithin Reddy,2025-02-26,Feb-2025,Batch-2025-08,Business Management,Project Management Professional,Fathima Rasheed,Cheque,No EMI (Full Payment),1,1,44000,44000,0,Fully Paid,2025-09-10,
+STU10512,Nithya Philip,2024-09-17,Sep-2024,Batch-2025-02,Design,Graphic Design Professional,Joseph Thomas,Online Transfer,6-Month EMI,6,5,24500,20416,4084,Partially Paid,2024-11-25,2025-03-16
+STU10513,Vipin Namboothiri,2024-01-07,Jan-2024,Batch-2024-10,Web Development,Full Stack Web Development,Fathima Rasheed,Online Transfer,6-Month EMI,6,5,56500,47083,9417,Partially Paid,2024-09-24,2024-07-05
+STU10514,Nithya Bose,2025-08-08,Aug-2025,Batch-2025-08,Data Science,Data Science Foundation,Divya Krishnan,Debit Card,No EMI (Full Payment),1,1,39500,39500,0,Fully Paid,2025-09-14,
+STU10515,Myra Warrier,2024-09-19,Sep-2024,Batch-2025-09,Digital Marketing,Digital Marketing Fundamentals,Sneha Varma,UPI,6-Month EMI,6,3,20000,10000,10000,Partially Paid,2025-05-24,2025-01-17
+STU10516,Diya Singh,2025-08-13,Aug-2025,Batch-2025-08,Cloud & DevOps,Azure Solutions Architect,Vishal Reddy,Online Transfer,6-Month EMI,6,6,47500,47500,0,Fully Paid,2025-08-16,
+STU10517,Renjith Joseph,2024-12-08,Dec-2024,Batch-2025-05,Business Management,Business Analytics,Joseph Thomas,Net Banking,No EMI (Full Payment),1,1,35500,35500,0,Partially Paid,2025-06-21,
+STU10518,Vihaan Namboothiri,2025-06-20,Jun-2025,Batch-2025-06,Digital Marketing,Social Media Marketing Pro,Sneha Varma,Credit Card,3-Month EMI,3,3,20500,20500,0,Fully Paid,2025-06-26,
+STU10519,Yusuf Jacob,2025-02-06,Feb-2025,Batch-2025-09,Business Management,Project Management Professional,Sneha Varma,Cheque,No EMI (Full Payment),1,1,42000,42000,0,Fully Paid,2025-05-17,
+STU10520,Rohan Krishnan,2024-12-10,Dec-2024,Batch-2025-01,Design,Motion Graphics & Animation,Anand Menon,Cheque,3-Month EMI,3,3,33500,33500,0,Fully Paid,2025-07-20,
+STU10521,Rukhsar Mathew,2024-05-13,May-2024,Batch-2024-09,Design,Motion Graphics & Animation,Meera Pillai,UPI,3-Month EMI,3,3,41500,41500,0,Fully Paid,2025-03-24,
+STU10522,Sana Das,2024-09-09,Sep-2024,Batch-2024-12,Data Science,Advanced Data Analytics,Joseph Thomas,Debit Card,6-Month EMI,6,6,49500,49500,0,Fully Paid,2025-08-18,
+STU10523,Arun Gupta,2025-01-09,Jan-2025,Batch-2025-06,Web Development,Frontend Development (React),Fathima Rasheed,Cheque,6-Month EMI,6,6,30000,30000,0,Fully Paid,2025-07-07,
+STU10524,Kavya Kurian,2025-03-28,Mar-2025,Batch-2025-07,Web Development,Frontend Development (React),Anand Menon,Net Banking,No EMI (Full Payment),1,1,31000,31000,0,Fully Paid,2025-09-30,
+STU10525,Nithin Pillai,2024-04-25,Apr-2024,Batch-2024-05,Web Development,Backend Development (Node.js),Sundar Raj,Net Banking,9-Month EMI,9,9,32500,32500,0,Fully Paid,2025-04-15,
+STU10526,Bibin Kumar,2024-11-08,Nov-2024,Batch-2025-06,Design,UI/UX Design Masterclass,Fathima Rasheed,Credit Card,6-Month EMI,6,6,33500,33500,0,Fully Paid,2025-08-02,
+STU10527,Nazia Panicker,2025-07-15,Jul-2025,Batch-2025-08,Cloud & DevOps,Azure Solutions Architect,Sundar Raj,Cash,6-Month EMI,6,6,38500,38500,0,Fully Paid,2025-09-20,
+STU10528,Aditya Panicker,2024-06-23,Jun-2024,Batch-2024-07,Digital Marketing,Digital Marketing Fundamentals,Sneha Varma,Debit Card,No EMI (Full Payment),1,0,23500,0,23500,Overdue,,2024-07-23
+STU10529,Sandeep George,2024-10-04,Oct-2024,Batch-2025-08,Business Management,Project Management Professional,Fathima Rasheed,Net Banking,No EMI (Full Payment),1,1,40000,40000,0,Overdue,2025-01-30,
+STU10530,Sandeep Das,2024-04-11,Apr-2024,Batch-2025-02,Design,Motion Graphics & Animation,Arun Prasad,Online Transfer,No EMI (Full Payment),1,0,40000,0,40000,Pending (Not Started),,2024-04-26
+STU10531,Nithya Philip,2024-01-23,Jan-2024,Batch-2024-02,Web Development,Backend Development (Node.js),Vishal Reddy,Debit Card,3-Month EMI,3,3,30500,30500,0,Fully Paid,2025-01-07,
+STU10532,Vishnu Reddy,2024-11-05,Nov-2024,Batch-2025-02,Cloud & DevOps,DevOps Engineering,Anand Menon,Cash,No EMI (Full Payment),1,0,46500,0,46500,Overdue,,2024-12-05
+STU10533,Nithya Panicker,2024-08-18,Aug-2024,Batch-2024-10,Digital Marketing,Advanced SEO & SEM,Sundar Raj,Online Transfer,6-Month EMI,6,0,24500,0,24500,Pending (Not Started),,2024-09-02
+STU10534,Kavya Varghese,2024-08-20,Aug-2024,Batch-2025-02,Web Development,Backend Development (Node.js),Sundar Raj,UPI,12-Month EMI,12,12,38000,38000,0,Fully Paid,2025-05-24,
+STU10535,Ishaan Varma,2024-05-21,May-2024,Batch-2024-11,Business Management,MBA Prep & Aptitude,Vishal Reddy,Cash,6-Month EMI,6,3,36500,18250,18250,Overdue,2025-06-19,2024-09-18
+STU10536,Rohan Thomas,2025-08-01,Aug-2025,Batch-2025-08,Digital Marketing,Digital Marketing Fundamentals,Arun Prasad,Cheque,12-Month EMI,12,12,19000,19000,0,Fully Paid,2025-09-23,
+STU10537,Vipin Krishnan,2024-01-31,Jan-2024,Batch-2024-11,Design,Graphic Design Professional,Vishal Reddy,UPI,6-Month EMI,6,5,28500,23750,4750,Overdue,2024-06-19,2024-07-29
+STU10538,Rohan Joseph,2024-07-11,Jul-2024,Batch-2024-08,Web Development,Full Stack Web Development,Anand Menon,Net Banking,12-Month EMI,12,12,55000,55000,0,Fully Paid,2025-04-27,
+STU10539,Kavya Warrier,2025-09-02,Sep-2025,Batch-2025-09,Web Development,Backend Development (Node.js),Anand Menon,Debit Card,No EMI (Full Payment),1,1,36000,36000,0,Fully Paid,2025-09-29,
+STU10540,Anjali Singh,2025-01-17,Jan-2025,Batch-2025-03,Business Management,Business Analytics,Divya Krishnan,UPI,No EMI (Full Payment),1,1,35000,35000,0,Fully Paid,2025-08-14,
+STU10541,Nazia Nair,2024-10-03,Oct-2024,Batch-2025-04,Web Development,Backend Development (Node.js),Meera Pillai,Net Banking,No EMI (Full Payment),1,1,31000,31000,0,Overdue,2025-08-14,
+STU10542,Divya Mathew,2024-11-28,Nov-2024,Batch-2025-06,Web Development,Frontend Development (React),Joseph Thomas,Net Banking,No EMI (Full Payment),1,1,31000,31000,0,Partially Paid,2025-09-16,
+STU10543,Anjali Roy,2025-06-21,Jun-2025,Batch-2025-06,Cloud & DevOps,AWS Cloud Practitioner,Divya Krishnan,UPI,9-Month EMI,9,3,25500,8500,17000,Overdue,2025-08-26,2025-10-19
+STU10544,Pooja Rao,2024-02-10,Feb-2024,Batch-2025-07,Design,Motion Graphics & Animation,Anand Menon,Credit Card,No EMI (Full Payment),1,1,38500,38500,0,Overdue,2024-10-03,
+STU10545,Ananya Gupta,2024-10-28,Oct-2024,Batch-2025-07,Data Science,Machine Learning Bootcamp,Divya Krishnan,Net Banking,6-Month EMI,6,1,56500,9416,47084,Partially Paid,2025-01-28,2024-12-27
+STU10546,Rukhsar Bose,2025-07-13,Jul-2025,Batch-2025-07,Design,Graphic Design Professional,Fathima Rasheed,UPI,No EMI (Full Payment),1,1,25500,25500,0,Partially Paid,2025-09-09,
+STU10547,Reyansh Panicker,2024-11-27,Nov-2024,Batch-2025-09,Finance,Financial Modeling & Valuation,Priyanka Nair,Online Transfer,No EMI (Full Payment),1,1,42500,42500,0,Partially Paid,2025-08-22,
+STU10548,Fatima Rao,2025-06-07,Jun-2025,Batch-2025-07,Design,Motion Graphics & Animation,Joseph Thomas,Online Transfer,6-Month EMI,6,2,37500,12500,25000,Partially Paid,2025-06-27,2025-09-05
+STU10549,Sarath Krishnan,2024-07-02,Jul-2024,Batch-2025-07,Finance,Financial Modeling & Valuation,Joseph Thomas,Debit Card,3-Month EMI,3,0,47500,0,47500,Pending (Not Started),,2024-07-17
+STU10550,Ishita Thomas,2024-07-04,Jul-2024,Batch-2024-08,Web Development,Full Stack Web Development,Anand Menon,Cheque,6-Month EMI,6,6,45000,45000,0,Fully Paid,2025-03-16,
+STU10551,Pooja Abraham,2024-01-06,Jan-2024,Batch-2025-08,Design,UI/UX Design Masterclass,Meera Pillai,Cheque,6-Month EMI,6,6,37500,37500,0,Fully Paid,2024-02-15,
+STU10552,Anjali Mukherjee,2024-01-07,Jan-2024,Batch-2024-08,Cloud & DevOps,DevOps Engineering,Sneha Varma,Cash,6-Month EMI,6,6,53500,53500,0,Fully Paid,2024-04-10,
+STU10553,Rohan Menon,2024-12-23,Dec-2024,Batch-2024-12,Web Development,Full Stack Web Development,Sneha Varma,Net Banking,6-Month EMI,6,0,50500,0,50500,Overdue,,2025-01-22
+STU10554,Sai Gupta,2024-07-01,Jul-2024,Batch-2024-09,Finance,Investment Banking Prep,Sneha Varma,Cash,6-Month EMI,6,5,59500,49583,9917,Partially Paid,2024-09-29,2024-12-28
+STU10555,Mahesh Jacob,2025-08-15,Aug-2025,Batch-2025-09,Data Science,Data Science Foundation,Vishal Reddy,Debit Card,3-Month EMI,3,2,41000,27333,13667,Partially Paid,2025-09-19,2025-11-13
+STU10556,Arjun Namboothiri,2025-04-27,Apr-2025,Batch-2025-05,Data Science,Advanced Data Analytics,Fathima Rasheed,Cheque,3-Month EMI,3,1,43500,14500,29000,Partially Paid,2025-05-24,2025-06-26
+STU10557,Deepa Jacob,2025-06-25,Jun-2025,Batch-2025-06,Design,Motion Graphics & Animation,Sneha Varma,Net Banking,12-Month EMI,12,12,36500,36500,0,Fully Paid,2025-08-04,
+STU10558,Anika Das,2025-08-11,Aug-2025,Batch-2025-09,Web Development,Backend Development (Node.js),Sneha Varma,UPI,3-Month EMI,3,3,36000,36000,0,Fully Paid,2025-08-22,
+STU10559,Vipin Mukherjee,2024-08-26,Aug-2024,Batch-2025-07,Digital Marketing,Digital Marketing Fundamentals,Anand Menon,Online Transfer,No EMI (Full Payment),1,1,23000,23000,0,Partially Paid,2025-07-07,
+STU10560,Arun Gupta,2024-02-16,Feb-2024,Batch-2024-12,Digital Marketing,Social Media Marketing Pro,Meera Pillai,Online Transfer,6-Month EMI,6,6,20500,20500,0,Fully Paid,2024-03-21,
+STU10561,Navya Namboothiri,2025-06-02,Jun-2025,Batch-2025-08,Business Management,MBA Prep & Aptitude,Priyanka Nair,Cash,3-Month EMI,3,1,34500,11500,23000,Partially Paid,2025-09-16,2025-08-01
+STU10562,Diya Varma,2024-12-04,Dec-2024,Batch-2025-05,Finance,Investment Banking Prep,Divya Krishnan,Net Banking,No EMI (Full Payment),1,1,52000,52000,0,Fully Paid,2025-07-27,
+STU10563,Anoop Varghese,2025-07-03,Jul-2025,Batch-2025-08,Design,Graphic Design Professional,Anand Menon,Net Banking,3-Month EMI,3,2,26500,17666,8834,Partially Paid,2025-09-12,2025-10-01
+STU10564,Pooja Nair,2024-08-01,Aug-2024,Batch-2025-05,Finance,Investment Banking Prep,Fathima Rasheed,Online Transfer,12-Month EMI,12,6,54500,27250,27250,Partially Paid,2025-02-09,2025-02-27
+STU10565,Mohammed Roy,2024-06-18,Jun-2024,Batch-2025-06,Web Development,Backend Development (Node.js),Priyanka Nair,Net Banking,6-Month EMI,6,3,33000,16500,16500,Partially Paid,2025-06-16,2024-10-16
+STU10566,Aditya Panicker,2025-02-27,Feb-2025,Batch-2025-03,Design,UI/UX Design Masterclass,Fathima Rasheed,UPI,9-Month EMI,9,9,35000,35000,0,Fully Paid,2025-05-15,
+STU10567,Diya Kumar,2025-01-18,Jan-2025,Batch-2025-01,Business Management,MBA Prep & Aptitude,Priyanka Nair,UPI,3-Month EMI,3,0,36000,0,36000,Overdue,,2025-02-17
+STU10568,Saanvi Sharma,2025-05-10,May-2025,Batch-2025-09,Digital Marketing,Advanced SEO & SEM,Sundar Raj,Net Banking,9-Month EMI,9,0,26500,0,26500,Pending (Not Started),,2025-05-25
+STU10569,Sneha George,2024-05-15,May-2024,Batch-2024-11,Finance,Financial Modeling & Valuation,Divya Krishnan,UPI,6-Month EMI,6,6,43500,43500,0,Fully Paid,2024-10-21,
+STU10570,Sreekutty Menon,2025-08-31,Aug-2025,Batch-2025-08,Digital Marketing,Advanced SEO & SEM,Anand Menon,Online Transfer,3-Month EMI,3,1,25500,8500,17000,Partially Paid,2025-09-18,2025-10-30
+STU10571,Nazia Namboothiri,2024-08-02,Aug-2024,Batch-2025-01,Web Development,Full Stack Web Development,Vishal Reddy,Debit Card,3-Month EMI,3,3,57500,57500,0,Fully Paid,2024-10-01,
+STU10572,Riya Krishnan,2024-06-10,Jun-2024,Batch-2025-02,Data Science,Data Science Foundation,Sneha Varma,Cheque,3-Month EMI,3,3,38500,38500,0,Fully Paid,2025-03-18,
+STU10573,Rahul Panicker,2024-05-24,May-2024,Batch-2025-02,Cloud & DevOps,AWS Cloud Practitioner,Sundar Raj,Online Transfer,3-Month EMI,3,3,28000,28000,0,Fully Paid,2024-06-18,
+STU10574,Ishaan Nair,2025-04-27,Apr-2025,Batch-2025-09,Data Science,Data Science Foundation,Joseph Thomas,Online Transfer,No EMI (Full Payment),1,1,41500,41500,0,Fully Paid,2025-09-26,
+STU10575,Anoop Bose,2025-04-01,Apr-2025,Batch-2025-08,Digital Marketing,Advanced SEO & SEM,Fathima Rasheed,Net Banking,No EMI (Full Payment),1,1,26000,26000,0,Partially Paid,2025-07-29,
+STU10576,Deepa Krishnan,2024-04-05,Apr-2024,Batch-2025-06,Data Science,AI & Deep Learning,Vishal Reddy,Cash,6-Month EMI,6,6,75000,75000,0,Fully Paid,2024-07-28,
+STU10577,Rohan Varghese,2025-09-23,Sep-2025,Batch-2025-09,Digital Marketing,Advanced SEO & SEM,Sundar Raj,Cash,12-Month EMI,12,6,22500,11250,11250,Partially Paid,2025-09-30,2026-04-21
+STU10578,Divya Nair,2024-03-07,Mar-2024,Batch-2025-06,Data Science,Advanced Data Analytics,Divya Krishnan,UPI,9-Month EMI,9,3,44500,14833,29667,Partially Paid,2024-11-22,2024-07-05
+STU10579,Sai Rao,2024-04-19,Apr-2024,Batch-2025-02,Cloud & DevOps,Azure Solutions Architect,Priyanka Nair,Net Banking,3-Month EMI,3,3,45500,45500,0,Fully Paid,2024-11-16,
+STU10580,Myra Mukherjee,2024-09-06,Sep-2024,Batch-2025-05,Web Development,Frontend Development (React),Joseph Thomas,Online Transfer,3-Month EMI,3,3,34500,34500,0,Fully Paid,2025-04-16,
+STU10581,Deepa Abraham,2024-12-16,Dec-2024,Batch-2025-08,Finance,Financial Modeling & Valuation,Sundar Raj,Cash,6-Month EMI,6,4,47000,31333,15667,Overdue,2025-08-22,2025-05-15
+STU10582,Krishna Bose,2025-09-02,Sep-2025,Batch-2025-09,Digital Marketing,Social Media Marketing Pro,Priyanka Nair,Net Banking,3-Month EMI,3,0,17500,0,17500,Pending (Not Started),,2025-09-17
+STU10583,Arjun Mukherjee,2024-04-21,Apr-2024,Batch-2025-04,Digital Marketing,Advanced SEO & SEM,Anand Menon,Online Transfer,No EMI (Full Payment),1,0,21000,0,21000,Overdue,,2024-05-21
+STU10584,Nazia Krishnan,2024-06-01,Jun-2024,Batch-2025-08,Cloud & DevOps,DevOps Engineering,Joseph Thomas,Cheque,6-Month EMI,6,6,43000,43000,0,Fully Paid,2024-11-10,
+STU10585,Navya Bose,2024-11-07,Nov-2024,Batch-2025-05,Finance,Investment Banking Prep,Priyanka Nair,Cheque,No EMI (Full Payment),1,1,58500,58500,0,Fully Paid,2025-01-11,
+STU10586,Nithin Namboothiri,2024-03-04,Mar-2024,Batch-2025-02,Cloud & DevOps,AWS Cloud Practitioner,Anand Menon,Cash,6-Month EMI,6,6,28000,28000,0,Fully Paid,2024-07-26,
+STU10587,Sarath Nair,2024-08-28,Aug-2024,Batch-2025-02,Finance,Tally & GST Practitioner,Joseph Thomas,Cash,3-Month EMI,3,3,15000,15000,0,Fully Paid,2025-04-07,
+STU10588,Pooja Varma,2024-06-26,Jun-2024,Batch-2025-09,Web Development,Full Stack Web Development,Arun Prasad,UPI,9-Month EMI,9,3,51000,17000,34000,Partially Paid,2024-11-20,2024-10-24
+STU10589,Sarath George,2024-05-08,May-2024,Batch-2024-09,Data Science,Data Science Foundation,Anand Menon,Credit Card,6-Month EMI,6,2,43000,14333,28667,Partially Paid,2024-06-20,2024-08-06
+STU10590,Ishaan Thomas,2025-03-01,Mar-2025,Batch-2025-09,Design,Motion Graphics & Animation,Sneha Varma,UPI,6-Month EMI,6,6,39500,39500,0,Fully Paid,2025-07-20,
+STU10591,Christy Verma,2025-01-28,Jan-2025,Batch-2025-06,Web Development,Full Stack Web Development,Joseph Thomas,Cheque,No EMI (Full Payment),1,1,53000,53000,0,Partially Paid,2025-07-29,
+STU10592,Meera Panicker,2025-02-24,Feb-2025,Batch-2025-07,Data Science,Data Science Foundation,Sneha Varma,UPI,6-Month EMI,6,1,37000,6166,30834,Partially Paid,2025-04-01,2025-04-25
+STU10593,Ayesha Jacob,2025-06-23,Jun-2025,Batch-2025-08,Design,Motion Graphics & Animation,Priyanka Nair,Cheque,9-Month EMI,9,9,33500,33500,0,Fully Paid,2025-09-11,
+STU10594,Sana George,2024-03-20,Mar-2024,Batch-2025-08,Business Management,Project Management Professional,Vishal Reddy,Cheque,No EMI (Full Payment),1,1,40500,40500,0,Fully Paid,2024-03-25,
+STU10595,Priya Verma,2025-06-08,Jun-2025,Batch-2025-09,Cloud & DevOps,Azure Solutions Architect,Fathima Rasheed,UPI,3-Month EMI,3,3,43000,43000,0,Fully Paid,2025-06-12,
+STU10596,Zaid Philip,2025-09-03,Sep-2025,Batch-2025-09,Finance,Tally & GST Practitioner,Vishal Reddy,Online Transfer,6-Month EMI,6,6,16500,16500,0,Fully Paid,2025-09-04,
+STU10597,Imran Namboothiri,2024-01-28,Jan-2024,Batch-2024-10,Design,UI/UX Design Masterclass,Sundar Raj,Cheque,No EMI (Full Payment),1,1,34500,34500,0,Fully Paid,2024-12-08,
+STU10598,Riya Panicker,2024-09-20,Sep-2024,Batch-2024-09,Finance,Financial Modeling & Valuation,Sneha Varma,Credit Card,12-Month EMI,12,12,47000,47000,0,Fully Paid,2025-05-06,
+STU10599,Naveen Abraham,2024-06-28,Jun-2024,Batch-2025-02,Business Management,Project Management Professional,Meera Pillai,UPI,No EMI (Full Payment),1,1,43500,43500,0,Overdue,2024-08-10,
+STU10600,Rohan Mukherjee,2024-06-06,Jun-2024,Batch-2025-09,Business Management,Business Analytics,Joseph Thomas,Credit Card,6-Month EMI,6,6,34500,34500,0,Fully Paid,2025-06-16,
+STU10601,Jerin Reddy,2024-02-25,Feb-2024,Batch-2024-10,Business Management,MBA Prep & Aptitude,Anand Menon,Credit Card,3-Month EMI,3,3,36000,36000,0,Fully Paid,2025-03-13,
+STU10602,Nazia Philip,2025-06-29,Jun-2025,Batch-2025-07,Design,Motion Graphics & Animation,Joseph Thomas,UPI,No EMI (Full Payment),1,0,40500,0,40500,Overdue,,2025-07-29
+STU10603,Ishita Philip,2025-04-04,Apr-2025,Batch-2025-07,Finance,Investment Banking Prep,Arun Prasad,Cash,12-Month EMI,12,10,51500,42916,8584,Overdue,2025-07-03,2026-02-28
+STU10604,Nithin Gupta,2025-09-17,Sep-2025,Batch-2025-09,Digital Marketing,Advanced SEO & SEM,Vishal Reddy,Net Banking,No EMI (Full Payment),1,1,25500,25500,0,Partially Paid,2025-09-29,
+STU10605,Yusuf Jacob,2024-09-04,Sep-2024,Batch-2025-08,Finance,Tally & GST Practitioner,Meera Pillai,Cheque,3-Month EMI,3,0,17500,0,17500,Pending (Not Started),,2024-09-19
+STU10606,Rahul Roy,2024-01-11,Jan-2024,Batch-2024-01,Business Management,MBA Prep & Aptitude,Anand Menon,UPI,No EMI (Full Payment),1,1,29500,29500,0,Partially Paid,2024-05-02,
+STU10607,Ayesha Namboothiri,2024-09-14,Sep-2024,Batch-2024-12,Data Science,Data Science Foundation,Sneha Varma,Online Transfer,No EMI (Full Payment),1,1,44500,44500,0,Partially Paid,2025-07-17,
+STU10608,Mohammed Kumar,2024-05-02,May-2024,Batch-2024-07,Business Management,Project Management Professional,Sundar Raj,UPI,6-Month EMI,6,2,44500,14833,29667,Partially Paid,2024-06-27,2024-07-31
+STU10609,Zaid Iyer,2024-09-16,Sep-2024,Batch-2025-01,Design,Motion Graphics & Animation,Priyanka Nair,Cash,3-Month EMI,3,2,36500,24333,12167,Partially Paid,2025-01-25,2024-12-15
+STU10610,Ananya Joseph,2024-03-16,Mar-2024,Batch-2024-11,Business Management,MBA Prep & Aptitude,Joseph Thomas,UPI,3-Month EMI,3,3,29000,29000,0,Fully Paid,2024-07-29,
+STU10611,Diya Verma,2024-03-12,Mar-2024,Batch-2025-06,Web Development,Backend Development (Node.js),Joseph Thomas,Credit Card,6-Month EMI,6,6,30000,30000,0,Fully Paid,2025-04-09,
+STU10612,Suresh Varma,2025-09-20,Sep-2025,Batch-2025-09,Design,Motion Graphics & Animation,Vishal Reddy,Online Transfer,No EMI (Full Payment),1,1,33000,33000,0,Partially Paid,2025-09-27,
+STU10613,Vivaan Chacko,2025-05-24,May-2025,Batch-2025-06,Finance,Tally & GST Practitioner,Anand Menon,Online Transfer,6-Month EMI,6,6,14000,14000,0,Fully Paid,2025-08-16,
+STU10614,Anoop Rao,2025-08-11,Aug-2025,Batch-2025-08,Cloud & DevOps,Azure Solutions Architect,Divya Krishnan,UPI,3-Month EMI,3,1,50000,16666,33334,Partially Paid,2025-09-14,2025-10-10
+STU10615,Kiara Nair,2025-01-28,Jan-2025,Batch-2025-08,Data Science,Advanced Data Analytics,Fathima Rasheed,Cash,3-Month EMI,3,1,41000,13666,27334,Partially Paid,2025-05-01,2025-03-29
+STU10616,Pooja Varghese,2024-12-14,Dec-2024,Batch-2025-01,Business Management,Business Analytics,Vishal Reddy,Cash,No EMI (Full Payment),1,1,41000,41000,0,Fully Paid,2025-06-28,
+STU10617,Imran Varma,2024-11-02,Nov-2024,Batch-2025-05,Data Science,Advanced Data Analytics,Divya Krishnan,Online Transfer,9-Month EMI,9,3,47000,15666,31334,Partially Paid,2024-11-20,2025-03-02
+STU10618,Saanvi Nair,2025-08-30,Aug-2025,Batch-2025-08,Design,Graphic Design Professional,Priyanka Nair,Net Banking,3-Month EMI,3,3,24500,24500,0,Fully Paid,2025-09-27,
+STU10619,Vivaan Menon,2024-12-13,Dec-2024,Batch-2024-12,Digital Marketing,Social Media Marketing Pro,Anand Menon,UPI,No EMI (Full Payment),1,1,21500,21500,0,Partially Paid,2025-09-13,
+STU10620,Rohan Jacob,2025-08-16,Aug-2025,Batch-2025-08,Data Science,Data Science Foundation,Sundar Raj,UPI,6-Month EMI,6,4,42500,28333,14167,Overdue,2025-08-18,2026-01-13
+STU10621,Myra Mathew,2024-05-13,May-2024,Batch-2024-05,Web Development,Backend Development (Node.js),Anand Menon,Debit Card,9-Month EMI,9,9,29500,29500,0,Fully Paid,2024-08-08,
+STU10622,Jerin Bose,2024-03-06,Mar-2024,Batch-2024-06,Data Science,AI & Deep Learning,Sneha Varma,Net Banking,6-Month EMI,6,4,62000,41333,20667,Partially Paid,2024-08-25,2024-08-03
+STU10623,Bibin Kurian,2025-02-15,Feb-2025,Batch-2025-07,Data Science,Machine Learning Bootcamp,Fathima Rasheed,Net Banking,12-Month EMI,12,10,58500,48750,9750,Partially Paid,2025-03-31,2026-01-11
+STU10624,Karthik Pillai,2024-05-03,May-2024,Batch-2025-01,Web Development,Frontend Development (React),Sundar Raj,Cash,3-Month EMI,3,3,27500,27500,0,Fully Paid,2025-02-24,
+STU10625,Aditya Krishnan,2024-04-12,Apr-2024,Batch-2025-04,Business Management,MBA Prep & Aptitude,Anand Menon,UPI,No EMI (Full Payment),1,1,28000,28000,0,Fully Paid,2024-05-27,
+STU10626,Fatima Thomas,2025-08-30,Aug-2025,Batch-2025-09,Design,Motion Graphics & Animation,Divya Krishnan,Cash,No EMI (Full Payment),1,1,34500,34500,0,Partially Paid,2025-09-25,
+STU10627,Myra Iyer,2025-09-17,Sep-2025,Batch-2025-09,Cloud & DevOps,AWS Cloud Practitioner,Divya Krishnan,Cheque,12-Month EMI,12,5,30000,12500,17500,Partially Paid,2025-09-22,2026-03-16
+STU10628,Arun Nair,2025-07-25,Jul-2025,Batch-2025-07,Web Development,Full Stack Web Development,Arun Prasad,Online Transfer,6-Month EMI,6,5,59000,49166,9834,Partially Paid,2025-09-27,2026-01-21
+STU10629,Kiara Verma,2024-08-01,Aug-2024,Batch-2024-12,Data Science,Machine Learning Bootcamp,Priyanka Nair,Net Banking,No EMI (Full Payment),1,0,69000,0,69000,Pending (Not Started),,2024-08-16
+STU10630,Priya Singh,2024-06-29,Jun-2024,Batch-2024-11,Finance,Financial Modeling & Valuation,Anand Menon,Cash,3-Month EMI,3,3,38500,38500,0,Fully Paid,2024-12-17,
+STU10631,Kavya Abraham,2025-04-09,Apr-2025,Batch-2025-04,Data Science,Data Science Foundation,Arun Prasad,Credit Card,No EMI (Full Payment),1,1,35500,35500,0,Fully Paid,2025-05-08,
+STU10632,Arjun Chacko,2024-08-28,Aug-2024,Batch-2025-07,Design,Motion Graphics & Animation,Sneha Varma,Debit Card,3-Month EMI,3,2,44000,29333,14667,Partially Paid,2024-12-23,2024-11-26
+STU10633,Rukhsar Kumar,2024-11-29,Nov-2024,Batch-2025-02,Data Science,Machine Learning Bootcamp,Joseph Thomas,Net Banking,No EMI (Full Payment),1,1,69500,69500,0,Fully Paid,2025-07-28,
+STU10634,Swathi Singh,2024-02-25,Feb-2024,Batch-2025-03,Web Development,Full Stack Web Development,Sneha Varma,UPI,No EMI (Full Payment),1,1,51000,51000,0,Fully Paid,2025-02-27,
+STU10635,Saanvi Thomas,2025-01-02,Jan-2025,Batch-2025-05,Web Development,Frontend Development (React),Sundar Raj,Online Transfer,6-Month EMI,6,6,26000,26000,0,Fully Paid,2025-02-27,
+STU10636,Nithin Verma,2025-04-14,Apr-2025,Batch-2025-07,Web Development,Frontend Development (React),Meera Pillai,Debit Card,6-Month EMI,6,5,28000,23333,4667,Partially Paid,2025-06-11,2025-10-11
+STU10637,Reyansh Gupta,2025-06-18,Jun-2025,Batch-2025-09,Business Management,MBA Prep & Aptitude,Sneha Varma,UPI,9-Month EMI,9,9,32500,32500,0,Fully Paid,2025-08-11,
+STU10638,Sana Varghese,2024-09-09,Sep-2024,Batch-2024-12,Digital Marketing,Advanced SEO & SEM,Sneha Varma,Credit Card,9-Month EMI,9,0,25000,0,25000,Overdue,,2024-10-09
+STU10639,Arun Menon,2024-02-11,Feb-2024,Batch-2025-05,Finance,Tally & GST Practitioner,Anand Menon,UPI,3-Month EMI,3,1,16000,5333,10667,Partially Paid,2024-09-29,2024-04-11
+STU10640,Divya Warrier,2024-03-26,Mar-2024,Batch-2025-08,Business Management,MBA Prep & Aptitude,Joseph Thomas,Credit Card,No EMI (Full Payment),1,1,33000,33000,0,Fully Paid,2024-05-11,
+STU10641,Vivaan Singh,2024-11-08,Nov-2024,Batch-2025-01,Finance,Investment Banking Prep,Sneha Varma,Cash,6-Month EMI,6,6,57500,57500,0,Fully Paid,2025-01-17,
+STU10642,Sarath Mathew,2025-02-19,Feb-2025,Batch-2025-04,Business Management,Business Analytics,Divya Krishnan,Cash,6-Month EMI,6,6,33000,33000,0,Fully Paid,2025-08-14,
+STU10643,Karthik Das,2024-02-03,Feb-2024,Batch-2024-11,Design,Graphic Design Professional,Sneha Varma,Cheque,6-Month EMI,6,1,23500,3916,19584,Partially Paid,2024-12-16,2024-04-03
+STU10644,Vipin Sharma,2024-02-26,Feb-2024,Batch-2025-06,Finance,Investment Banking Prep,Anand Menon,Online Transfer,3-Month EMI,3,2,57500,38333,19167,Partially Paid,2024-08-31,2024-05-26
+STU10645,Diya Thomas,2025-07-26,Jul-2025,Batch-2025-09,Data Science,Machine Learning Bootcamp,Sundar Raj,Debit Card,No EMI (Full Payment),1,1,57000,57000,0,Partially Paid,2025-08-23,
+STU10646,Rahul Reddy,2024-09-30,Sep-2024,Batch-2025-05,Finance,Investment Banking Prep,Vishal Reddy,Online Transfer,No EMI (Full Payment),1,1,55500,55500,0,Fully Paid,2025-06-13,
+STU10647,Sneha Kurian,2024-05-05,May-2024,Batch-2025-08,Finance,Tally & GST Practitioner,Arun Prasad,Debit Card,3-Month EMI,3,1,15000,5000,10000,Partially Paid,2024-08-09,2024-07-04
+STU10648,Anoop Chacko,2025-04-13,Apr-2025,Batch-2025-04,Data Science,AI & Deep Learning,Sundar Raj,Debit Card,12-Month EMI,12,12,62500,62500,0,Fully Paid,2025-06-22,
+STU10649,Krishna Mathew,2024-05-31,May-2024,Batch-2025-08,Web Development,Full Stack Web Development,Arun Prasad,Cash,No EMI (Full Payment),1,0,52000,0,52000,Pending (Not Started),,2024-06-15
+STU10650,Pooja Philip,2024-05-15,May-2024,Batch-2025-08,Digital Marketing,Advanced SEO & SEM,Divya Krishnan,Cash,6-Month EMI,6,6,22500,22500,0,Fully Paid,2024-05-26,
+STU10651,Sarath Abraham,2024-08-25,Aug-2024,Batch-2025-09,Cloud & DevOps,Azure Solutions Architect,Fathima Rasheed,UPI,6-Month EMI,6,3,48500,24250,24250,Partially Paid,2025-04-30,2024-12-23
+STU10652,Swathi George,2025-06-26,Jun-2025,Batch-2025-09,Design,Graphic Design Professional,Sneha Varma,Credit Card,9-Month EMI,9,9,24500,24500,0,Fully Paid,2025-07-29,
+STU10653,Kiara Singh,2025-01-15,Jan-2025,Batch-2025-05,Business Management,MBA Prep & Aptitude,Sundar Raj,Debit Card,No EMI (Full Payment),1,1,30500,30500,0,Partially Paid,2025-06-10,
+STU10654,Diya Iyer,2024-06-06,Jun-2024,Batch-2024-11,Web Development,Full Stack Web Development,Anand Menon,Debit Card,6-Month EMI,6,6,52000,52000,0,Fully Paid,2024-09-08,
+STU10655,Aadhya Roy,2024-02-05,Feb-2024,Batch-2024-12,Digital Marketing,Digital Marketing Fundamentals,Fathima Rasheed,UPI,3-Month EMI,3,3,19500,19500,0,Fully Paid,2024-04-07,
+STU10656,Renjith Nair,2025-02-18,Feb-2025,Batch-2025-09,Business Management,MBA Prep & Aptitude,Divya Krishnan,Debit Card,No EMI (Full Payment),1,0,37000,0,37000,Pending (Not Started),,2025-03-05
+STU10657,Karthik Thomas,2024-10-29,Oct-2024,Batch-2025-05,Digital Marketing,Social Media Marketing Pro,Sundar Raj,Net Banking,6-Month EMI,6,6,18500,18500,0,Fully Paid,2024-12-25,
+STU10658,Ayesha Singh,2024-02-11,Feb-2024,Batch-2024-06,Finance,Tally & GST Practitioner,Priyanka Nair,Debit Card,No EMI (Full Payment),1,1,17000,17000,0,Partially Paid,2024-08-11,
+STU10659,Reyansh Sharma,2024-02-26,Feb-2024,Batch-2025-09,Finance,Financial Modeling & Valuation,Sneha Varma,Cheque,No EMI (Full Payment),1,1,47500,47500,0,Fully Paid,2024-03-08,
+STU10660,Reyansh Roy,2025-04-01,Apr-2025,Batch-2025-09,Finance,Financial Modeling & Valuation,Arun Prasad,UPI,No EMI (Full Payment),1,1,40000,40000,0,Partially Paid,2025-09-18,
+STU10661,Naveen Rao,2024-05-31,May-2024,Batch-2025-06,Digital Marketing,Advanced SEO & SEM,Fathima Rasheed,Online Transfer,No EMI (Full Payment),1,1,23000,23000,0,Fully Paid,2025-01-14,
+STU10662,Sarath Roy,2024-03-30,Mar-2024,Batch-2024-09,Finance,Investment Banking Prep,Joseph Thomas,Net Banking,3-Month EMI,3,2,52500,35000,17500,Partially Paid,2025-04-07,2024-06-28
+STU10663,Anoop Gupta,2024-05-22,May-2024,Batch-2024-07,Web Development,Full Stack Web Development,Vishal Reddy,UPI,12-Month EMI,12,0,53500,0,53500,Pending (Not Started),,2024-06-06
+STU10664,Arjun Philip,2025-08-27,Aug-2025,Batch-2025-09,Data Science,Data Science Foundation,Joseph Thomas,Cash,12-Month EMI,12,12,42000,42000,0,Fully Paid,2025-09-25,
+STU10665,Fatima Bose,2024-05-20,May-2024,Batch-2024-11,Web Development,Frontend Development (React),Vishal Reddy,Cheque,3-Month EMI,3,2,30000,20000,10000,Partially Paid,2025-01-27,2024-08-18
+STU10666,Nithya Jacob,2025-04-19,Apr-2025,Batch-2025-05,Data Science,Data Science Foundation,Sundar Raj,Debit Card,3-Month EMI,3,3,42500,42500,0,Fully Paid,2025-07-01,
+STU10667,Arun Iyer,2025-05-18,May-2025,Batch-2025-06,Data Science,Data Science Foundation,Vishal Reddy,UPI,12-Month EMI,12,6,36000,18000,18000,Partially Paid,2025-09-18,2025-12-14
+STU10668,Deepa Gupta,2024-09-21,Sep-2024,Batch-2025-07,Finance,Investment Banking Prep,Priyanka Nair,Debit Card,3-Month EMI,3,3,59500,59500,0,Fully Paid,2025-01-31,
+STU10669,Ananya Bose,2024-02-29,Feb-2024,Batch-2024-06,Digital Marketing,Advanced SEO & SEM,Sundar Raj,Debit Card,No EMI (Full Payment),1,1,22000,22000,0,Fully Paid,2025-01-19,
+STU10670,Renjith Reddy,2024-02-19,Feb-2024,Batch-2024-11,Digital Marketing,Social Media Marketing Pro,Priyanka Nair,Cheque,No EMI (Full Payment),1,1,20000,20000,0,Fully Paid,2024-04-07,
+STU10671,Anjali Joseph,2024-06-20,Jun-2024,Batch-2025-04,Business Management,Business Analytics,Vishal Reddy,Debit Card,6-Month EMI,6,6,38000,38000,0,Fully Paid,2025-04-12,
+STU10672,Vishnu Kurian,2024-05-27,May-2024,Batch-2024-05,Web Development,Backend Development (Node.js),Vishal Reddy,Debit Card,6-Month EMI,6,6,35000,35000,0,Fully Paid,2024-08-18,
+STU10673,Sai Varma,2024-06-07,Jun-2024,Batch-2025-01,Business Management,MBA Prep & Aptitude,Arun Prasad,Cheque,6-Month EMI,6,5,36500,30416,6084,Partially Paid,2025-06-01,2024-12-04
+STU10674,Nazia Abraham,2024-04-26,Apr-2024,Batch-2025-05,Design,UI/UX Design Masterclass,Priyanka Nair,Net Banking,No EMI (Full Payment),1,1,30500,30500,0,Fully Paid,2024-10-02,
+STU10675,Zaid Reddy,2024-05-22,May-2024,Batch-2025-07,Cloud & DevOps,Azure Solutions Architect,Fathima Rasheed,Credit Card,6-Month EMI,6,1,38500,6416,32084,Partially Paid,2024-09-12,2024-07-21
+STU10676,Ishaan Varghese,2024-05-25,May-2024,Batch-2024-12,Digital Marketing,Digital Marketing Fundamentals,Meera Pillai,Credit Card,12-Month EMI,12,2,21500,3583,17917,Partially Paid,2024-07-03,2024-08-23
+STU10677,Vivaan Joseph,2025-05-10,May-2025,Batch-2025-08,Data Science,Machine Learning Bootcamp,Priyanka Nair,Online Transfer,6-Month EMI,6,4,63500,42333,21167,Partially Paid,2025-06-09,2025-10-07
+STU10678,Renjith Panicker,2024-02-14,Feb-2024,Batch-2024-04,Digital Marketing,Social Media Marketing Pro,Anand Menon,Net Banking,No EMI (Full Payment),1,0,16000,0,16000,Overdue,,2024-03-15
+STU10679,Swathi Chacko,2024-07-23,Jul-2024,Batch-2024-09,Finance,Investment Banking Prep,Anand Menon,Online Transfer,No EMI (Full Payment),1,1,62000,62000,0,Overdue,2025-01-19,
+STU10680,Ananya Varghese,2025-05-27,May-2025,Batch-2025-09,Web Development,Backend Development (Node.js),Sneha Varma,Online Transfer,No EMI (Full Payment),1,1,37500,37500,0,Partially Paid,2025-08-26,
+STU10681,Saanvi Namboothiri,2024-06-24,Jun-2024,Batch-2024-06,Finance,Financial Modeling & Valuation,Meera Pillai,Cheque,9-Month EMI,9,9,43000,43000,0,Fully Paid,2025-04-21,
+STU10682,Diya Verma,2024-04-19,Apr-2024,Batch-2024-09,Business Management,Business Analytics,Joseph Thomas,UPI,No EMI (Full Payment),1,1,35500,35500,0,Fully Paid,2025-05-13,
+STU10683,Rahul Kumar,2025-04-22,Apr-2025,Batch-2025-04,Cloud & DevOps,AWS Cloud Practitioner,Divya Krishnan,Net Banking,3-Month EMI,3,1,27500,9166,18334,Partially Paid,2025-05-13,2025-06-21
+STU10684,Rahul Singh,2024-04-28,Apr-2024,Batch-2025-04,Digital Marketing,Advanced SEO & SEM,Sneha Varma,Cash,3-Month EMI,3,1,28000,9333,18667,Partially Paid,2025-02-05,2024-06-27
+STU10685,Arun Namboothiri,2025-03-14,Mar-2025,Batch-2025-04,Business Management,MBA Prep & Aptitude,Divya Krishnan,Cash,3-Month EMI,3,0,28000,0,28000,Pending (Not Started),,2025-03-29
+STU10686,Divya George,2024-04-17,Apr-2024,Batch-2025-04,Design,Motion Graphics & Animation,Priyanka Nair,Online Transfer,No EMI (Full Payment),1,1,38500,38500,0,Partially Paid,2025-05-01,
+STU10687,Sreekutty Chacko,2024-06-21,Jun-2024,Batch-2024-08,Digital Marketing,Digital Marketing Fundamentals,Fathima Rasheed,Credit Card,6-Month EMI,6,6,21500,21500,0,Fully Paid,2025-01-24,
+STU10688,Ayesha Singh,2024-10-12,Oct-2024,Batch-2025-09,Business Management,Project Management Professional,Sneha Varma,Debit Card,6-Month EMI,6,6,41500,41500,0,Fully Paid,2025-09-18,
+STU10689,Anjali Rao,2025-05-11,May-2025,Batch-2025-09,Digital Marketing,Digital Marketing Fundamentals,Divya Krishnan,Online Transfer,No EMI (Full Payment),1,1,22000,22000,0,Fully Paid,2025-06-14,
+STU10690,Vivaan Kumar,2024-02-24,Feb-2024,Batch-2024-04,Design,Motion Graphics & Animation,Anand Menon,Credit Card,3-Month EMI,3,3,43000,43000,0,Fully Paid,2024-07-28,
+STU10691,Kavya Mukherjee,2024-04-08,Apr-2024,Batch-2024-06,Finance,Tally & GST Practitioner,Divya Krishnan,Net Banking,3-Month EMI,3,2,14500,9666,4834,Partially Paid,2024-12-22,2024-07-07
+STU10692,Anika Roy,2024-12-17,Dec-2024,Batch-2025-08,Cloud & DevOps,AWS Cloud Practitioner,Anand Menon,UPI,9-Month EMI,9,9,26000,26000,0,Fully Paid,2025-05-27,
+STU10693,Nithin Rao,2025-03-29,Mar-2025,Batch-2025-06,Data Science,Data Science Foundation,Sundar Raj,Cheque,6-Month EMI,6,1,40000,6666,33334,Overdue,2025-08-01,2025-05-28
+STU10694,Suresh Krishnan,2024-11-15,Nov-2024,Batch-2025-05,Design,UI/UX Design Masterclass,Sneha Varma,Cash,3-Month EMI,3,2,39000,26000,13000,Partially Paid,2025-07-16,2025-02-13
+STU10695,Nithya Varghese,2024-06-09,Jun-2024,Batch-2024-07,Design,Graphic Design Professional,Divya Krishnan,Cheque,12-Month EMI,12,5,27000,11250,15750,Partially Paid,2024-11-20,2024-12-06
+STU10696,Vihaan Nair,2025-08-27,Aug-2025,Batch-2025-08,Web Development,Frontend Development (React),Fathima Rasheed,Net Banking,6-Month EMI,6,3,25500,12750,12750,Partially Paid,2025-09-20,2025-12-25
+STU10697,Sai Gupta,2024-12-19,Dec-2024,Batch-2025-05,Design,Graphic Design Professional,Anand Menon,Cash,No EMI (Full Payment),1,1,24000,24000,0,Partially Paid,2025-01-21,
+STU10698,Sarath Namboothiri,2024-04-27,Apr-2024,Batch-2025-02,Web Development,Full Stack Web Development,Arun Prasad,Debit Card,No EMI (Full Payment),1,1,56000,56000,0,Overdue,2024-09-10,
+STU10699,Vivaan Mathew,2025-04-25,Apr-2025,Batch-2025-08,Data Science,Advanced Data Analytics,Joseph Thomas,Cheque,3-Month EMI,3,3,49500,49500,0,Fully Paid,2025-08-28,
+STU10700,Sai Mathew,2024-07-29,Jul-2024,Batch-2024-12,Design,Motion Graphics & Animation,Fathima Rasheed,Credit Card,6-Month EMI,6,0,38000,0,38000,Pending (Not Started),,2024-08-13
+STU10701,Saanvi Singh,2024-03-18,Mar-2024,Batch-2025-08,Web Development,Frontend Development (React),Vishal Reddy,Online Transfer,No EMI (Full Payment),1,1,34500,34500,0,Fully Paid,2024-07-11,
+STU10702,Kavya Jacob,2024-04-04,Apr-2024,Batch-2024-07,Cloud & DevOps,DevOps Engineering,Vishal Reddy,Online Transfer,6-Month EMI,6,6,48500,48500,0,Fully Paid,2024-07-20,
+STU10703,Vishnu Abraham,2024-03-19,Mar-2024,Batch-2024-12,Cloud & DevOps,DevOps Engineering,Joseph Thomas,Cash,3-Month EMI,3,3,43500,43500,0,Fully Paid,2024-07-25,
+STU10704,Kavya Das,2025-04-09,Apr-2025,Batch-2025-09,Business Management,Project Management Professional,Sundar Raj,Online Transfer,6-Month EMI,6,4,43500,29000,14500,Overdue,2025-08-14,2025-09-06
+STU10705,Aadhya George,2025-04-23,Apr-2025,Batch-2025-06,Finance,Tally & GST Practitioner,Sneha Varma,Net Banking,6-Month EMI,6,5,15500,12916,2584,Overdue,2025-09-30,2025-10-20
+STU10706,Vihaan Das,2024-07-24,Jul-2024,Batch-2024-12,Design,UI/UX Design Masterclass,Meera Pillai,Credit Card,6-Month EMI,6,4,35000,23333,11667,Partially Paid,2025-01-03,2024-12-21
+STU10707,Sarath Kurian,2024-03-06,Mar-2024,Batch-2024-09,Business Management,Business Analytics,Vishal Reddy,Net Banking,No EMI (Full Payment),1,1,34500,34500,0,Fully Paid,2025-01-07,
+STU10708,Myra Rao,2024-09-01,Sep-2024,Batch-2024-10,Web Development,Full Stack Web Development,Anand Menon,Credit Card,6-Month EMI,6,6,50000,50000,0,Fully Paid,2025-06-14,
+STU10709,Suresh Gupta,2024-02-07,Feb-2024,Batch-2024-08,Web Development,Frontend Development (React),Sundar Raj,Online Transfer,No EMI (Full Payment),1,1,29500,29500,0,Partially Paid,2025-01-01,
+STU10710,Nithin Menon,2025-05-12,May-2025,Batch-2025-05,Data Science,Data Science Foundation,Fathima Rasheed,Cheque,No EMI (Full Payment),1,1,36000,36000,0,Overdue,2025-08-13,
+STU10711,Imran George,2024-04-02,Apr-2024,Batch-2025-04,Business Management,Project Management Professional,Sundar Raj,Credit Card,No EMI (Full Payment),1,1,43000,43000,0,Overdue,2024-12-12,
+STU10712,Vipin Pillai,2024-08-31,Aug-2024,Batch-2025-05,Data Science,Advanced Data Analytics,Fathima Rasheed,Net Banking,6-Month EMI,6,2,46500,15500,31000,Partially Paid,2025-04-04,2024-11-29
+STU10713,Aadhya Krishnan,2024-04-19,Apr-2024,Batch-2024-09,Web Development,Frontend Development (React),Divya Krishnan,UPI,No EMI (Full Payment),1,1,34500,34500,0,Fully Paid,2025-01-17,
+STU10714,Naveen Mathew,2024-04-25,Apr-2024,Batch-2025-02,Cloud & DevOps,DevOps Engineering,Divya Krishnan,Cash,No EMI (Full Payment),1,0,44500,0,44500,Overdue,,2024-05-25
+STU10715,Naveen Singh,2025-01-11,Jan-2025,Batch-2025-05,Data Science,Data Science Foundation,Anand Menon,Cash,12-Month EMI,12,12,39000,39000,0,Fully Paid,2025-07-26,
+STU10716,Navya Thomas,2025-01-06,Jan-2025,Batch-2025-02,Cloud & DevOps,AWS Cloud Practitioner,Divya Krishnan,UPI,No EMI (Full Payment),1,1,28000,28000,0,Overdue,2025-06-09,
+STU10717,Reyansh Philip,2024-08-29,Aug-2024,Batch-2024-12,Web Development,Full Stack Web Development,Divya Krishnan,Cash,3-Month EMI,3,2,58500,39000,19500,Partially Paid,2024-09-15,2024-11-27
+STU10718,Riya Varghese,2024-03-23,Mar-2024,Batch-2025-06,Design,Motion Graphics & Animation,Joseph Thomas,Net Banking,3-Month EMI,3,0,39000,0,39000,Overdue,,2024-04-22
+STU10719,Christy Iyer,2024-09-24,Sep-2024,Batch-2025-05,Data Science,Advanced Data Analytics,Joseph Thomas,Cheque,6-Month EMI,6,4,49000,32666,16334,Partially Paid,2025-09-14,2025-02-21
+STU10720,Vivaan Joseph,2024-02-23,Feb-2024,Batch-2024-07,Finance,Investment Banking Prep,Sundar Raj,Online Transfer,3-Month EMI,3,3,60500,60500,0,Fully Paid,2024-12-13,
+STU10721,Reyansh Kumar,2024-06-10,Jun-2024,Batch-2025-01,Cloud & DevOps,Azure Solutions Architect,Sundar Raj,Net Banking,6-Month EMI,6,3,44500,22250,22250,Partially Paid,2025-01-27,2024-10-08
+STU10722,Priya Varghese,2024-05-16,May-2024,Batch-2025-01,Web Development,Backend Development (Node.js),Sneha Varma,Net Banking,3-Month EMI,3,3,32500,32500,0,Fully Paid,2024-12-14,
+STU10723,Naveen Iyer,2025-02-06,Feb-2025,Batch-2025-08,Business Management,Project Management Professional,Meera Pillai,Online Transfer,12-Month EMI,12,11,44000,40333,3667,Partially Paid,2025-04-05,2026-02-01
+STU10724,Renjith Pillai,2025-04-18,Apr-2025,Batch-2025-05,Digital Marketing,Social Media Marketing Pro,Sundar Raj,Online Transfer,3-Month EMI,3,1,18500,6166,12334,Partially Paid,2025-05-10,2025-06-17
+STU10725,Naveen Iyer,2025-08-03,Aug-2025,Batch-2025-08,Data Science,AI & Deep Learning,Divya Krishnan,Net Banking,6-Month EMI,6,6,64000,64000,0,Fully Paid,2025-08-16,
+STU10726,Saanvi Varghese,2024-09-29,Sep-2024,Batch-2025-01,Finance,Investment Banking Prep,Joseph Thomas,Credit Card,3-Month EMI,3,2,53500,35666,17834,Partially Paid,2025-09-10,2024-12-28
+STU10727,Saanvi Gupta,2024-07-03,Jul-2024,Batch-2025-01,Business Management,MBA Prep & Aptitude,Anand Menon,Debit Card,12-Month EMI,12,4,32000,10666,21334,Partially Paid,2025-01-08,2024-11-30
+STU10728,Swathi George,2025-04-14,Apr-2025,Batch-2025-04,Data Science,AI & Deep Learning,Sundar Raj,Net Banking,3-Month EMI,3,2,73000,48666,24334,Partially Paid,2025-07-31,2025-07-13
+STU10729,Sana Mukherjee,2024-09-19,Sep-2024,Batch-2024-10,Data Science,Data Science Foundation,Anand Menon,Debit Card,12-Month EMI,12,9,42500,31875,10625,Overdue,2025-08-28,2025-07-16
+STU10730,Bibin Mukherjee,2024-02-16,Feb-2024,Batch-2024-02,Digital Marketing,Social Media Marketing Pro,Sneha Varma,UPI,3-Month EMI,3,1,18000,6000,12000,Partially Paid,2024-11-28,2024-04-16
+STU10731,Aditya Bose,2024-07-02,Jul-2024,Batch-2024-11,Web Development,Backend Development (Node.js),Divya Krishnan,Debit Card,9-Month EMI,9,9,30000,30000,0,Fully Paid,2025-06-30,
+STU10732,Sneha Gupta,2024-05-25,May-2024,Batch-2025-01,Data Science,Advanced Data Analytics,Anand Menon,Credit Card,3-Month EMI,3,3,53500,53500,0,Fully Paid,2024-11-25,
+STU10733,Sreekutty Gupta,2024-10-16,Oct-2024,Batch-2025-02,Cloud & DevOps,DevOps Engineering,Arun Prasad,Debit Card,3-Month EMI,3,3,42500,42500,0,Fully Paid,2025-06-24,
+STU10734,Nazia Krishnan,2025-07-23,Jul-2025,Batch-2025-09,Finance,Investment Banking Prep,Anand Menon,Credit Card,No EMI (Full Payment),1,1,54000,54000,0,Fully Paid,2025-09-21,
+STU10735,Anika Iyer,2025-04-23,Apr-2025,Batch-2025-07,Data Science,AI & Deep Learning,Anand Menon,UPI,3-Month EMI,3,3,78500,78500,0,Fully Paid,2025-08-27,
+STU10736,Krishna Varghese,2024-05-31,May-2024,Batch-2024-08,Digital Marketing,Digital Marketing Fundamentals,Meera Pillai,Net Banking,No EMI (Full Payment),1,1,25000,25000,0,Fully Paid,2025-02-15,
+STU10737,Christy Panicker,2025-07-30,Jul-2025,Batch-2025-09,Cloud & DevOps,AWS Cloud Practitioner,Sneha Varma,Online Transfer,3-Month EMI,3,3,29500,29500,0,Fully Paid,2025-09-26,
+STU10738,Arjun Warrier,2025-05-25,May-2025,Batch-2025-05,Digital Marketing,Digital Marketing Fundamentals,Vishal Reddy,Cash,12-Month EMI,12,12,19000,19000,0,Fully Paid,2025-06-21,
+STU10739,Jerin Sharma,2024-06-06,Jun-2024,Batch-2024-06,Data Science,AI & Deep Learning,Divya Krishnan,UPI,6-Month EMI,6,1,69000,11500,57500,Partially Paid,2024-11-21,2024-08-05
+STU10740,Aditya Thomas,2025-09-29,Sep-2025,Batch-2025-09,Digital Marketing,Social Media Marketing Pro,Sneha Varma,Credit Card,No EMI (Full Payment),1,1,15500,15500,0,Partially Paid,2025-09-30,
+STU10741,Bibin Menon,2024-03-13,Mar-2024,Batch-2025-08,Cloud & DevOps,DevOps Engineering,Priyanka Nair,UPI,No EMI (Full Payment),1,0,44000,0,44000,Pending (Not Started),,2024-03-28
+STU10742,Sarath Rao,2024-04-01,Apr-2024,Batch-2024-04,Business Management,MBA Prep & Aptitude,Sundar Raj,UPI,6-Month EMI,6,2,32500,10833,21667,Partially Paid,2024-06-01,2024-06-30
+STU10743,Navya Singh,2025-03-18,Mar-2025,Batch-2025-08,Business Management,Business Analytics,Sneha Varma,Credit Card,3-Month EMI,3,1,33500,11166,22334,Partially Paid,2025-07-21,2025-05-17
+STU10744,Vignesh Chacko,2025-02-01,Feb-2025,Batch-2025-09,Digital Marketing,Social Media Marketing Pro,Sneha Varma,UPI,No EMI (Full Payment),1,1,18500,18500,0,Partially Paid,2025-05-23,
+STU10745,Mohammed Gupta,2024-04-05,Apr-2024,Batch-2024-05,Cloud & DevOps,DevOps Engineering,Divya Krishnan,Cash,No EMI (Full Payment),1,1,51000,51000,0,Partially Paid,2024-12-30,
+STU10746,Mohammed Thomas,2025-06-21,Jun-2025,Batch-2025-06,Digital Marketing,Advanced SEO & SEM,Joseph Thomas,Online Transfer,12-Month EMI,12,12,24000,24000,0,Fully Paid,2025-07-07,
+STU10747,Yusuf Chacko,2024-11-03,Nov-2024,Batch-2025-02,Cloud & DevOps,DevOps Engineering,Vishal Reddy,Cheque,No EMI (Full Payment),1,0,41500,0,41500,Overdue,,2024-12-03
+STU10748,Meera Gupta,2025-02-26,Feb-2025,Batch-2025-03,Design,Motion Graphics & Animation,Sneha Varma,Net Banking,No EMI (Full Payment),1,1,36000,36000,0,Partially Paid,2025-03-27,
+STU10749,Sana George,2025-04-18,Apr-2025,Batch-2025-05,Business Management,MBA Prep & Aptitude,Joseph Thomas,Online Transfer,No EMI (Full Payment),1,1,33000,33000,0,Fully Paid,2025-08-12,
+STU10750,Nazia George,2025-04-05,Apr-2025,Batch-2025-08,Business Management,Business Analytics,Fathima Rasheed,Net Banking,9-Month EMI,9,9,35500,35500,0,Fully Paid,2025-09-06,
+STU10751,Anika Varghese,2024-04-18,Apr-2024,Batch-2025-05,Cloud & DevOps,AWS Cloud Practitioner,Anand Menon,UPI,No EMI (Full Payment),1,1,26500,26500,0,Partially Paid,2025-04-07,
+STU10752,Gokul Varghese,2025-09-08,Sep-2025,Batch-2025-09,Digital Marketing,Social Media Marketing Pro,Sneha Varma,Debit Card,6-Month EMI,6,3,20500,10250,10250,Partially Paid,2025-09-10,2026-01-06
+STU10753,Ishaan Krishnan,2024-01-15,Jan-2024,Batch-2024-07,Data Science,Data Science Foundation,Meera Pillai,Net Banking,No EMI (Full Payment),1,1,43000,43000,0,Partially Paid,2024-08-25,
+STU10754,Jerin Thomas,2025-07-05,Jul-2025,Batch-2025-07,Data Science,Advanced Data Analytics,Divya Krishnan,Credit Card,3-Month EMI,3,3,40500,40500,0,Fully Paid,2025-07-24,
+STU10755,Sana Mathew,2025-03-31,Mar-2025,Batch-2025-06,Design,UI/UX Design Masterclass,Divya Krishnan,Cheque,No EMI (Full Payment),1,1,35000,35000,0,Partially Paid,2025-04-13,
+STU10756,Karthik Nair,2024-04-15,Apr-2024,Batch-2025-05,Design,Graphic Design Professional,Sneha Varma,Cheque,6-Month EMI,6,6,24500,24500,0,Fully Paid,2024-11-05,
+STU10757,Divya Das,2025-08-28,Aug-2025,Batch-2025-09,Web Development,Backend Development (Node.js),Anand Menon,Cheque,No EMI (Full Payment),1,1,37500,37500,0,Fully Paid,2025-09-01,
+STU10758,Riya Chacko,2025-03-03,Mar-2025,Batch-2025-06,Data Science,AI & Deep Learning,Sneha Varma,Cash,3-Month EMI,3,3,74500,74500,0,Fully Paid,2025-05-15,
+STU10759,Ayesha Varma,2025-04-25,Apr-2025,Batch-2025-06,Design,UI/UX Design Masterclass,Arun Prasad,Credit Card,6-Month EMI,6,6,41000,41000,0,Fully Paid,2025-09-26,
+STU10760,Nithin Kurian,2025-04-24,Apr-2025,Batch-2025-05,Digital Marketing,Social Media Marketing Pro,Joseph Thomas,UPI,9-Month EMI,9,6,20500,13666,6834,Partially Paid,2025-08-22,2025-11-20
+STU10761,Bibin Varghese,2024-06-14,Jun-2024,Batch-2024-12,Digital Marketing,Social Media Marketing Pro,Priyanka Nair,Cash,3-Month EMI,3,3,16500,16500,0,Fully Paid,2025-04-20,
+STU10762,Divya Kumar,2025-03-01,Mar-2025,Batch-2025-06,Digital Marketing,Digital Marketing Fundamentals,Meera Pillai,Cheque,No EMI (Full Payment),1,1,18000,18000,0,Fully Paid,2025-05-06,
+STU10763,Vishnu George,2024-06-11,Jun-2024,Batch-2024-11,Business Management,Project Management Professional,Anand Menon,Net Banking,No EMI (Full Payment),1,1,42000,42000,0,Fully Paid,2024-10-05,
+STU10764,Krishna Roy,2024-08-17,Aug-2024,Batch-2025-03,Digital Marketing,Advanced SEO & SEM,Fathima Rasheed,Net Banking,No EMI (Full Payment),1,1,27000,27000,0,Partially Paid,2025-08-05,
+STU10765,Sarath Das,2025-09-10,Sep-2025,Batch-2025-09,Finance,Financial Modeling & Valuation,Divya Krishnan,Net Banking,3-Month EMI,3,3,47500,47500,0,Fully Paid,2025-09-13,
+STU10766,Akhil Mukherjee,2025-09-16,Sep-2025,Batch-2025-09,Business Management,Project Management Professional,Anand Menon,Cheque,No EMI (Full Payment),1,1,37000,37000,0,Overdue,2025-09-18,
+STU10767,Ayesha Namboothiri,2025-03-28,Mar-2025,Batch-2025-09,Cloud & DevOps,DevOps Engineering,Priyanka Nair,Credit Card,6-Month EMI,6,1,45500,7583,37917,Partially Paid,2025-05-18,2025-05-27
+STU10768,Vignesh Gupta,2024-01-07,Jan-2024,Batch-2024-08,Business Management,Business Analytics,Fathima Rasheed,Debit Card,3-Month EMI,3,3,33500,33500,0,Fully Paid,2025-01-07,
+STU10769,Nazia Gupta,2025-01-04,Jan-2025,Batch-2025-04,Web Development,Backend Development (Node.js),Joseph Thomas,Net Banking,No EMI (Full Payment),1,1,35000,35000,0,Fully Paid,2025-08-01,
+STU10770,Anoop Verma,2025-06-12,Jun-2025,Batch-2025-08,Data Science,AI & Deep Learning,Sundar Raj,Net Banking,No EMI (Full Payment),1,0,77000,0,77000,Overdue,,2025-07-12
+STU10771,Karthik Sharma,2025-02-15,Feb-2025,Batch-2025-04,Design,UI/UX Design Masterclass,Joseph Thomas,Net Banking,No EMI (Full Payment),1,1,40500,40500,0,Fully Paid,2025-07-12,
+STU10772,Vihaan Thomas,2025-06-16,Jun-2025,Batch-2025-08,Design,Graphic Design Professional,Arun Prasad,Net Banking,3-Month EMI,3,3,28000,28000,0,Fully Paid,2025-07-30,
+STU10773,Aarav Kurian,2024-10-13,Oct-2024,Batch-2025-06,Cloud & DevOps,AWS Cloud Practitioner,Joseph Thomas,UPI,6-Month EMI,6,5,29500,24583,4917,Partially Paid,2025-09-11,2025-04-11
+STU10774,Vignesh Mathew,2024-12-19,Dec-2024,Batch-2025-06,Business Management,MBA Prep & Aptitude,Vishal Reddy,Online Transfer,No EMI (Full Payment),1,1,33500,33500,0,Fully Paid,2025-02-21,
+STU10775,Sneha Roy,2024-10-17,Oct-2024,Batch-2025-01,Data Science,Advanced Data Analytics,Arun Prasad,Debit Card,6-Month EMI,6,6,42500,42500,0,Fully Paid,2025-07-20,
+STU10776,Swathi Panicker,2024-09-04,Sep-2024,Batch-2025-09,Digital Marketing,Social Media Marketing Pro,Joseph Thomas,Cheque,No EMI (Full Payment),1,1,15500,15500,0,Partially Paid,2025-07-22,
+STU10777,Meera Reddy,2024-05-06,May-2024,Batch-2024-06,Business Management,Project Management Professional,Priyanka Nair,UPI,No EMI (Full Payment),1,1,35000,35000,0,Fully Paid,2024-09-03,
+STU10778,Bibin Jacob,2025-08-18,Aug-2025,Batch-2025-08,Digital Marketing,Advanced SEO & SEM,Vishal Reddy,Cash,6-Month EMI,6,2,26000,8666,17334,Partially Paid,2025-09-11,2025-11-16
+STU10779,Sneha Jacob,2024-09-10,Sep-2024,Batch-2024-10,Digital Marketing,Social Media Marketing Pro,Sneha Varma,Credit Card,9-Month EMI,9,9,18000,18000,0,Fully Paid,2024-11-24,
+STU10780,Fatima Gupta,2025-02-25,Feb-2025,Batch-2025-03,Data Science,Data Science Foundation,Joseph Thomas,Credit Card,3-Month EMI,3,3,42500,42500,0,Fully Paid,2025-08-17,
+STU10781,Sneha Rao,2025-08-25,Aug-2025,Batch-2025-09,Business Management,Business Analytics,Sneha Varma,UPI,6-Month EMI,6,4,39000,26000,13000,Partially Paid,2025-09-20,2026-01-22
+STU10782,Christy Iyer,2024-05-27,May-2024,Batch-2025-09,Web Development,Frontend Development (React),Divya Krishnan,Credit Card,12-Month EMI,12,1,33500,2791,30709,Overdue,2025-05-17,2024-07-26
+STU10783,Aadhya Verma,2025-04-29,Apr-2025,Batch-2025-04,Finance,Financial Modeling & Valuation,Arun Prasad,Debit Card,12-Month EMI,12,7,37000,21583,15417,Partially Paid,2025-05-27,2025-12-25
+STU10784,Krishna Reddy,2025-08-08,Aug-2025,Batch-2025-09,Data Science,Machine Learning Bootcamp,Priyanka Nair,Debit Card,3-Month EMI,3,3,61000,61000,0,Fully Paid,2025-09-08,
+STU10785,Vivaan Abraham,2024-05-26,May-2024,Batch-2024-09,Business Management,Project Management Professional,Joseph Thomas,Online Transfer,12-Month EMI,12,3,40000,10000,30000,Overdue,2024-08-27,2024-09-23
+STU10786,Christy Jacob,2025-05-15,May-2025,Batch-2025-05,Data Science,Advanced Data Analytics,Priyanka Nair,Net Banking,No EMI (Full Payment),1,1,48000,48000,0,Partially Paid,2025-08-09,
+STU10787,Akhil Rao,2025-05-01,May-2025,Batch-2025-09,Web Development,Full Stack Web Development,Arun Prasad,Cash,3-Month EMI,3,1,52500,17500,35000,Partially Paid,2025-07-23,2025-06-30
+STU10788,Reyansh Abraham,2025-09-30,Sep-2025,Batch-2025-09,Design,UI/UX Design Masterclass,Joseph Thomas,Debit Card,3-Month EMI,3,2,41000,27333,13667,Overdue,2025-10-01,2025-12-29
+STU10789,Farhan Pillai,2024-06-18,Jun-2024,Batch-2024-06,Cloud & DevOps,Azure Solutions Architect,Vishal Reddy,Cheque,6-Month EMI,6,2,48500,16166,32334,Partially Paid,2025-04-30,2024-09-16
+STU10790,Pooja Bose,2024-02-24,Feb-2024,Batch-2025-08,Cloud & DevOps,AWS Cloud Practitioner,Divya Krishnan,Cheque,9-Month EMI,9,3,26000,8666,17334,Partially Paid,2024-03-04,2024-06-23
+STU10791,Riya Abraham,2024-07-29,Jul-2024,Batch-2024-10,Business Management,Project Management Professional,Sneha Varma,UPI,No EMI (Full Payment),1,1,43500,43500,0,Partially Paid,2025-05-26,
+STU10792,Aditya Singh,2024-01-24,Jan-2024,Batch-2024-11,Design,UI/UX Design Masterclass,Joseph Thomas,Online Transfer,9-Month EMI,9,9,35000,35000,0,Fully Paid,2024-03-10,
+STU10793,Krishna Kumar,2025-07-08,Jul-2025,Batch-2025-07,Digital Marketing,Digital Marketing Fundamentals,Sundar Raj,Debit Card,6-Month EMI,6,6,19500,19500,0,Fully Paid,2025-08-29,
+STU10794,Yusuf Iyer,2024-03-01,Mar-2024,Batch-2025-01,Web Development,Full Stack Web Development,Anand Menon,Debit Card,3-Month EMI,3,3,50000,50000,0,Fully Paid,2024-08-13,
+STU10795,Anika Rao,2024-05-03,May-2024,Batch-2024-06,Web Development,Full Stack Web Development,Sneha Varma,Cheque,No EMI (Full Payment),1,1,53500,53500,0,Partially Paid,2024-06-30,
+STU10796,Riya Menon,2024-11-21,Nov-2024,Batch-2025-06,Cloud & DevOps,DevOps Engineering,Priyanka Nair,UPI,No EMI (Full Payment),1,1,50500,50500,0,Fully Paid,2024-11-30,
+STU10797,Riya Roy,2025-08-23,Aug-2025,Batch-2025-08,Web Development,Backend Development (Node.js),Sundar Raj,Debit Card,6-Month EMI,6,6,35500,35500,0,Fully Paid,2025-09-24,
+STU10798,Aadhya Abraham,2024-05-25,May-2024,Batch-2025-04,Cloud & DevOps,AWS Cloud Practitioner,Meera Pillai,Cheque,12-Month EMI,12,12,29500,29500,0,Fully Paid,2024-05-25,
+STU10799,Christy Verma,2025-09-27,Sep-2025,Batch-2025-09,Finance,Financial Modeling & Valuation,Anand Menon,Online Transfer,12-Month EMI,12,12,43000,43000,0,Fully Paid,2025-09-29,
+STU10800,Jerin George,2025-01-24,Jan-2025,Batch-2025-06,Business Management,Project Management Professional,Meera Pillai,Cheque,9-Month EMI,9,9,39500,39500,0,Fully Paid,2025-08-01,
+STU10801,Pooja Bose,2024-03-12,Mar-2024,Batch-2024-12,Data Science,AI & Deep Learning,Priyanka Nair,Net Banking,No EMI (Full Payment),1,0,78000,0,78000,Pending (Not Started),,2024-03-27
+STU10802,Vipin Gupta,2024-08-03,Aug-2024,Batch-2025-05,Cloud & DevOps,DevOps Engineering,Fathima Rasheed,Cash,No EMI (Full Payment),1,1,52500,52500,0,Partially Paid,2024-12-06,
+STU10803,Imran Sharma,2024-12-15,Dec-2024,Batch-2025-03,Design,Motion Graphics & Animation,Fathima Rasheed,Online Transfer,12-Month EMI,12,1,34000,2833,31167,Partially Paid,2025-08-15,2025-02-13
+STU10804,Aarav Chacko,2024-01-10,Jan-2024,Batch-2024-06,Design,Motion Graphics & Animation,Divya Krishnan,Net Banking,3-Month EMI,3,1,33500,11166,22334,Partially Paid,2024-10-11,2024-03-10
+STU10805,Vivaan Chacko,2025-03-31,Mar-2025,Batch-2025-08,Data Science,Advanced Data Analytics,Joseph Thomas,Net Banking,6-Month EMI,6,6,46500,46500,0,Fully Paid,2025-09-25,
+STU10806,Aarav Kumar,2025-04-18,Apr-2025,Batch-2025-06,Web Development,Frontend Development (React),Anand Menon,Credit Card,6-Month EMI,6,3,29500,14750,14750,Partially Paid,2025-06-06,2025-08-16
+STU10807,Reyansh Kurian,2025-09-20,Sep-2025,Batch-2025-09,Business Management,Project Management Professional,Meera Pillai,Credit Card,12-Month EMI,12,12,41000,41000,0,Fully Paid,2025-09-27,
+STU10808,Anoop Mathew,2025-09-12,Sep-2025,Batch-2025-09,Data Science,Machine Learning Bootcamp,Joseph Thomas,Online Transfer,9-Month EMI,9,9,64500,64500,0,Fully Paid,2025-09-17,
+STU10809,Nithya Varma,2025-08-02,Aug-2025,Batch-2025-08,Data Science,Machine Learning Bootcamp,Priyanka Nair,Credit Card,No EMI (Full Payment),1,1,64500,64500,0,Overdue,2025-08-14,
+STU10810,Nithin George,2024-01-24,Jan-2024,Batch-2025-06,Cloud & DevOps,DevOps Engineering,Arun Prasad,UPI,No EMI (Full Payment),1,1,47000,47000,0,Partially Paid,2024-07-07,
+STU10811,Suresh Varghese,2025-02-20,Feb-2025,Batch-2025-06,Data Science,AI & Deep Learning,Divya Krishnan,Debit Card,3-Month EMI,3,0,61500,0,61500,Overdue,,2025-03-22
+STU10812,Vihaan Panicker,2025-03-06,Mar-2025,Batch-2025-07,Design,Graphic Design Professional,Anand Menon,UPI,No EMI (Full Payment),1,0,22500,0,22500,Overdue,,2025-04-05
+STU10813,Sana Warrier,2025-03-09,Mar-2025,Batch-2025-03,Web Development,Full Stack Web Development,Sundar Raj,Debit Card,3-Month EMI,3,1,55500,18500,37000,Partially Paid,2025-07-09,2025-05-08
+STU10814,Suresh Abraham,2024-01-25,Jan-2024,Batch-2025-07,Business Management,Project Management Professional,Fathima Rasheed,Net Banking,No EMI (Full Payment),1,1,37000,37000,0,Fully Paid,2024-07-17,
+STU10815,Jerin Menon,2024-12-07,Dec-2024,Batch-2025-08,Business Management,MBA Prep & Aptitude,Priyanka Nair,Net Banking,6-Month EMI,6,4,35000,23333,11667,Partially Paid,2025-09-29,2025-05-06
+STU10816,Krishna Pillai,2024-03-03,Mar-2024,Batch-2024-04,Design,Graphic Design Professional,Priyanka Nair,Net Banking,No EMI (Full Payment),1,1,29500,29500,0,Partially Paid,2024-08-04,
+STU10817,Kavya Thomas,2025-03-18,Mar-2025,Batch-2025-03,Data Science,Data Science Foundation,Arun Prasad,Online Transfer,No EMI (Full Payment),1,1,41000,41000,0,Fully Paid,2025-08-23,
+STU10818,Nazia Gupta,2024-08-26,Aug-2024,Batch-2025-09,Cloud & DevOps,Azure Solutions Architect,Sneha Varma,Online Transfer,3-Month EMI,3,1,45500,15166,30334,Partially Paid,2025-02-15,2024-10-25
+STU10819,Farhan George,2024-01-27,Jan-2024,Batch-2025-03,Cloud & DevOps,DevOps Engineering,Sneha Varma,Credit Card,No EMI (Full Payment),1,1,40000,40000,0,Partially Paid,2024-11-25,
+STU10820,Akhil Kurian,2024-07-17,Jul-2024,Batch-2025-09,Cloud & DevOps,AWS Cloud Practitioner,Arun Prasad,Debit Card,3-Month EMI,3,2,29000,19333,9667,Partially Paid,2024-10-20,2024-10-15
+STU10821,Myra Krishnan,2024-02-15,Feb-2024,Batch-2024-03,Web Development,Frontend Development (React),Sneha Varma,UPI,3-Month EMI,3,3,31000,31000,0,Fully Paid,2024-11-18,
+STU10822,Rukhsar Krishnan,2024-05-30,May-2024,Batch-2025-08,Digital Marketing,Social Media Marketing Pro,Fathima Rasheed,Debit Card,3-Month EMI,3,3,15000,15000,0,Fully Paid,2025-05-01,
+STU10823,Yusuf Krishnan,2024-02-28,Feb-2024,Batch-2024-09,Cloud & DevOps,Azure Solutions Architect,Anand Menon,UPI,3-Month EMI,3,1,41500,13833,27667,Partially Paid,2024-04-03,2024-04-28
+STU10824,Karthik Varma,2025-05-02,May-2025,Batch-2025-08,Cloud & DevOps,Azure Solutions Architect,Fathima Rasheed,Net Banking,6-Month EMI,6,4,43500,29000,14500,Partially Paid,2025-07-25,2025-09-29
+STU10825,Ananya Kumar,2025-04-10,Apr-2025,Batch-2025-04,Design,UI/UX Design Masterclass,Anand Menon,Cash,No EMI (Full Payment),1,1,34000,34000,0,Fully Paid,2025-06-03,
+STU10826,Myra Singh,2024-12-05,Dec-2024,Batch-2025-06,Web Development,Frontend Development (React),Sundar Raj,Net Banking,12-Month EMI,12,12,31000,31000,0,Fully Paid,2025-06-06,
+STU10827,Vivaan Roy,2024-04-27,Apr-2024,Batch-2024-08,Digital Marketing,Advanced SEO & SEM,Meera Pillai,Cash,6-Month EMI,6,6,26500,26500,0,Fully Paid,2024-05-12,
+STU10828,Saanvi Varma,2024-10-17,Oct-2024,Batch-2024-12,Web Development,Frontend Development (React),Sundar Raj,Debit Card,9-Month EMI,9,9,29000,29000,0,Fully Paid,2024-10-28,
+STU10829,Diya Kurian,2024-09-25,Sep-2024,Batch-2024-10,Data Science,Machine Learning Bootcamp,Joseph Thomas,Cash,6-Month EMI,6,6,57000,57000,0,Fully Paid,2025-01-10,
+STU10830,Navya Verma,2024-09-02,Sep-2024,Batch-2025-02,Business Management,Business Analytics,Sundar Raj,Cheque,12-Month EMI,12,1,39000,3250,35750,Overdue,2024-11-01,2024-11-01
+STU10831,Rohan Chacko,2024-05-13,May-2024,Batch-2024-11,Web Development,Backend Development (Node.js),Joseph Thomas,Cash,3-Month EMI,3,3,38000,38000,0,Fully Paid,2025-04-03,
+STU10832,Myra Philip,2024-02-17,Feb-2024,Batch-2025-09,Cloud & DevOps,AWS Cloud Practitioner,Arun Prasad,Debit Card,6-Month EMI,6,6,27500,27500,0,Fully Paid,2025-01-04,
+STU10833,Akhil Panicker,2024-05-09,May-2024,Batch-2025-09,Cloud & DevOps,DevOps Engineering,Meera Pillai,Cash,No EMI (Full Payment),1,1,47500,47500,0,Partially Paid,2024-08-02,
+STU10834,Meera Rao,2025-06-05,Jun-2025,Batch-2025-08,Design,Motion Graphics & Animation,Divya Krishnan,Credit Card,3-Month EMI,3,3,38000,38000,0,Fully Paid,2025-08-05,
+STU10835,Fatima Singh,2025-04-30,Apr-2025,Batch-2025-06,Cloud & DevOps,DevOps Engineering,Sneha Varma,Cash,No EMI (Full Payment),1,1,43500,43500,0,Overdue,2025-06-29,
+STU10836,Gokul Varma,2024-11-09,Nov-2024,Batch-2025-05,Design,Motion Graphics & Animation,Sundar Raj,Net Banking,3-Month EMI,3,3,41000,41000,0,Fully Paid,2024-12-22,
+STU10837,Ishita Verma,2025-06-15,Jun-2025,Batch-2025-08,Web Development,Backend Development (Node.js),Anand Menon,UPI,3-Month EMI,3,3,33500,33500,0,Fully Paid,2025-08-13,
+STU10838,Suresh Gupta,2025-01-11,Jan-2025,Batch-2025-08,Digital Marketing,Advanced SEO & SEM,Joseph Thomas,Online Transfer,No EMI (Full Payment),1,1,22000,22000,0,Fully Paid,2025-02-18,
+STU10839,Vishnu Chacko,2024-03-25,Mar-2024,Batch-2024-12,Business Management,Project Management Professional,Arun Prasad,Cheque,6-Month EMI,6,0,39500,0,39500,Overdue,,2024-04-24
+STU10840,Krishna Pillai,2025-01-03,Jan-2025,Batch-2025-01,Cloud & DevOps,AWS Cloud Practitioner,Fathima Rasheed,Credit Card,6-Month EMI,6,6,27000,27000,0,Fully Paid,2025-05-23,
+STU10841,Saanvi Mathew,2025-09-10,Sep-2025,Batch-2025-09,Business Management,Project Management Professional,Arun Prasad,Debit Card,No EMI (Full Payment),1,1,40000,40000,0,Fully Paid,2025-09-21,
+STU10842,Akhil Rao,2025-02-19,Feb-2025,Batch-2025-02,Design,Motion Graphics & Animation,Arun Prasad,Net Banking,12-Month EMI,12,12,38500,38500,0,Fully Paid,2025-08-23,
+STU10843,Sana Varma,2025-04-30,Apr-2025,Batch-2025-05,Cloud & DevOps,Azure Solutions Architect,Arun Prasad,Net Banking,3-Month EMI,3,3,45500,45500,0,Fully Paid,2025-05-21,
+STU10844,Rahul Varghese,2024-07-11,Jul-2024,Batch-2025-01,Business Management,Project Management Professional,Joseph Thomas,Credit Card,3-Month EMI,3,3,44000,44000,0,Fully Paid,2024-09-20,
+STU10845,Deepa Varghese,2024-05-11,May-2024,Batch-2025-02,Finance,Financial Modeling & Valuation,Divya Krishnan,Net Banking,6-Month EMI,6,6,41000,41000,0,Fully Paid,2024-12-11,
+STU10846,Suresh George,2025-02-17,Feb-2025,Batch-2025-06,Digital Marketing,Social Media Marketing Pro,Anand Menon,Cheque,6-Month EMI,6,6,16000,16000,0,Fully Paid,2025-05-12,
+STU10847,Deepa Thomas,2025-09-09,Sep-2025,Batch-2025-09,Design,UI/UX Design Masterclass,Joseph Thomas,Online Transfer,3-Month EMI,3,3,33000,33000,0,Fully Paid,2025-09-19,
+STU10848,Deepa Verma,2024-11-07,Nov-2024,Batch-2024-12,Web Development,Full Stack Web Development,Arun Prasad,Credit Card,No EMI (Full Payment),1,1,56500,56500,0,Partially Paid,2025-02-10,
+STU10849,Saanvi Pillai,2025-01-30,Jan-2025,Batch-2025-05,Web Development,Full Stack Web Development,Vishal Reddy,Cash,3-Month EMI,3,3,52500,52500,0,Fully Paid,2025-06-11,
+STU10850,Aarav Iyer,2024-11-30,Nov-2024,Batch-2025-05,Design,UI/UX Design Masterclass,Priyanka Nair,Credit Card,3-Month EMI,3,2,38000,25333,12667,Partially Paid,2025-03-15,2025-02-28
+STU10851,Ishaan Varghese,2024-07-29,Jul-2024,Batch-2024-11,Design,Motion Graphics & Animation,Divya Krishnan,Credit Card,6-Month EMI,6,5,37000,30833,6167,Partially Paid,2025-07-30,2025-01-25
+STU10852,Yusuf Verma,2024-10-09,Oct-2024,Batch-2025-01,Data Science,Machine Learning Bootcamp,Divya Krishnan,Online Transfer,9-Month EMI,9,6,65000,43333,21667,Partially Paid,2025-07-27,2025-05-07
+STU10853,Vipin Singh,2025-04-16,Apr-2025,Batch-2025-07,Cloud & DevOps,AWS Cloud Practitioner,Priyanka Nair,Debit Card,6-Month EMI,6,6,28500,28500,0,Fully Paid,2025-07-01,
+STU10854,Gokul Mukherjee,2024-06-28,Jun-2024,Batch-2025-07,Web Development,Full Stack Web Development,Sneha Varma,Cash,3-Month EMI,3,0,51500,0,51500,Overdue,,2024-07-28
+STU10855,Zaid Bose,2024-04-07,Apr-2024,Batch-2025-04,Finance,Financial Modeling & Valuation,Meera Pillai,Net Banking,No EMI (Full Payment),1,1,45500,45500,0,Fully Paid,2025-03-14,
+STU10856,Renjith Pillai,2024-08-10,Aug-2024,Batch-2025-03,Design,Motion Graphics & Animation,Priyanka Nair,Debit Card,No EMI (Full Payment),1,1,33500,33500,0,Fully Paid,2025-09-13,
+STU10857,Rahul Gupta,2025-04-06,Apr-2025,Batch-2025-05,Digital Marketing,Digital Marketing Fundamentals,Arun Prasad,Online Transfer,3-Month EMI,3,2,18500,12333,6167,Partially Paid,2025-07-12,2025-07-05
+STU10858,Karthik Jacob,2025-02-12,Feb-2025,Batch-2025-05,Design,UI/UX Design Masterclass,Anand Menon,Debit Card,No EMI (Full Payment),1,1,32000,32000,0,Fully Paid,2025-08-22,
+STU10859,Mahesh Singh,2025-04-17,Apr-2025,Batch-2025-04,Data Science,Machine Learning Bootcamp,Divya Krishnan,Credit Card,3-Month EMI,3,1,59500,19833,39667,Partially Paid,2025-04-21,2025-06-16
+STU10860,Anjali Kumar,2024-06-30,Jun-2024,Batch-2025-03,Data Science,AI & Deep Learning,Sundar Raj,Online Transfer,6-Month EMI,6,2,60500,20166,40334,Partially Paid,2025-02-10,2024-09-28
+STU10861,Vishnu Iyer,2024-08-09,Aug-2024,Batch-2025-07,Data Science,Machine Learning Bootcamp,Divya Krishnan,Cash,No EMI (Full Payment),1,1,65500,65500,0,Partially Paid,2025-02-24,
+STU10862,Zaid Namboothiri,2025-03-30,Mar-2025,Batch-2025-03,Cloud & DevOps,AWS Cloud Practitioner,Anand Menon,Net Banking,3-Month EMI,3,1,26500,8833,17667,Overdue,2025-05-30,2025-05-29
+STU10863,Saanvi Pillai,2024-01-17,Jan-2024,Batch-2025-02,Data Science,Data Science Foundation,Fathima Rasheed,Net Banking,No EMI (Full Payment),1,1,36000,36000,0,Fully Paid,2024-03-06,
+STU10864,Bibin Kurian,2024-06-20,Jun-2024,Batch-2024-11,Data Science,AI & Deep Learning,Arun Prasad,Online Transfer,9-Month EMI,9,4,70500,31333,39167,Partially Paid,2025-05-05,2024-11-17
+STU10865,Aadhya Philip,2025-07-08,Jul-2025,Batch-2025-08,Design,UI/UX Design Masterclass,Meera Pillai,Credit Card,No EMI (Full Payment),1,1,35500,35500,0,Fully Paid,2025-08-28,
+STU10866,Farhan Sharma,2024-01-13,Jan-2024,Batch-2025-01,Web Development,Frontend Development (React),Meera Pillai,Online Transfer,6-Month EMI,6,3,29500,14750,14750,Partially Paid,2024-02-04,2024-05-12
+STU10867,Arjun Chacko,2024-08-11,Aug-2024,Batch-2025-02,Digital Marketing,Social Media Marketing Pro,Divya Krishnan,Online Transfer,6-Month EMI,6,0,21500,0,21500,Pending (Not Started),,2024-08-26
+STU10868,Nithin Bose,2024-06-24,Jun-2024,Batch-2025-02,Data Science,Advanced Data Analytics,Joseph Thomas,Cash,12-Month EMI,12,6,52500,26250,26250,Partially Paid,2024-09-21,2025-01-20
+STU10869,Mohammed Joseph,2024-11-21,Nov-2024,Batch-2025-09,Design,UI/UX Design Masterclass,Fathima Rasheed,Online Transfer,6-Month EMI,6,6,39500,39500,0,Fully Paid,2025-08-09,
+STU10870,Mohammed Jacob,2024-08-26,Aug-2024,Batch-2025-04,Cloud & DevOps,Azure Solutions Architect,Anand Menon,Credit Card,No EMI (Full Payment),1,1,40000,40000,0,Fully Paid,2025-09-07,
+STU10871,Suresh Joseph,2024-09-06,Sep-2024,Batch-2025-06,Data Science,Data Science Foundation,Sundar Raj,Debit Card,3-Month EMI,3,3,38500,38500,0,Fully Paid,2024-12-19,
+STU10872,Farhan Menon,2024-08-31,Aug-2024,Batch-2025-07,Cloud & DevOps,DevOps Engineering,Fathima Rasheed,Credit Card,No EMI (Full Payment),1,1,50500,50500,0,Partially Paid,2025-05-24,
+STU10873,Akhil Gupta,2024-10-22,Oct-2024,Batch-2024-10,Web Development,Backend Development (Node.js),Fathima Rasheed,Debit Card,No EMI (Full Payment),1,1,37000,37000,0,Fully Paid,2025-09-27,
+STU10874,Myra Abraham,2024-08-15,Aug-2024,Batch-2025-05,Business Management,Business Analytics,Arun Prasad,Debit Card,No EMI (Full Payment),1,1,32000,32000,0,Fully Paid,2025-04-23,
+STU10875,Arjun Varma,2024-02-23,Feb-2024,Batch-2024-06,Web Development,Full Stack Web Development,Priyanka Nair,Credit Card,6-Month EMI,6,2,58500,19500,39000,Partially Paid,2024-06-22,2024-05-23
+STU10876,Meera Pillai,2025-03-12,Mar-2025,Batch-2025-08,Design,Graphic Design Professional,Sundar Raj,Cash,No EMI (Full Payment),1,1,25500,25500,0,Fully Paid,2025-05-14,
+STU10877,Navya Namboothiri,2025-08-13,Aug-2025,Batch-2025-09,Finance,Financial Modeling & Valuation,Vishal Reddy,Net Banking,6-Month EMI,6,0,36500,0,36500,Pending (Not Started),,2025-08-28
+STU10878,Naveen Rao,2025-01-21,Jan-2025,Batch-2025-03,Design,Graphic Design Professional,Joseph Thomas,Cheque,6-Month EMI,6,4,25500,17000,8500,Partially Paid,2025-01-26,2025-06-20
+STU10879,Nazia Rao,2025-03-13,Mar-2025,Batch-2025-09,Data Science,Advanced Data Analytics,Sneha Varma,Cheque,No EMI (Full Payment),1,1,52000,52000,0,Fully Paid,2025-06-18,
+STU10880,Mahesh Namboothiri,2025-04-09,Apr-2025,Batch-2025-06,Design,Motion Graphics & Animation,Sneha Varma,UPI,No EMI (Full Payment),1,1,34000,34000,0,Partially Paid,2025-05-18,
+STU10881,Renjith Varma,2024-01-05,Jan-2024,Batch-2024-01,Business Management,Project Management Professional,Fathima Rasheed,UPI,3-Month EMI,3,2,42000,28000,14000,Overdue,2024-07-14,2024-04-04
+STU10882,Sandeep Singh,2024-11-11,Nov-2024,Batch-2025-09,Cloud & DevOps,AWS Cloud Practitioner,Joseph Thomas,Online Transfer,12-Month EMI,12,12,26000,26000,0,Fully Paid,2025-08-27,
+STU10883,Ananya Varma,2025-03-22,Mar-2025,Batch-2025-05,Business Management,Project Management Professional,Fathima Rasheed,Cheque,6-Month EMI,6,4,41000,27333,13667,Partially Paid,2025-07-08,2025-08-19
+STU10884,Sana Warrier,2024-09-05,Sep-2024,Batch-2025-04,Data Science,Advanced Data Analytics,Anand Menon,Cash,6-Month EMI,6,6,42500,42500,0,Fully Paid,2025-04-26,
+STU10885,Yusuf Krishnan,2024-09-17,Sep-2024,Batch-2024-12,Cloud & DevOps,Azure Solutions Architect,Sundar Raj,Online Transfer,No EMI (Full Payment),1,1,39500,39500,0,Partially Paid,2025-04-08,
+STU10886,Fatima Bose,2024-03-23,Mar-2024,Batch-2025-07,Web Development,Frontend Development (React),Sundar Raj,Net Banking,3-Month EMI,3,3,30000,30000,0,Fully Paid,2024-12-20,
+STU10887,Imran Chacko,2025-01-26,Jan-2025,Batch-2025-05,Finance,Investment Banking Prep,Priyanka Nair,Online Transfer,6-Month EMI,6,2,62500,20833,41667,Partially Paid,2025-04-04,2025-04-26
+STU10888,Sana Varma,2025-02-11,Feb-2025,Batch-2025-06,Data Science,Machine Learning Bootcamp,Divya Krishnan,Online Transfer,No EMI (Full Payment),1,1,67500,67500,0,Partially Paid,2025-07-28,
+STU10889,Ishita Jacob,2025-03-17,Mar-2025,Batch-2025-04,Web Development,Frontend Development (React),Sundar Raj,Cash,No EMI (Full Payment),1,1,33000,33000,0,Fully Paid,2025-04-14,
+STU10890,Vignesh Bose,2024-08-05,Aug-2024,Batch-2024-10,Web Development,Full Stack Web Development,Sundar Raj,Net Banking,6-Month EMI,6,0,49000,0,49000,Pending (Not Started),,2024-08-20
+STU10891,Sarath Gupta,2025-03-27,Mar-2025,Batch-2025-08,Cloud & DevOps,AWS Cloud Practitioner,Sundar Raj,Online Transfer,No EMI (Full Payment),1,1,28000,28000,0,Fully Paid,2025-04-12,
+STU10892,Karthik Nair,2025-08-22,Aug-2025,Batch-2025-08,Design,Graphic Design Professional,Priyanka Nair,Online Transfer,No EMI (Full Payment),1,0,28000,0,28000,Pending (Not Started),,2025-09-06
+STU10893,Imran Bose,2024-02-12,Feb-2024,Batch-2024-05,Web Development,Backend Development (Node.js),Anand Menon,UPI,6-Month EMI,6,3,32500,16250,16250,Overdue,2025-03-05,2024-06-11
+STU10894,Karthik Mukherjee,2025-03-15,Mar-2025,Batch-2025-05,Digital Marketing,Social Media Marketing Pro,Fathima Rasheed,Debit Card,9-Month EMI,9,7,18000,14000,4000,Partially Paid,2025-08-18,2025-11-10
+STU10895,Vihaan Reddy,2024-12-04,Dec-2024,Batch-2025-01,Data Science,AI & Deep Learning,Joseph Thomas,Cash,9-Month EMI,9,9,64500,64500,0,Fully Paid,2025-02-04,
+STU10896,Sarath Das,2024-10-13,Oct-2024,Batch-2025-09,Business Management,MBA Prep & Aptitude,Fathima Rasheed,UPI,6-Month EMI,6,6,36000,36000,0,Fully Paid,2025-09-16,
+STU10897,Saanvi Nair,2024-11-25,Nov-2024,Batch-2024-11,Finance,Investment Banking Prep,Anand Menon,Net Banking,6-Month EMI,6,6,61000,61000,0,Fully Paid,2025-07-31,
+STU10898,Gokul Jacob,2025-09-19,Sep-2025,Batch-2025-09,Digital Marketing,Advanced SEO & SEM,Divya Krishnan,Cash,9-Month EMI,9,9,27500,27500,0,Fully Paid,2025-09-25,
+STU10899,Ishita Mukherjee,2024-07-18,Jul-2024,Batch-2025-06,Web Development,Backend Development (Node.js),Sneha Varma,Net Banking,9-Month EMI,9,9,36500,36500,0,Fully Paid,2025-03-29,
+STU10900,Akhil Pillai,2024-11-04,Nov-2024,Batch-2025-09,Cloud & DevOps,DevOps Engineering,Sundar Raj,UPI,12-Month EMI,12,4,48000,16000,32000,Partially Paid,2025-03-08,2025-04-03
+STU10901,Aadhya Iyer,2024-04-01,Apr-2024,Batch-2024-07,Design,Motion Graphics & Animation,Anand Menon,Credit Card,12-Month EMI,12,4,37500,12500,25000,Overdue,2024-07-22,2024-08-29
+STU10902,Ayesha Panicker,2025-05-02,May-2025,Batch-2025-05,Finance,Financial Modeling & Valuation,Arun Prasad,Cash,6-Month EMI,6,3,36500,18250,18250,Partially Paid,2025-06-28,2025-08-30
+STU10903,Sreekutty Bose,2025-09-07,Sep-2025,Batch-2025-09,Finance,Investment Banking Prep,Joseph Thomas,Cash,6-Month EMI,6,6,62000,62000,0,Fully Paid,2025-09-27,
+STU10904,Akhil Roy,2025-03-23,Mar-2025,Batch-2025-09,Web Development,Full Stack Web Development,Vishal Reddy,Online Transfer,No EMI (Full Payment),1,1,47000,47000,0,Fully Paid,2025-09-28,
+STU10905,Swathi Philip,2024-07-11,Jul-2024,Batch-2025-06,Data Science,Advanced Data Analytics,Sundar Raj,Net Banking,3-Month EMI,3,1,46000,15333,30667,Partially Paid,2024-12-17,2024-09-09
+STU10906,Vihaan Bose,2025-07-02,Jul-2025,Batch-2025-07,Business Management,Business Analytics,Joseph Thomas,Debit Card,6-Month EMI,6,6,34000,34000,0,Fully Paid,2025-09-17,
+STU10907,Swathi Warrier,2024-04-19,Apr-2024,Batch-2025-04,Data Science,AI & Deep Learning,Fathima Rasheed,Credit Card,9-Month EMI,9,8,69500,61777,7723,Partially Paid,2025-04-02,2025-01-14
+STU10908,Mahesh Krishnan,2025-09-07,Sep-2025,Batch-2025-09,Web Development,Backend Development (Node.js),Anand Menon,Cheque,3-Month EMI,3,0,36000,0,36000,Pending (Not Started),,2025-09-22
+STU10909,Krishna Panicker,2025-08-10,Aug-2025,Batch-2025-09,Finance,Financial Modeling & Valuation,Divya Krishnan,Debit Card,6-Month EMI,6,6,41000,41000,0,Fully Paid,2025-09-30,
+STU10910,Karthik Krishnan,2024-08-03,Aug-2024,Batch-2025-09,Finance,Financial Modeling & Valuation,Anand Menon,Net Banking,6-Month EMI,6,3,43000,21500,21500,Partially Paid,2025-07-06,2024-12-01
+STU10911,Renjith Varghese,2024-06-12,Jun-2024,Batch-2024-06,Cloud & DevOps,DevOps Engineering,Fathima Rasheed,UPI,6-Month EMI,6,4,45500,30333,15167,Partially Paid,2024-07-18,2024-11-09
+STU10912,Sneha Jacob,2024-10-16,Oct-2024,Batch-2025-02,Finance,Financial Modeling & Valuation,Arun Prasad,UPI,No EMI (Full Payment),1,1,40500,40500,0,Partially Paid,2025-03-20,
+STU10913,Mahesh Thomas,2024-06-16,Jun-2024,Batch-2024-10,Design,Motion Graphics & Animation,Divya Krishnan,Debit Card,9-Month EMI,9,9,35500,35500,0,Fully Paid,2025-07-04,
+STU10914,Saanvi Jacob,2024-01-10,Jan-2024,Batch-2024-12,Finance,Tally & GST Practitioner,Priyanka Nair,Cash,6-Month EMI,6,6,13000,13000,0,Fully Paid,2024-08-15,
+STU10915,Yusuf Kurian,2024-06-21,Jun-2024,Batch-2024-07,Data Science,Advanced Data Analytics,Divya Krishnan,Credit Card,12-Month EMI,12,0,42000,0,42000,Pending (Not Started),,2024-07-06
+STU10916,Farhan Sharma,2025-08-30,Aug-2025,Batch-2025-09,Web Development,Backend Development (Node.js),Joseph Thomas,Credit Card,No EMI (Full Payment),1,1,32000,32000,0,Fully Paid,2025-09-18,
+STU10917,Zaid Mukherjee,2024-06-25,Jun-2024,Batch-2025-06,Business Management,Project Management Professional,Priyanka Nair,Net Banking,3-Month EMI,3,3,41500,41500,0,Fully Paid,2025-05-25,
+STU10918,Vignesh Reddy,2024-01-12,Jan-2024,Batch-2024-04,Data Science,Data Science Foundation,Priyanka Nair,UPI,6-Month EMI,6,6,43500,43500,0,Fully Paid,2024-11-07,
+STU10919,Deepa Bose,2025-05-06,May-2025,Batch-2025-07,Finance,Tally & GST Practitioner,Priyanka Nair,Net Banking,6-Month EMI,6,6,15000,15000,0,Fully Paid,2025-08-25,
+STU10920,Navya Bose,2024-05-08,May-2024,Batch-2024-08,Digital Marketing,Digital Marketing Fundamentals,Arun Prasad,Credit Card,3-Month EMI,3,3,23500,23500,0,Fully Paid,2025-02-16,
+STU10921,Christy Roy,2025-06-26,Jun-2025,Batch-2025-09,Data Science,Data Science Foundation,Meera Pillai,Cash,9-Month EMI,9,2,38000,8444,29556,Overdue,2025-06-26,2025-09-24
+STU10922,Nithya Verma,2024-11-17,Nov-2024,Batch-2024-12,Data Science,Machine Learning Bootcamp,Sneha Varma,Credit Card,6-Month EMI,6,1,56500,9416,47084,Partially Paid,2024-12-30,2025-01-16
+STU10923,Krishna Das,2024-11-01,Nov-2024,Batch-2025-04,Cloud & DevOps,AWS Cloud Practitioner,Joseph Thomas,Cash,No EMI (Full Payment),1,1,27500,27500,0,Fully Paid,2025-07-24,
+STU10924,Anoop Abraham,2024-10-27,Oct-2024,Batch-2025-08,Cloud & DevOps,DevOps Engineering,Sundar Raj,Cheque,3-Month EMI,3,3,45000,45000,0,Fully Paid,2025-04-25,
+STU10925,Anjali Roy,2025-06-06,Jun-2025,Batch-2025-07,Finance,Financial Modeling & Valuation,Anand Menon,Credit Card,No EMI (Full Payment),1,1,37500,37500,0,Fully Paid,2025-09-20,
+STU10926,Aadhya Krishnan,2025-09-08,Sep-2025,Batch-2025-09,Cloud & DevOps,DevOps Engineering,Vishal Reddy,Credit Card,6-Month EMI,6,6,47000,47000,0,Fully Paid,2025-09-16,
+STU10927,Anika Rao,2024-06-16,Jun-2024,Batch-2025-06,Design,UI/UX Design Masterclass,Vishal Reddy,Cash,3-Month EMI,3,3,41500,41500,0,Fully Paid,2024-09-28,
+STU10928,Arjun Thomas,2024-10-02,Oct-2024,Batch-2025-08,Finance,Tally & GST Practitioner,Meera Pillai,Cash,3-Month EMI,3,1,17500,5833,11667,Partially Paid,2025-05-04,2024-12-01
+STU10929,Christy Krishnan,2024-11-19,Nov-2024,Batch-2025-05,Design,UI/UX Design Masterclass,Sneha Varma,Credit Card,No EMI (Full Payment),1,1,32000,32000,0,Fully Paid,2025-08-26,
+STU10930,Arun Pillai,2024-12-03,Dec-2024,Batch-2025-01,Digital Marketing,Advanced SEO & SEM,Vishal Reddy,Credit Card,9-Month EMI,9,9,22000,22000,0,Fully Paid,2025-01-22,
+STU10931,Sandeep Warrier,2025-01-22,Jan-2025,Batch-2025-02,Business Management,MBA Prep & Aptitude,Sundar Raj,Cheque,6-Month EMI,6,4,33000,22000,11000,Partially Paid,2025-02-15,2025-06-21
+STU10932,Sneha Reddy,2025-08-08,Aug-2025,Batch-2025-09,Cloud & DevOps,DevOps Engineering,Sneha Varma,Online Transfer,9-Month EMI,9,9,43000,43000,0,Fully Paid,2025-09-25,
+STU10933,Sandeep Iyer,2024-12-19,Dec-2024,Batch-2025-08,Cloud & DevOps,Azure Solutions Architect,Joseph Thomas,UPI,6-Month EMI,6,6,42000,42000,0,Fully Paid,2025-09-07,
+STU10934,Fatima Krishnan,2024-05-09,May-2024,Batch-2024-09,Design,Motion Graphics & Animation,Vishal Reddy,Online Transfer,12-Month EMI,12,0,42500,0,42500,Pending (Not Started),,2024-05-24
+STU10935,Fatima Joseph,2024-09-12,Sep-2024,Batch-2025-07,Cloud & DevOps,DevOps Engineering,Divya Krishnan,Credit Card,3-Month EMI,3,2,46000,30666,15334,Partially Paid,2025-01-31,2024-12-11
+STU10936,Suresh Das,2024-08-22,Aug-2024,Batch-2024-12,Finance,Financial Modeling & Valuation,Vishal Reddy,UPI,6-Month EMI,6,1,36500,6083,30417,Partially Paid,2025-08-30,2024-10-21
+STU10937,Myra Pillai,2024-06-18,Jun-2024,Batch-2024-07,Data Science,Advanced Data Analytics,Arun Prasad,UPI,9-Month EMI,9,0,40000,0,40000,Pending (Not Started),,2024-07-03
+STU10938,Suresh George,2025-06-04,Jun-2025,Batch-2025-07,Design,Graphic Design Professional,Arun Prasad,Cash,12-Month EMI,12,12,29500,29500,0,Fully Paid,2025-06-19,
+STU10939,Gokul Nair,2025-09-23,Sep-2025,Batch-2025-09,Business Management,Project Management Professional,Anand Menon,Cash,3-Month EMI,3,1,44000,14666,29334,Partially Paid,2025-09-23,2025-11-22
+STU10940,Anjali Verma,2024-06-21,Jun-2024,Batch-2025-01,Web Development,Full Stack Web Development,Fathima Rasheed,Net Banking,No EMI (Full Payment),1,0,51000,0,51000,Pending (Not Started),,2024-07-06
+STU10941,Suresh Singh,2025-01-23,Jan-2025,Batch-2025-03,Digital Marketing,Digital Marketing Fundamentals,Fathima Rasheed,Cash,No EMI (Full Payment),1,0,22500,0,22500,Overdue,,2025-02-22
+STU10942,Ishita Namboothiri,2025-05-09,May-2025,Batch-2025-07,Digital Marketing,Digital Marketing Fundamentals,Anand Menon,Cash,6-Month EMI,6,6,21000,21000,0,Fully Paid,2025-07-26,
+STU10943,Sreekutty Philip,2025-06-11,Jun-2025,Batch-2025-06,Design,Motion Graphics & Animation,Divya Krishnan,Online Transfer,3-Month EMI,3,3,42000,42000,0,Fully Paid,2025-07-19,
+STU10944,Vishnu Kumar,2024-01-06,Jan-2024,Batch-2024-12,Finance,Financial Modeling & Valuation,Joseph Thomas,Debit Card,No EMI (Full Payment),1,1,42000,42000,0,Fully Paid,2024-02-18,
+STU10945,Sneha Das,2024-06-06,Jun-2024,Batch-2025-07,Data Science,AI & Deep Learning,Anand Menon,Credit Card,6-Month EMI,6,6,68000,68000,0,Fully Paid,2024-12-25,
+STU10946,Naveen Namboothiri,2025-01-08,Jan-2025,Batch-2025-07,Web Development,Backend Development (Node.js),Vishal Reddy,Online Transfer,12-Month EMI,12,12,35000,35000,0,Fully Paid,2025-07-08,
+STU10947,Sana Gupta,2024-01-06,Jan-2024,Batch-2024-12,Business Management,Project Management Professional,Meera Pillai,Online Transfer,No EMI (Full Payment),1,1,35500,35500,0,Fully Paid,2024-08-08,
+STU10948,Sana Sharma,2024-02-02,Feb-2024,Batch-2024-07,Finance,Financial Modeling & Valuation,Divya Krishnan,Cash,12-Month EMI,12,12,37000,37000,0,Fully Paid,2024-11-09,
+STU10949,Divya Abraham,2024-05-10,May-2024,Batch-2025-03,Business Management,Business Analytics,Arun Prasad,Cash,12-Month EMI,12,12,38500,38500,0,Fully Paid,2024-07-04,
+STU10950,Akhil Nair,2024-05-09,May-2024,Batch-2024-09,Digital Marketing,Social Media Marketing Pro,Anand Menon,Net Banking,6-Month EMI,6,3,15500,7750,7750,Partially Paid,2024-12-14,2024-09-06
+STU10951,Anjali Jacob,2024-01-09,Jan-2024,Batch-2025-02,Design,Graphic Design Professional,Vishal Reddy,UPI,No EMI (Full Payment),1,1,25500,25500,0,Fully Paid,2024-03-27,
+STU10952,Ayesha Das,2024-07-10,Jul-2024,Batch-2024-10,Digital Marketing,Digital Marketing Fundamentals,Vishal Reddy,Cash,No EMI (Full Payment),1,1,24500,24500,0,Fully Paid,2025-03-09,
+STU10953,Fatima Abraham,2024-04-15,Apr-2024,Batch-2025-08,Cloud & DevOps,AWS Cloud Practitioner,Meera Pillai,Net Banking,6-Month EMI,6,6,30000,30000,0,Fully Paid,2024-06-15,
+STU10954,Ishaan Rao,2024-02-09,Feb-2024,Batch-2024-10,Web Development,Full Stack Web Development,Joseph Thomas,Online Transfer,6-Month EMI,6,3,46500,23250,23250,Overdue,2024-09-04,2024-06-08
+STU10955,Sneha Namboothiri,2024-08-24,Aug-2024,Batch-2024-11,Digital Marketing,Advanced SEO & SEM,Divya Krishnan,Online Transfer,3-Month EMI,3,3,25500,25500,0,Fully Paid,2024-10-19,
+STU10956,Riya Reddy,2024-10-14,Oct-2024,Batch-2025-03,Finance,Investment Banking Prep,Meera Pillai,Debit Card,9-Month EMI,9,9,53000,53000,0,Fully Paid,2024-11-09,
+STU10957,Imran Jacob,2024-11-25,Nov-2024,Batch-2025-02,Digital Marketing,Advanced SEO & SEM,Vishal Reddy,Cheque,No EMI (Full Payment),1,1,21500,21500,0,Fully Paid,2025-08-03,
+STU10958,Naveen Sharma,2024-11-07,Nov-2024,Batch-2024-12,Data Science,Data Science Foundation,Arun Prasad,Net Banking,9-Month EMI,9,9,40500,40500,0,Fully Paid,2025-05-11,
+STU10959,Sana Joseph,2025-08-26,Aug-2025,Batch-2025-09,Web Development,Backend Development (Node.js),Vishal Reddy,Credit Card,6-Month EMI,6,1,29500,4916,24584,Overdue,2025-09-02,2025-10-25
+STU10960,Aditya Bose,2024-07-14,Jul-2024,Batch-2024-10,Finance,Investment Banking Prep,Priyanka Nair,Online Transfer,12-Month EMI,12,12,60000,60000,0,Fully Paid,2025-07-20,
+STU10961,Priya Joseph,2024-07-25,Jul-2024,Batch-2025-03,Finance,Financial Modeling & Valuation,Anand Menon,Credit Card,No EMI (Full Payment),1,1,44000,44000,0,Partially Paid,2025-01-28,
+STU10962,Vignesh Thomas,2024-04-30,Apr-2024,Batch-2025-05,Data Science,AI & Deep Learning,Joseph Thomas,Cheque,12-Month EMI,12,3,76500,19125,57375,Partially Paid,2025-03-02,2024-08-28
+STU10963,Riya Mathew,2024-05-12,May-2024,Batch-2025-02,Data Science,Data Science Foundation,Meera Pillai,Cash,9-Month EMI,9,2,43000,9555,33445,Partially Paid,2024-08-04,2024-08-10
+STU10964,Vignesh Joseph,2025-06-05,Jun-2025,Batch-2025-09,Cloud & DevOps,DevOps Engineering,Joseph Thomas,Cheque,No EMI (Full Payment),1,1,43000,43000,0,Fully Paid,2025-08-17,
+STU10965,Aadhya Bose,2024-01-10,Jan-2024,Batch-2025-05,Design,Motion Graphics & Animation,Arun Prasad,Debit Card,3-Month EMI,3,3,35500,35500,0,Fully Paid,2024-05-26,
+STU10966,Nithya Kumar,2024-06-24,Jun-2024,Batch-2025-01,Data Science,Machine Learning Bootcamp,Vishal Reddy,Online Transfer,6-Month EMI,6,6,69500,69500,0,Fully Paid,2024-08-31,
+STU10967,Riya Varghese,2024-02-22,Feb-2024,Batch-2024-09,Business Management,MBA Prep & Aptitude,Arun Prasad,Online Transfer,No EMI (Full Payment),1,1,33500,33500,0,Partially Paid,2024-08-06,
+STU10968,Reyansh Mathew,2025-07-16,Jul-2025,Batch-2025-08,Finance,Financial Modeling & Valuation,Joseph Thomas,Cheque,No EMI (Full Payment),1,1,36000,36000,0,Partially Paid,2025-08-30,
+STU10969,Kiara Jacob,2024-10-13,Oct-2024,Batch-2024-12,Digital Marketing,Digital Marketing Fundamentals,Arun Prasad,Cash,12-Month EMI,12,9,24500,18375,6125,Overdue,2024-12-06,2025-08-09
+STU10970,Ayesha Jacob,2025-01-26,Jan-2025,Batch-2025-05,Business Management,Project Management Professional,Sneha Varma,Cheque,No EMI (Full Payment),1,1,42000,42000,0,Fully Paid,2025-04-04,
+STU10971,Aadhya Bose,2025-02-08,Feb-2025,Batch-2025-04,Design,UI/UX Design Masterclass,Joseph Thomas,Debit Card,No EMI (Full Payment),1,1,38000,38000,0,Fully Paid,2025-03-26,
+STU10972,Mahesh Iyer,2024-06-29,Jun-2024,Batch-2024-12,Cloud & DevOps,DevOps Engineering,Sundar Raj,Cash,No EMI (Full Payment),1,1,45000,45000,0,Fully Paid,2024-09-27,
+STU10973,Christy Rao,2025-09-14,Sep-2025,Batch-2025-09,Data Science,Machine Learning Bootcamp,Priyanka Nair,UPI,No EMI (Full Payment),1,1,70000,70000,0,Partially Paid,2025-09-17,
+STU10974,Ayesha Das,2024-05-20,May-2024,Batch-2024-05,Cloud & DevOps,AWS Cloud Practitioner,Joseph Thomas,UPI,No EMI (Full Payment),1,1,32000,32000,0,Fully Paid,2025-04-14,
+STU10975,Sreekutty Menon,2024-05-15,May-2024,Batch-2024-12,Business Management,MBA Prep & Aptitude,Vishal Reddy,Credit Card,12-Month EMI,12,12,38000,38000,0,Fully Paid,2024-05-19,
+STU10976,Akhil Kumar,2025-07-09,Jul-2025,Batch-2025-09,Business Management,Business Analytics,Priyanka Nair,Credit Card,No EMI (Full Payment),1,0,41000,0,41000,Overdue,,2025-08-08
+STU10977,Navya Sharma,2025-05-05,May-2025,Batch-2025-06,Web Development,Full Stack Web Development,Arun Prasad,Cash,No EMI (Full Payment),1,1,54000,54000,0,Fully Paid,2025-05-16,
+STU10978,Sai Roy,2024-10-30,Oct-2024,Batch-2024-11,Cloud & DevOps,DevOps Engineering,Sundar Raj,Online Transfer,12-Month EMI,12,12,40500,40500,0,Fully Paid,2025-05-15,
+STU10979,Rohan Reddy,2024-10-20,Oct-2024,Batch-2025-01,Finance,Investment Banking Prep,Priyanka Nair,UPI,No EMI (Full Payment),1,1,52000,52000,0,Fully Paid,2025-03-13,
+STU10980,Vishnu Pillai,2025-09-22,Sep-2025,Batch-2025-09,Data Science,Advanced Data Analytics,Priyanka Nair,Online Transfer,6-Month EMI,6,6,43000,43000,0,Fully Paid,2025-09-27,
+STU10981,Anjali Iyer,2025-03-11,Mar-2025,Batch-2025-04,Finance,Tally & GST Practitioner,Vishal Reddy,Cheque,9-Month EMI,9,4,15000,6666,8334,Overdue,2025-07-16,2025-08-08
+STU10982,Imran Reddy,2024-09-28,Sep-2024,Batch-2025-09,Finance,Financial Modeling & Valuation,Anand Menon,Net Banking,12-Month EMI,12,3,37500,9375,28125,Partially Paid,2025-03-10,2025-01-26
+STU10983,Rohan Rao,2025-04-02,Apr-2025,Batch-2025-09,Business Management,Business Analytics,Priyanka Nair,Online Transfer,6-Month EMI,6,6,36500,36500,0,Fully Paid,2025-06-23,
+STU10984,Ishaan Iyer,2025-01-29,Jan-2025,Batch-2025-06,Digital Marketing,Advanced SEO & SEM,Joseph Thomas,UPI,6-Month EMI,6,3,23500,11750,11750,Partially Paid,2025-03-05,2025-05-29
+STU10985,Bibin Thomas,2024-09-08,Sep-2024,Batch-2025-03,Design,Motion Graphics & Animation,Divya Krishnan,Cheque,3-Month EMI,3,3,40500,40500,0,Fully Paid,2025-01-03,
+STU10986,Sandeep Pillai,2025-08-17,Aug-2025,Batch-2025-09,Cloud & DevOps,Azure Solutions Architect,Meera Pillai,Cash,No EMI (Full Payment),1,1,44000,44000,0,Fully Paid,2025-08-18,
+STU10987,Naveen Roy,2025-04-30,Apr-2025,Batch-2025-05,Data Science,Data Science Foundation,Fathima Rasheed,Debit Card,9-Month EMI,9,9,37500,37500,0,Fully Paid,2025-06-05,
+STU10988,Jerin Varghese,2025-07-18,Jul-2025,Batch-2025-08,Web Development,Full Stack Web Development,Meera Pillai,Online Transfer,6-Month EMI,6,0,47000,0,47000,Pending (Not Started),,2025-08-02
+STU10989,Fatima Krishnan,2025-01-21,Jan-2025,Batch-2025-01,Finance,Investment Banking Prep,Fathima Rasheed,Online Transfer,6-Month EMI,6,4,61000,40666,20334,Partially Paid,2025-08-23,2025-06-20
+STU10990,Anjali Varghese,2024-06-10,Jun-2024,Batch-2024-06,Web Development,Frontend Development (React),Sundar Raj,Online Transfer,No EMI (Full Payment),1,1,25000,25000,0,Partially Paid,2024-08-25,
+STU10991,Nazia Iyer,2025-04-26,Apr-2025,Batch-2025-09,Web Development,Backend Development (Node.js),Arun Prasad,Cash,12-Month EMI,12,12,35500,35500,0,Fully Paid,2025-07-21,
+STU10992,Vignesh Abraham,2024-01-14,Jan-2024,Batch-2024-10,Data Science,Machine Learning Bootcamp,Anand Menon,Cash,No EMI (Full Payment),1,1,67500,67500,0,Fully Paid,2024-04-05,
+STU10993,Aarav Rao,2025-03-09,Mar-2025,Batch-2025-08,Design,Motion Graphics & Animation,Vishal Reddy,Cheque,3-Month EMI,3,3,43500,43500,0,Fully Paid,2025-04-18,
+STU10994,Riya Pillai,2025-06-18,Jun-2025,Batch-2025-09,Web Development,Backend Development (Node.js),Meera Pillai,UPI,6-Month EMI,6,6,31500,31500,0,Fully Paid,2025-09-21,
+STU10995,Nithya Mukherjee,2024-03-20,Mar-2024,Batch-2025-05,Design,Graphic Design Professional,Joseph Thomas,Net Banking,3-Month EMI,3,2,22500,15000,7500,Partially Paid,2024-06-27,2024-06-18
+STU10996,Riya Kumar,2024-04-16,Apr-2024,Batch-2024-06,Digital Marketing,Social Media Marketing Pro,Fathima Rasheed,Online Transfer,No EMI (Full Payment),1,1,16500,16500,0,Fully Paid,2024-05-19,
+STU10997,Aadhya Mukherjee,2024-01-12,Jan-2024,Batch-2024-10,Web Development,Backend Development (Node.js),Meera Pillai,Cash,12-Month EMI,12,12,32000,32000,0,Fully Paid,2024-10-29,
+STU10998,Deepa Menon,2025-07-31,Jul-2025,Batch-2025-08,Data Science,Data Science Foundation,Fathima Rasheed,Online Transfer,12-Month EMI,12,0,35000,0,35000,Pending (Not Started),,2025-08-15
+STU10999,Nazia Namboothiri,2025-02-11,Feb-2025,Batch-2025-05,Digital Marketing,Advanced SEO & SEM,Fathima Rasheed,Credit Card,6-Month EMI,6,6,21000,21000,0,Fully Paid,2025-09-28,
+STU11000,Sana Das,2024-04-13,Apr-2024,Batch-2025-08,Business Management,MBA Prep & Aptitude,Anand Menon,Cheque,6-Month EMI,6,1,36000,6000,30000,Partially Paid,2024-09-08,2024-06-12
